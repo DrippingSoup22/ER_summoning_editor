@@ -84,10 +84,10 @@ type Settings struct {
 	// open Ash's options and kept for every Ash and every run.
 	ShowSight bool `json:"show_sight"`
 	HideKnobs bool `json:"hide_knobs"`
-	// Windowed is the editor in a window rather than full screen. Full
-	// screen is the default, so a settings file
-	// without the field opens full screen.
-	Windowed bool `json:"windowed"`
+	// FullScreen fills the screen with the editor. A window is the default on
+	// every system, so a settings file without the field opens a window (the
+	// old "windowed" key is no longer read).
+	FullScreen bool `json:"full_screen"`
 }
 
 // The display scale was here and is gone. It multiplied the whole window -
@@ -466,7 +466,7 @@ const sizeSliderWidth = unit.Dp(200)
 func (s *State) fullScreenControl(th *material.Theme) layout.Widget {
 	return func(gtx layout.Context) layout.Dimensions {
 		if s.fullScreen.Update(gtx) {
-			s.settings.Windowed = !s.fullScreen.Value
+			s.settings.FullScreen = s.fullScreen.Value
 			s.applySettings()
 			s.applyWindowMode()
 		}

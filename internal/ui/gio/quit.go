@@ -1,8 +1,8 @@
 package gio
 
-// Leaving the editor, and the window it fills. Full screen is the default and
-// a full-screen window has no title bar to close it from, so Esc asks, in a
-// small dialog, whether to close the editor.
+// Leaving the editor, and the window it opens in. A full-screen window, which
+// Settings offers, has no title bar to close it from, so Esc asks, in a small
+// dialog, whether to close the editor.
 
 import (
 	"fmt"
@@ -23,9 +23,9 @@ const (
 	windowMinWidth, windowMinHeight = unit.Dp(1180), unit.Dp(760)
 )
 
-// FullScreen reports whether the editor fills the screen: the default, until
-// the player turns it off in Settings.
-func (s *State) FullScreen() bool { return !s.settings.Windowed }
+// FullScreen reports whether the editor fills the screen: off by default, on
+// every system, until the player turns it on in Settings.
+func (s *State) FullScreen() bool { return s.settings.FullScreen }
 
 // WindowOptions are the window's options at creation. Full screen comes after
 // Size, because the options apply in order and Size puts the mode back to
@@ -33,8 +33,8 @@ func (s *State) FullScreen() bool { return !s.settings.Windowed }
 func (s *State) WindowOptions() []app.Option {
 	options := []app.Option{
 		app.Title("ER Summoning Editor"),
-		app.Size(windowWidth, windowHeight),
-		app.MinSize(windowMinWidth, windowMinHeight),
+		app.Size(s.scaled(windowWidth), s.scaled(windowHeight)),
+		app.MinSize(s.scaled(windowMinWidth), s.scaled(windowMinHeight)),
 	}
 	if s.FullScreen() {
 		options = append(options, app.Fullscreen.Option())
@@ -52,7 +52,17 @@ func (s *State) applyWindowMode() {
 		s.win.Option(app.Fullscreen.Option())
 		return
 	}
-	s.win.Option(app.Size(windowWidth, windowHeight))
+	s.win.Option(app.Size(s.scaled(windowWidth), s.scaled(windowHeight)))
+}
+
+// scaled is a window size at the scale the frames are drawn at. Gio sizes a
+// window with the system's scale alone, so without this a window drawn at 1.25
+// would hold a fifth less of the layout than it was designed for.
+func (s *State) scaled(size unit.Dp) unit.Dp {
+	if s.windowScale <= 0 {
+		return size
+	}
+	return size * unit.Dp(s.windowScale)
 }
 
 // quitWidth is the dialog: a question, what closing loses, and two buttons.

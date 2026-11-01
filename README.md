@@ -6,8 +6,8 @@ enemies, NPCs, wildlife, the game's own spirits, even your own characters -
 place each one around you, and choose how it fights: at your side, on its own,
 or against you.
 
-The desktop editor runs on **Windows**. A command-line tool with the same
-engine runs on Windows, Linux and macOS.
+The editor is available for **Windows and Linux**, together with a
+command-line tool that has the same engine.
 
 **[Download the latest release →](../../releases/latest)**
 
@@ -49,9 +49,8 @@ between steps 2 and 3.
 
 ## Quick start
 
-1. Download the Windows archive, extract it (Windows 11 opens `.tar.gz` in
-   File Explorer; on Windows 10, run `tar -xf` on it), and run
-   `ER Summoning Editor.exe`.
+1. Download the zip for your system, extract it, and run
+   `ERSummoningEditor.exe` on Windows or `ERSummoningEditor` on Linux.
 2. Make a backup, then decrypt the PS4 save with your usual save tool.
 3. Paste or browse to the decrypted `memory.dat` and select **Load**.
 4. Make your changes. **Pending (N)** shows everything waiting to be written;
@@ -59,6 +58,11 @@ between steps 2 and 3.
 5. Select **Save file as...** and choose a new destination.
 6. Prepare the output for your console with the same external save workflow.
    If you play online, follow the two-load procedure above.
+
+On Linux, file dialogs require `zenity`, `matedialog`, or `qarma`; install one
+with your distribution's package manager if Browse or Save does not open.
+Under WSL the window is scaled by 1.25, to match Windows' usual 125%; set
+`ER_EDITOR_UI_SCALE` (0.5 to 3) to choose another scale.
 
 ## Features
 
@@ -231,16 +235,18 @@ The required Go version is declared in `go.mod`. `GOTOOLCHAIN=auto` can fetch
 it, and the first build may also need to download module dependencies.
 
 ```sh
-sh scripts/build-windows.sh     # the desktop editor, dist/ER Summoning Editor.exe
-go build ./cmd/ersummoneditor   # the command-line tool
+VERSION=1.0.0 sh scripts/build-windows.sh   # dist/ER-Summoning-Editor-windows-amd64-1.0.0.zip
+VERSION=1.0.0 sh scripts/build-linux.sh     # on Linux: dist/ER-Summoning-Editor-linux-amd64-1.0.0.zip
+go run ./cmd/ersummoneditorgui              # the desktop editor, directly
 go vet ./... && go test ./...
 ```
 
-The desktop editor cross-compiles for Windows from any system without cgo.
-Tests that need a real save read a decrypted `memory.dat` from `ER_SAVE` and
-skip without it. `sh scripts/release.sh <version>` builds every target twice,
-refuses a build that does not reproduce, and writes the release archives with
-their `SHA256SUMS`.
+Windows cross-compiles from any system without cgo. Linux builds natively and
+needs gcc, pkg-config and the Wayland, X11, xkbcommon, EGL/GLES, libffi,
+Xcursor, Xfixes and Vulkan development packages. Tests that need a real save
+read a decrypted `memory.dat` from `ER_SAVE` and skip without it;
+`REQUIRE_SAVE=1 sh scripts/check.sh` refuses to pass without it, the check
+before a release.
 
 ## How it works
 

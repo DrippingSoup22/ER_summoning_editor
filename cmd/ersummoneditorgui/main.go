@@ -8,6 +8,7 @@ package main
 import (
 	"log"
 	"os"
+	"strconv"
 
 	"gioui.org/app"
 	"gioui.org/op"
@@ -18,6 +19,7 @@ import (
 )
 
 func main() {
+	preparePlatform()
 	service, err := application.New()
 	if err != nil {
 		log.Fatalf("load the catalog: %v", err)
@@ -35,10 +37,11 @@ func main() {
 
 func run(state *gio.State) error {
 	window := new(app.Window)
-	// Full screen unless the player turned it off in Settings, where the
-	// switch also changes it while the editor runs. Esc asks to close it.
+	uiScale := configuredUIScale(os.Getenv("ER_EDITOR_UI_SCALE"), platformUIScale())
+	// A window, or full screen if the player turned that on in Settings, where
+	// the switch also changes it while the editor runs. Esc asks to close it.
+	state.SetWindow(window, uiScale)
 	window.Option(state.WindowOptions()...)
-	state.SetWindow(window)
 
 	// Development convenience: open a save immediately. Never point this at an
 	// original - the editor does not write its input, but a copy is one command
@@ -66,13 +69,28 @@ func run(state *gio.State) error {
 				}
 			}
 			gtx := app.NewContext(&ops, event)
-			// No scale multiplier. There was one, as a Settings choice, and it
-			// resampled the entire window - every icon, every glyph - to solve
-			// a problem the maximised window solves better. What a player
-			// actually wanted from it was bigger pictures, and that is now its
-			// own setting on the grids that hold them.
+			// The display's own scale, corrected only where the system does
+			// not report it (WSL). Bigger pictures are a setting on the grids
+			// that hold them, not a scale for the whole window.
+			gtx.Metric.PxPerDp *= uiScale
+			gtx.Metric.PxPerSp *= uiScale
 			state.Layout(gtx, state.Theme())
 			event.Frame(gtx.Ops)
 		}
 	}
+}
+
+// configuredUIScale is the platform's correction unless ER_EDITOR_UI_SCALE
+// gives a sensible multiplier (0.5 to 3), the same variable the merchant
+// editor reads.
+func configuredUIScale(raw string, platformDefault float32) float32 {
+	if raw == "" {
+		return platformDefault
+	}
+	scale, err := strconv.ParseFloat(raw, 32)
+	if err != nil || scale < 0.5 || scale > 3 {
+		log.Printf("ignoring invalid ER_EDITOR_UI_SCALE %q (expected 0.5-3)", raw)
+		return platformDefault
+	}
+	return float32(scale)
 }

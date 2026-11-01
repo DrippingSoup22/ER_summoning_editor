@@ -16,9 +16,9 @@ how it looks, it is in the wrong package.**
 
 The header is the title and the tabs. The footer is on every view, so a staged
 change is never out of sight. Before a save is loaded the panels show an empty
-state and nothing else. The window opens full screen, the whole display with
-no title bar, unless Settings turns that off (then a 1280×800 dp window), with
-a minimum of 1180×760 dp. `app.Fullscreen` comes after `app.Size` among the
+state and nothing else. The window opens as a 1280×800 dp window, with a
+minimum of 1180×760 dp, the same on every system; Settings' Full screen fills
+the whole display with no title bar. `app.Fullscreen` comes after `app.Size` among the
 window's options, because they apply in order and Size puts the mode back to
 Windowed.
 
@@ -496,7 +496,7 @@ Two columns of cards in the middle of the panel, each card a title over its
 rows, every row a name on the left and its control at the right edge, so the
 view fits the window without scrolling. On the left **Appearance** - the
 theme (below), the font (Lora, or Cinzel for the whole window), Full screen
-(on by default, applied at once and kept for the next start) and, under
+(off by default, applied at once and kept for the next start) and, under
 *Icon sizes*, the Characters page and the Editor's Ash rail at 40-160 dp and
 the spirit portraits at 24-96 dp; on the right **Spirit Ashes** - Wider
 summoning area, No once-per-rest limit and All free - and under it **This
@@ -575,13 +575,19 @@ has (name and pixel size), so a warm hit allocates nothing
 
 ```sh
 go run ./cmd/ersummoneditorgui
-sh scripts/build-windows.sh            # writes "ER Summoning Editor.exe"
+VERSION=1.0.0 sh scripts/build-windows.sh   # the Windows zip
+VERSION=1.0.0 sh scripts/build-linux.sh     # the Linux zip, on Linux
 ER_SHOT_DIR=shots go test -tags screenshot -run TestScreenshots ./internal/ui/gio/
 ```
 
-Windows Gio needs no cgo. The build script carries `-H windowsgui`, without
-which Windows opens a console behind the editor. Linux and macOS release
-archives carry the command line only. The screenshot test renders real frames
+Windows Gio needs no cgo; Linux Gio does, so the Linux zip is built on Linux.
+The Windows script carries `-H windowsgui`, without which Windows opens a
+console behind the editor. WSLg reports a scale of 1 while its Windows host
+runs at 125%, so under WSL the window is scaled by 1.25
+(`cmd/ersummoneditorgui`), window size included; `ER_EDITOR_UI_SCALE` (0.5
+to 3) overrides it anywhere. Under WSL the editor also draws through X11
+(an empty `WAYLAND_DISPLAY`): through WSLg's Wayland its window stays black.
+WSLg's X11 does not honour full screen, so there it opens as a window. The screenshot test renders real frames
 through Gio's headless GPU path - a developer tool, skipped where there is no GL
 or Vulkan context. A hand-built `layout.Context` must carry a real input source,
 or every material widget draws its disabled style. The tests that need a

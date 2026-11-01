@@ -35,6 +35,9 @@ type State struct {
 	dialogs dialogs.Service
 	th      *material.Theme
 	win     *app.Window
+	// windowScale is the scale the frames are drawn at beyond the system's
+	// (1.25 under WSL), which the window's own size must carry too.
+	windowScale float32
 
 	// Retained view and widget state. Frame goroutine only.
 	settings   Settings
@@ -307,7 +310,7 @@ type State struct {
 	quitScrim, quitCancel, quitClose widget.Clickable
 	quit                             func()
 	openAfter                        func()
-	// fullScreen is the Settings switch for full screen; settings.Windowed
+	// fullScreen is the Settings switch for full screen; settings.FullScreen
 	// is the stored answer.
 	fullScreen widget.Bool
 
@@ -497,7 +500,7 @@ func NewState(service *application.Service, picker dialogs.Service) *State {
 	state.iconSlider.Value = sliderFromIconSize(state.settings.IconSize, ashSizes)
 	state.editorIconSlider.Value = sliderFromIconSize(state.settings.EditorIconSize, ashSizes)
 	state.spiritIconSlider.Value = sliderFromIconSize(state.settings.SpiritIconSize, spiritSizes)
-	state.fullScreen.Value = !state.settings.Windowed
+	state.fullScreen.Value = state.settings.FullScreen
 	state.showSight.Value, state.showKnobs.Value = state.settings.ShowSight, !state.settings.HideKnobs
 	state.th.Face = typefaceFor(state.settings.Font)
 	state.applyPalette()
@@ -505,8 +508,10 @@ func NewState(service *application.Service, picker dialogs.Service) *State {
 }
 
 // SetWindow wires the window a worker invalidates when it has something new to
-// show.
-func (s *State) SetWindow(win *app.Window) { s.win, s.quit = win, closer(win) }
+// show, and the scale its frames are drawn at beyond the system's.
+func (s *State) SetWindow(win *app.Window, scale float32) {
+	s.win, s.quit, s.windowScale = win, closer(win), scale
+}
 
 // Theme is the material theme every widget style is built from.
 func (s *State) Theme() *material.Theme { return s.th }

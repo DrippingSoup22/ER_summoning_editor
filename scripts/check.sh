@@ -6,7 +6,7 @@
 # regulation it actually ships against skips when ER_SAVE is unset,
 # and a skip is not a failure, so a suite with all of them skipped exits 0 and
 # reads exactly like a suite that passed. That is fine while developing and is
-# not fine as a release gate, which is what scripts/release.sh uses this for.
+# not fine as the check before a release.
 #
 # So: the skipped tests are always listed, and with REQUIRE_SAVE=1 a run
 # that cannot reach the real regulation fails instead of passing quietly.

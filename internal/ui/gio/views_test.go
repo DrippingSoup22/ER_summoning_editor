@@ -184,11 +184,12 @@ func TestNewsFadesAndAWarningWaitsForThePress(t *testing.T) {
 	}
 }
 
-// Full screen is the default, and its switch takes effect and is stored.
+// A window is the default, and the full-screen switch takes effect and is
+// stored.
 func TestTheFullScreenSwitchIsStored(t *testing.T) {
 	state := newTestState(t, picker{})
-	if !state.FullScreen() {
-		t.Fatal("the editor does not open full screen by default")
+	if state.FullScreen() {
+		t.Fatal("the editor opens full screen by default")
 	}
 	state.view = viewSettings
 	h := newHands(t, state)
@@ -201,13 +202,13 @@ func TestTheFullScreenSwitchIsStored(t *testing.T) {
 		h.clickAt(at)
 	}
 	toggle()
-	if state.FullScreen() || !loadSettings().Windowed {
-		t.Fatalf("after the switch the editor is full screen %t, stored windowed %t",
-			state.FullScreen(), loadSettings().Windowed)
+	if !state.FullScreen() || !loadSettings().FullScreen {
+		t.Fatalf("after the switch the editor is full screen %t, stored %t",
+			state.FullScreen(), loadSettings().FullScreen)
 	}
 	toggle()
-	if !state.FullScreen() || loadSettings().Windowed {
-		t.Errorf("after the second switch the editor is full screen %t, stored windowed %t",
-			state.FullScreen(), loadSettings().Windowed)
+	if state.FullScreen() || loadSettings().FullScreen {
+		t.Errorf("after the second switch the editor is full screen %t, stored %t",
+			state.FullScreen(), loadSettings().FullScreen)
 	}
 }
