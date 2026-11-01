@@ -18,11 +18,13 @@ engine runs on Windows, Linux and macOS.
   encryption and signing are separate from this editor; use an appropriate
   third-party tool to decrypt the save before editing and to prepare it for
   the console afterward. PC saves (`ER0000.sl2`) are not supported.
-- **The save must hold the game's newest regulation**: Elden Ring 1.17, up to
-  calibration 1.17.3 (regulations `11701000`, `11711000`, `11721000` and
-  `11730034`). Online, the game replaces an older regulation with the newest
-  one, edits and all, so load your character once while online before you
-  back the save up and edit it. A save from another game version is refused.
+- **Always edit a save from the game's newest version.** The game settings
+  this editor changes (the regulation) live inside the save, and whenever you
+  go online with a save whose regulation is older than the game's newest, the
+  game replaces the whole regulation with the newest one, and every edit is
+  lost. So after each game update, load your character once while online,
+  then back the save up and edit that copy. A save from a game version the
+  editor does not know yet is refused.
 - Changes are staged and written to a **new file**. The selected input file is
   never overwritten, and the output is reopened and verified before the
   editor reports success.
