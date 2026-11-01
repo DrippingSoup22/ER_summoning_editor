@@ -1,0 +1,404 @@
+card,entry,shows,name
+enemy:c2140,,21400000,Omen: Omen - Greatsword
+enemy:c2140,Omen - Greatsword,21400000,Omen - Greatsword
+enemy:c2140,Omen - Axe,21401030,Omen - Axe (hooded)
+enemy:c3000,,30000134,Exile Soldier: Exile Soldier - Sword
+enemy:c3000,Exile Soldier - Crossbow,30000014,Exile Soldier - Crossbow
+enemy:c3000,Exile Soldier - Spear and shield,30002014,Exile Soldier - Spear and shield
+enemy:c3000,Exile Soldier - Sword,30000134,Exile Soldier - Sword
+enemy:c3000,Exile Soldier - Sword and shield,30001014,Exile Soldier - Sword and shield
+enemy:c3000,Exile Soldier - Torch,30003034,Exile Soldier - Torch
+enemy:c3000,Large Exile Soldier,30200014,Large Exile Soldier
+enemy:c3010,,30102034,Banished Knight: Banished Knight - Halberd
+enemy:c3010,Banished Knight - Halberd,30102034,Banished Knight - Halberd
+enemy:c3010,Banished Knight - Sword and shield,30100034,Banished Knight - Sword and shield
+enemy:c3010,Banished Knight - Dual swords,30101172,Banished Knight - Dual swords (hood)
+enemy:c3061,,30610072,Beast Skeleton: Giant Beast Skeleton - Axe
+enemy:c3070,,30700030,Dominula Celebrant: Dominula Celebrant - Cleaver
+enemy:c3080,,30800000,"Imp: Imp - Cat head (hatchet, magic bombs)"
+enemy:c3080,Imp - Lion head,58700281,Imp - Lion head (serpent sword)
+enemy:c3080,Imp - Cannon head,58700195,Imp - Cannon head
+enemy:c3080,Imp - Cat head,30800034,"Imp - Cat head (hatchet, throwing knife)"
+enemy:c3080,Imp - Fanged head,30801232,"Imp - Fanged head (hatchet, lightning bolt)"
+enemy:c3080,Imp - Long-tongue head,30802035,"Imp - Long-tongue head (hatchet, throwing knife)"
+enemy:c3080,Imp - Wolf head,30806020,Imp - Wolf head (sword)
+enemy:c3170,,31700052,Albinauric Archer: Albinauric Archer
+enemy:c3170,Albinauric Archer,31700052,Albinauric Archer
+enemy:c3300,,33001065,Nox Swordstress: Nox Swordstress
+enemy:c3320,,33200262,Silver Tear: Silver Tear
+enemy:c3320,Silver Tear - Electrified,33202262,Silver Tear - Electrified
+enemy:c3320,Giant Silver Tear,33300040,Giant Silver Tear
+enemy:c3320,Silver Tear,33200262,Silver Tear
+enemy:c3320,Silver Tear - Mimic,33201065,Silver Tear - Mimic (colossal sword)
+enemy:c3360,,33605064,Ancestral Follower: Ancestral Follower - Axe
+enemy:c3360,Ancestral Follower - Axe,33605064,Ancestral Follower - Axe
+enemy:c3360,Ancestral Follower - Bow,33605564,Ancestral Follower - Bow
+enemy:c3360,Ancestral Follower - Greathammer,33606064,Ancestral Follower - Greathammer
+enemy:c3360,Ancestral Follower - Greataxe,33607064,Ancestral Follower - Greataxe
+enemy:c3360,Ancestral Follower Shaman,33700065,Ancestral Follower Shaman
+enemy:c3450,,34500013,Misbegotten: Misbegotten - Hatchet
+enemy:c3470,,own,"Albinauric: the old face close-up, kept as the card's own picture while every variant is redrawn (the witness, 2026-11-01)"
+enemy:c3470,"Albinauric - Axe, armored",34701468,"Albinauric - Axe, armored (Bloodbane)"
+enemy:c3470,"Albinauric - Broken club, rags",34703020,"Albinauric - Broken club, rags"
+enemy:c3470,"Albinauric - Club, armored",34702000,"Albinauric - Club, armored"
+enemy:c3470,"Albinauric - Club, rags",34702120,"Albinauric - Club, rags"
+enemy:c3470,"Albinauric - Halberd, armored",34704268,"Albinauric - Halberd, armored (Bloodbane)"
+enemy:c3470,"Albinauric - Shamshir, armored",34700268,"Albinauric - Shamshir, armored (Bloodbane)"
+enemy:c3470,Large Albinauric,34715120,Large Albinauric
+enemy:c3500,,35000010,Skeletal Militiaman: Skeletal Militiaman - Spear
+enemy:c3500,Skeletal Militiaman - Spear,35000010,Skeletal Militiaman - Spear
+enemy:c3500,Skeletal Militiaman - Scythe,35002020,Skeletal Militiaman - Scythe
+enemy:c3500,Skeletal Militiaman - Crossbow,35001032,Skeletal Militiaman - Crossbow
+enemy:c3500,Skeletal Militiaman - Sword and shield,35003010,Skeletal Militiaman - Sword and shield
+enemy:c3500,Skeletal Militiaman - Curved swords,35004040,Skeletal Militiaman - Curved swords
+enemy:c3510,,56000187,Catacomb Skeleton: Catacomb Skeleton - Scimitar (oil-covered)
+enemy:c3510,Catacomb Skeleton - Scimitar and shield,56000087,Catacomb Skeleton - Scimitar and shield (oil-covered)
+enemy:c3510,Catacomb Skeleton - Scimitar,56000187,Catacomb Skeleton - Scimitar (oil-covered)
+enemy:c3510,Catacomb Skeleton - Bow,56002187,Catacomb Skeleton - Bow (oil-covered)
+enemy:c3510,Catacomb Skeleton - Falchion,56001087,Catacomb Skeleton - Falchion (oil-covered)
+enemy:c3510,Catacomb Skeleton - Fire pots,56003287,Catacomb Skeleton - Fire pots (oil-covered)
+enemy:c3510,Catacomb Skeleton - Magic pots,56004000,Catacomb Skeleton - Magic pots (oil-covered)
+enemy:c3610,,36100054,Oracle Envoy: Oracle Envoy
+enemy:c3650,,36501034,Guardian: Full-Bloom Guardian
+enemy:c3660,,36600034,Commoner: Commoner - Sword
+enemy:c3660,Commoner - Sword,36600034,Commoner - Sword
+enemy:c3660,Commoner - Magic torch-pole,36603020,Commoner - Magic torch-pole
+enemy:c3660,Commoner - Spear,36601030,Commoner - Spear
+enemy:c3660,Commoner - Torch-pole,36602000,Commoner - Torch-pole
+enemy:c3661,,36610000,Putrid Corpse: Putrid Corpse
+enemy:c3661,Putrid Corpse,36610000,Putrid Corpse
+enemy:c3661,Putrid Corpse - Blood,36615068,Putrid Corpse - Blood
+enemy:c3661,Putrid Corpse - Maggots,36611031,Putrid Corpse - Maggots
+enemy:c3661,Putrid Corpse - Fire,36612040,Putrid Corpse - Fire
+enemy:c3661,Putrid Corpse - Magic,36614024,Putrid Corpse - Magic
+enemy:c3661,Putrid Corpse - Rot,36616040,Putrid Corpse - Rot
+enemy:c3661,Putrid Corpse - Mushrooms,36613054,Putrid Corpse - Mushrooms (kinoko)
+enemy:c3661,Putrid Corpse - Red flame,55110098,Putrid Corpse - Red flame
+enemy:c3670,,36703038,Imprisoned Elder Albinauric: Elder Albinauric - Dumpling
+enemy:c3670,Elder Albinauric,36700042,Elder Albinauric
+npc:c3670,,36708020,Imprisoned Elder Albinauric: Old Albus
+enemy:c3700,,37000031,Depraved Perfumer: Depraved Perfumer - Dagger
+enemy:c3701,,37010034,Perfumer: Perfumer - Dagger
+enemy:c3702,,37023024,Glintstone Sorcerer: Twinsage Sorcerer
+enemy:c3703,,37030034,Page: Page
+npc:b23160,,23162,Sorceress Sellen: Sorceress Sellen
+npc:b23160,Sorceress Sellen,23162,Sorceress Sellen
+enemy:c3750,,37500060,Clayman: Clayman - Harpoon
+enemy:c3800,,38001052,Cleanrot Knight: Cleanrot Knight (sickle)
+enemy:c3800,Cleanrot Knight,38001052,Cleanrot Knight (sickle)
+enemy:c3800,Cleanrot Knight - Phantom,38001100,"Cleanrot Knight - Phantom (sickle, buffs allies)"
+enemy:c3810,,38101040,Kindred of Rot: Kindred of Rot (melee only)
+enemy:c3810,Kindred of Rot,38101040,Kindred of Rot (melee only)
+enemy:c3810,Kindred of Rot Larva,20410056,Kindred of Rot Larva (Pest Thread)
+enemy:c3810,Kindred of Rot - Scarlet,57404094,Kindred of Rot - Scarlet
+enemy:c3850,,38500020,Marionette: Marionette - Bow
+enemy:c3850,Marionette - Sword,38501020,Marionette - Sword
+enemy:c3860,,38600030,Avionette: Avionette - Scimitars (gear out)
+enemy:c3860,Avionette - Scimitars,38600030,Avionette - Scimitars (gear out)
+enemy:c3860,Avionette - Scythe,38601024,Avionette - Scythe (gear out)
+enemy:c3901,,39010038,Fire Monk: Blackflame Monk (hammer)
+enemy:c3901,Blackflame Monk,39010038,Blackflame Monk (hammer)
+enemy:c3901,Fire Monk,39000050,Fire Monk (hammer)
+enemy:c3910,,39100150,Fire Prelate: Fire Prelate - Greathammer
+enemy:c3910,Fire Prelate - Greathammer,39100150,Fire Prelate - Greathammer
+enemy:c3910,Fire Prelate - Whip,39101150,Fire Prelate - Whip
+enemy:c3950,,39503038,Man-Serpent: Man-Serpent - Magma sword
+enemy:c3950,Man-Serpent - Sword,39502038,Man-Serpent - Sword
+enemy:c3950,Man-Serpent - Whip,39500038,Man-Serpent - Whip
+npc:b23130,,23130,Rya the Scout: Rya
+enemy:c3970,,39701072,"Azula Beastman: Azula Beastman (greatsword, armored)"
+enemy:c3970,Azula Beastman,39701072,"Azula Beastman (greatsword, armored)"
+enemy:c3970,Azula Beastman - Lightning,39701172,"Azula Beastman - Lightning (greatsword, armored)"
+enemy:c4000,,40000120,Revenant Follower: Revenant Follower - Ragged
+enemy:c4020,,40200040,Royal Revenant: Royal Revenant
+enemy:c4020,Royal Revenant,40200040,Royal Revenant
+wildlife:c4040,,40400035,Slug: Slug
+enemy:c4050,,40500010,Kaiden Sellsword: Kaiden Sellsword - Fur coat
+wildlife:c4070,,40700010,Wolf: Wolf
+wildlife:c4070,Wolf,40700010,Wolf
+enemy:c4100,,41001032,Demi-Human: Demi-Human - Scimitar (volcano pots)
+enemy:c4100,Demi-Human - Club,41002010,Demi-Human - Club
+enemy:c4100,Demi-Human - Scimitar,41001032,Demi-Human - Scimitar (volcano pots)
+enemy:c4100,Demi-Human - Sword and shield,41000010,Demi-Human - Sword and shield
+enemy:c4140,,41400062,Snail: Snail - Serpent
+wildlife:c4160,,41610030,Stray: Stray
+wildlife:c4160,Stray - Braided,55250082,Stray - Braided
+wildlife:c4160,Stray - Rotten,41670040,Stray - Rotten
+wildlife:c4160,Stray,41610030,Stray
+wildlife:c4160,Stray - Shadow,55220095,Stray - Shadow (large)
+wildlife:c4160,Stray - Collar,41610220,Stray - Collar
+wildlife:c4160,Stray - Azula,41630072,Stray - Azula
+wildlife:c4160,Stray - Bloodbane,41650068,Stray - Bloodbane
+wildlife:c4160,Stray - Flaming,55200095,Stray - Flaming (large)
+enemy:c4170,,41700030,Putrid Flesh: Putrid Flesh
+enemy:c4170,Putrid Flesh,55900483,Putrid Flesh (oil)
+enemy:c4170,Putrid Flesh - Large,55917587,Putrid Flesh - Large (oil)
+wildlife:c4180,,41800050,Spirit Jellyfish: Spirit Jellyfish
+enemy:c4200,,42000010,Man-Bat: Man-Bat
+enemy:c4200,Man-Bat,42000010,Man-Bat
+enemy:c4200,Operatic Bat,42017412,Operatic Bat
+wildlife:c4210,,42102072,Warhawk: Warhawk
+wildlife:c4210,Masked Warhawk,42100114,Masked Warhawk
+wildlife:c4210,Warhawk - Talon blades,42101214,Warhawk - Talon blades
+wildlife:c4210,Warhawk,42102072,Warhawk
+enemy:c4240,,42400021,Fingercreeper: Fingercreeper
+enemy:c4240,Fingercreeper,42400021,Fingercreeper
+enemy:c4240,Giant Fingercreeper,55510093,Giant Fingercreeper (ring)
+enemy:c4240,Small Fingercreeper,55600297,Small Fingercreeper (heals)
+boss:c4270,,42700041,Elder Lion: Elder Lion
+wildlife:c4280,,42800060,Giant Ant: Giant Ant
+wildlife:c4280,Giant Ant,42800060,Giant Ant
+enemy:c4300,,43006010,Wandering Noble: Wandering Noble - Unarmed
+enemy:c4300,Wandering Noble - Unarmed,43006010,Wandering Noble - Unarmed
+enemy:c4300,Wandering Noble - Torch,43005252,Wandering Noble - Torch (green attire)
+enemy:c4300,Wandering Noble - Sword,43000210,Wandering Noble - Sword (green attire)
+enemy:c4311,,43110010,Soldier: Godrick Soldier - Sword and shield
+enemy:c4311,Godrick Soldier,43110010,Godrick Soldier (Sword and shield)
+enemy:c4311,Raya Lucaria Soldier,43120020,Raya Lucaria Soldier (Sword and shield)
+enemy:c4311,Radahn Soldier,43140040,Radahn Soldier (Sword and shield)
+enemy:c4311,Leyndell Soldier,43130030,Leyndell Soldier (Sword and shield)
+enemy:c4311,Mausoleum Soldier,43150012,Mausoleum Soldier (Sword and shield)
+enemy:c4311,Haligtree Soldier,43160056,Haligtree Soldier (Sword and shield)
+enemy:c4311,Messmer Soldier,58300090,Messmer Soldier (Axe and shield)
+enemy:c4321,,43211150,Vulgar Militia: Vulgar Militia - Shotel (beast claw)
+enemy:c4321,Vulgar Militia - Shotel,43211040,Vulgar Militia - Shotel
+enemy:c4321,Vulgar Militia - Sickle,43212020,Vulgar Militia - Sickle
+enemy:c4321,Vulgar Militia - Saw,43210040,Vulgar Militia - Saw
+enemy:c4340,,43400910,Mad Pumpkin Head: Mad Pumpkin Head - Flail
+enemy:c4340,Mad Pumpkin Head - Flail,43400910,Mad Pumpkin Head - Flail
+enemy:c4351,,43510010,Knight: Godrick Knight - Sword and shield
+enemy:c4351,Godrick Knight,43510010,Godrick Knight (Sword and shield)
+enemy:c4351,Redmane Knight,43541041,"Redmane Knight (Lance and shield, flaming weapon)"
+enemy:c4351,Leyndell Knight,43530034,Leyndell Knight (Sword and shield)
+enemy:c4351,Mausoleum Knight,43550052,Mausoleum Knight (Sword and shield)
+enemy:c4371,,43728000,Foot Soldier: Raya Lucaria Foot Soldier - Dagger (frenzied flame)
+enemy:c4371,Godrick Foot Soldier,43710010,Godrick Foot Soldier (Dagger)
+enemy:c4371,Highwayman,43770012,Highwayman (Dagger)
+enemy:c4371,Raya Lucaria Foot Soldier,43720020,Raya Lucaria Foot Soldier (Dagger)
+enemy:c4371,Radahn Foot Soldier,43741841,Radahn Foot Soldier (Dagger)
+enemy:c4371,Leyndell Foot Soldier,43730030,Leyndell Foot Soldier (Dagger)
+enemy:c4371,Mausoleum Foot Soldier,43750000,Mausoleum Foot Soldier (Dagger)
+enemy:c4371,Haligtree Foot Soldier,43761756,Haligtree Foot Soldier (Dagger)
+enemy:c4371,Messmer Foot Soldier,56510090,Messmer Foot Soldier (Dagger)
+enemy:c4380,,43800042,Starcaller: Starcaller - Star burst
+enemy:c4381,,43810250,Guilty: Guilty - Big flame
+enemy:c4382,,43820030,Stonedigger: Stonedigger - Pickaxe
+enemy:c4382,Stonedigger - Pickaxe,43820030,Stonedigger - Pickaxe
+enemy:c4382,Stonedigger - Fire pickaxe,43822140,Stonedigger - Fire pickaxe (throws bombs)
+enemy:c4382,Stonedigger - Flamethrower,43825026,Stonedigger - Flamethrower (throws bombs)
+enemy:c4382,"Stonedigger - Flamethrower, fire pickaxe",43825100,"Stonedigger - Flamethrower, fire pickaxe (throws bombs)"
+enemy:c4382,"Stonedigger - Pickaxe, ice",43820052,"Stonedigger - Pickaxe, ice"
+enemy:c4383,,43830020,Glintstone Digger: Glintstone Digger
+enemy:c4385,,43850040,Disciple of Rot: Disciple of Rot
+wildlife:c4420,,44200020,Giant Crayfish: Giant Crayfish
+wildlife:c4420,Giant Crayfish,44200020,Giant Crayfish
+wildlife:c4420,Giant Crayfish - Frost,44203050,Giant Crayfish - Frost
+enemy:c4430,,44300010,Watcher Stones: Watcher Stone (moss)
+enemy:c4430,Watcher Stone,44300040,Watcher Stone (grey)
+enemy:c4430,Watcher Stone - Slammer,44300340,Watcher Stone - Slammer (moss)
+enemy:c4430,Watcher Stone - Spinner,44300100,Watcher Stone - Spinner (moss)
+enemy:c4430,Watcher Stone - Boomerang,44300200,Watcher Stone - Boomerang (moss)
+wildlife:c4440,,44400020,Land Squirt: Land Squirt
+environment:c4450,,44500012,Walking Mausoleum: Walking Mausoleum (bell)
+environment:c4450,Walking Mausoleum,44500012,Walking Mausoleum (bell)
+enemy:c4460,,44607020,Flame Chariot: Flame Chariot
+enemy:c4470,,44700032,Abductor Virgin: Abductor Virgin - Swinging sickle
+enemy:c4470,Abductor Virgin - Wheel,44701132,Abductor Virgin - Wheel (broken)
+enemy:c4480,,44800020,"Miranda: Miranda Blossom (pink, poison)"
+enemy:c4480,Miranda Blossom,44800020,"Miranda Blossom (pink, poison)"
+enemy:c4480,Miranda Sprout,44810012,"Miranda Sprout (pink, poison)"
+npc:c4491,,44909972,"Living Jar: Alexander, Warrior Jar"
+enemy:c4491,,44910021,Living Jar: Living Jar
+enemy:c4491,Living Jar,44910021,Living Jar
+enemy:c4491,Living Jar Warrior,44907050,Living Jar Warrior
+wildlife:c4550,,45502040,Giant Dog: Giant Dog
+wildlife:c4550,Giant Dog,45502040,Giant Dog
+wildlife:c4550,Giant Dog - White-maned,45503040,Giant Dog - White-maned
+wildlife:c4560,,45610068,Giant Crow: Giant Crow - Bloodbane
+enemy:c4570,,45801072,Wormface: Wormface - Bandages (huge)
+enemy:c4570,Wormface - Bandages,45701072,Wormface - Bandages
+enemy:c4570,Wormface,45702030,Wormface
+enemy:c4570,Wormface - Robe,45700030,Wormface - Robe
+enemy:c4600,,46000010,Troll: Troll
+enemy:c4600,Frenzied Troll,46004152,Frenzied Troll (snow)
+enemy:c4600,Snowfield Troll,46020050,Snowfield Troll
+enemy:c4600,Troll,46000010,Troll
+enemy:c4600,Troll Knight,46010020,Troll Knight
+wildlife:c4630,,46300020,Runebear: Runebear
+wildlife:c4630,Runebear,46300020,Runebear
+enemy:c4660,,46600010,Guardian Golem: Guardian Golem - Halberd
+enemy:c4660,Guardian Golem - Bow,46601030,Guardian Golem - Bow
+enemy:c4660,Guardian Golem - Halberd,46600010,Guardian Golem - Halberd
+enemy:c4960,,49600168,Giant Skeleton Torso: Giant Skeleton Torso
+enemy:c5040,,50400090,Curseblade: Curseblade
+enemy:c5040,Curseblade,50400090,Curseblade
+enemy:c5040,Curseblade Labirith,50400500,Curseblade Labirith (throws projectiles)
+enemy:c5060,,50600093,Lamprey: Lamprey (black)
+enemy:c5060,Lamprey,50600093,Lamprey (black)
+enemy:c5080,,50801180,Bloodfiend: Bloodfiend - Grappler
+enemy:c5080,Chief Bloodfiend,50810094,Chief Bloodfiend
+enemy:c5090,,50900284,Gravebird: Gravebird - White flame
+wildlife:c5110,,51100183,Ghostly Worm: Ghostly Worm
+enemy:c5160,,51600099,Fire Knight: Fire Knight - Greatsword
+enemy:c5160,Fire Knight - Dagger,51602198,Fire Knight - Dagger (masked)
+enemy:c5160,Fire Knight - Twin daggers,51601099,Fire Knight - Twin daggers
+enemy:c5160,Fire Knight - Greatsword,51600099,Fire Knight - Greatsword
+enemy:c5190,,51900094,Spider Scorpion: Spider Scorpion
+enemy:c5190,Spider Scorpion,51900094,Spider Scorpion
+enemy:c5240,,52403480,Shadow Commoner: Shadow Commoner - Dagger
+enemy:c5240,Shadow Commoner - Dagger,52403480,Shadow Commoner - Dagger
+enemy:c5240,Shadow Commoner - Unarmed,52400994,Shadow Commoner - Unarmed
+enemy:c5240,Shadow Commoner - Cane,52405186,Shadow Commoner - Cane (homing bolts)
+enemy:c5250,,52501088,Horned Warrior: Horned Warrior - Greatsword
+enemy:c5250,Horned Warrior - Sword,52500189,Horned Warrior - Sword (Divine Bird)
+enemy:c5250,Horned Warrior - Greatsword,52501088,Horned Warrior - Greatsword
+enemy:c5260,,52602090,Golem Smith: Golem Smith - Bare hands
+enemy:c5260,Golem Smith - Magma pot,52601090,Golem Smith - Magma pot
+enemy:c5260,Golem Smith - Bare hands,52602090,Golem Smith - Bare hands
+enemy:c5260,Golem Smith - Golem fist,52602295,Golem Smith - Golem fist
+enemy:c5260,Golem Smith - Club,52600090,Golem Smith - Club
+enemy:c5270,,52700080,Jar Innards: Jar Innards
+enemy:c5270,Jar Innards - Faces,52700184,Jar Innards - Faces
+enemy:c5270,Jar Innards - In a jar,52700280,Jar Innards - In a jar
+enemy:c5270,Jar Innards,52700080,Jar Innards
+enemy:c5310,,53111286,"Inquisitor: Inquisitor - Knife, frenzied flame"
+enemy:c5310,Inquisitor - Knife,53111086,Inquisitor - Knife
+enemy:c5310,Inquisitor - Candle,53110089,Inquisitor - Candle (blessing)
+enemy:c5310,"Inquisitor - Candle, frenzied flame",53110586,"Inquisitor - Candle, frenzied flame (heals)"
+enemy:c5500,,55000295,Living Magma: Living Magma - Melee only (no shell)
+enemy:c5500,Living Magma - Melee only,55000295,Living Magma - Melee only (no shell)
+enemy:c5500,Living Magma - Spit only,55000581,Living Magma - Spit only (no shell)
+enemy:c5500,Living Magma - Melee and spit,55000190,Living Magma - Melee and spit (shell)
+enemy:c5840,,58400290,Black Knight: Black Knight - Greatshield and hammer
+enemy:c5880,,58800281,Catacombs Sorcerer: Catacombs Sorcerer - Slow orb
+enemy:c5900,,59000091,Man-Fly: Man-Fly - Melee
+enemy:c7000,,70003165,"Fallen Hawks Soldier: Fallen Hawks Soldier - Sword, torch"
+environment:c8120,,81200032,Merciless Chariot: Merciless Chariot (statue on top)
+environment:c8120,Merciless Chariot,81200032,Merciless Chariot (statue on top)
+boss:c2030,,20300024,"Rennala, Queen of the Full Moon: Rennala, Queen of the Full Moon - Phase 1"
+boss:c2100,,21000000,Black Knife Assassin: Black Knife Assassin
+boss:c2110,,21101072,"Beast Clergyman: Maliketh, the Black Blade"
+boss:c2120,,21200056,"Malenia, Blade of Miquella: Malenia, Blade of Miquella"
+boss:c2130,,21300014,"Margit: Margit, the Fell Omen"
+boss:c2500,,25000010,Crucible Knight: Crucible Knight - Tail
+boss:c3050,,30500051,Commander Niall / O'Neil: Commander Niall
+boss:c3150,,31500020,Night's Cavalry: Night's Cavalry - Glaive
+boss:c3181,,31811024,Red Wolf of Radagon: Red Wolf of Radagon - Sword
+boss:c3251,,32510010,Tree Sentinel: Tree Sentinel - Shield and halberd
+boss:c3252,,32520054,"Loretta Tree Sentinel: Loretta, Knight of the Haligtree"
+boss:c3350,,33500930,Crystalian: Crystalian - Ringblade
+enemy:c3400,,34000940,Grave Warden Duelist: Grave Warden Duelist - Greataxe
+enemy:c3400,Grave Warden Duelist - Double hammer,34001110,Grave Warden Duelist - Double hammer
+enemy:c3400,Grave Warden Duelist - Greataxe,34000940,Grave Warden Duelist - Greataxe
+boss:c3460,,34600930,Leonine Misbegotten: Leonine Misbegotten - Iron sword
+boss:c3560,,own,"Godskin: the Godskin Apostle and the Godskin Noble together (the witness, 2026-10-28)"
+boss:c3600,,36000010,Alabaster Lord: Alabaster Lord
+enemy:c3704,,37040054,Battlemage: Battlemage
+boss:c4130,,41300032,Demi-Human Queen: Demi-Human Queen Maggie
+boss:c4260,,42604150,"Erdtree Burial Watchdog: Erdtree Burial Watchdog - Sword, frost (one face, big tail)"
+boss:c4260,"Erdtree Burial Watchdog - Sword, frost",42604150,"Erdtree Burial Watchdog - Sword, frost (one face, big tail)"
+boss:c4260,"Erdtree Burial Watchdog - Sword, lightning",42602932,"Erdtree Burial Watchdog - Sword, lightning (one face, big tail)"
+boss:c4260,"Erdtree Burial Watchdog - Staff, frost",42605152,"Erdtree Burial Watchdog - Staff, frost (one face, big tail)"
+boss:c4260,"Erdtree Burial Watchdog - Staff, lightning",42603100,"Erdtree Burial Watchdog - Staff, lightning (one face, big tail)"
+boss:c4260,"Erdtree Burial Watchdog - Sword, fire",42600512,"Erdtree Burial Watchdog - Sword, fire (three faces, small tail)"
+boss:c4260,"Erdtree Burial Watchdog - Staff, fire",42601920,"Erdtree Burial Watchdog - Staff, fire (three faces, small tail)"
+boss:c4290,,42900010,Bloodhound Knight: Bloodhound Knight
+boss:c4500,,45000042,Flying Dragon: Flying Dragon Agheel / Greyll
+boss:c4510,,53700000,Ancient Dragon: Ancient Dragon - Senessax's look
+boss:c4520,,45200072,Dragonlord Placidusax: Dragonlord Placidusax - Phase 1
+boss:c4520,Dragonlord Placidusax - Phase 2,45200000,Dragonlord Placidusax - Phase 2
+boss:c4620,,46200952,"Malformed Stars: Astel, Stars of Darkness"
+boss:c4640,,46400070,Ulcerated Tree Spirit: Ulcerated Tree Spirit
+boss:c4650,,46500262,Dragonkin Soldier: Dragonkin Soldier
+boss:c4670,,46700964,Ancestor Spirit: Ancestor Spirit
+boss:c4680,,46801930,Fallingstar Beast: Fallingstar Beast
+boss:c4710,,47101038,"Rykard, Lord of Blasphemy: Rykard, Lord of Blasphemy - Phase 1"
+boss:c4720,,47200070,"Godfrey, First Elden Lord: Godfrey, First Elden Lord"
+boss:c4750,,47500014,Godrick the Grafted: Godrick the Grafted - Phase 1
+boss:c4760,,47600050,Fire Giant: Fire Giant - Phase 1
+boss:c4770,,47701000,Gargoyle: Gargoyle - Sword and halberd
+boss:c4800,,48001935,"Mohg, the Omen: Mohg, the Omen"
+boss:c4800,"Mohg, Lord of Blood - Phase 2",48008000,"Mohg, Lord of Blood - Phase 2 (no bloodflame)"
+boss:c4810,,48100012,Erdtree Avatar: Erdtree Avatar
+boss:c4910,,49100940,Magma Wyrm: Magma Wyrm
+boss:c4980,,49800033,Death Bird: Deathbird
+boss:c5010,,50100098,Golden Hippopotamus: Golden Hippopotamus
+boss:c5020,,50200087,Putrescent Knight: Putrescent Knight
+boss:c5050,,50510086,"Midra: Midra, Lord of Frenzied Flame"
+boss:c5070,,50700081,Death Knight: Death Knight - Twin axes
+boss:c5130,,51300099,Messmer the Impaler: Messmer the Impaler
+boss:c5170,,51702094,Furnace Golem: Furnace Golem
+boss:c5210,,52100088,Divine Beast Dancing Lion: Divine Beast Dancing Lion
+boss:c5220,,52200089,Promised Consort Radahn: Promised Consort Radahn
+boss:c5230,,52300096,Scadutree Avatar: Scadutree Avatar - Phase 1
+boss:c5810,,58100980,Demi-Human Swordmaster Onze: Demi-Human Swordmaster Onze
+boss:c5840,,58400590,Black Knight: Black Knight Garrew
+wildlife:c2270,,22700010,Giant Crab: Giant Crab
+wildlife:c2270,Crab,22750020,Crab (Albinauric)
+wildlife:c2270,Giant Crab,22740020,Giant Crab (Albinauric)
+wildlife:c3210,,32101310,Nomadic Merchant's Donkey: Nomadic Merchant's Donkey (grey coat)
+wildlife:c3210,Nomadic Merchant's Donkey,32101310,Nomadic Merchant's Donkey (grey coat)
+wildlife:c4080,,40800012,Rat: Rat
+wildlife:c4190,,41912020,Scarab: Ash of War Scarab
+wildlife:c4190,Ash of War Scarab,41912020,Ash of War Scarab
+wildlife:c4190,Cerulean Tear Scarab,41911020,Cerulean Tear Scarab
+wildlife:c4190,Crimson Tear Scarab,41910010,Crimson Tear Scarab
+wildlife:c4190,Glintstone Scarab,41913020,Glintstone Scarab
+wildlife:c4190,Incantation Scarab,41914012,Incantation Scarab
+wildlife:c4190,Smithing Stone Scarab,41915020,Smithing Stone Scarab
+wildlife:c4230,,42300064,Land Octopus: Land Octopus
+wildlife:c5450,,58500184,Ram: Giant Ram
+wildlife:c5450,Ram - Fights,54502000,Ram - Fights (big horns)
+wildlife:c5450,Ram - Runs away,54506084,Ram - Runs away (blond fur)
+wildlife:c6001,,60010010,Eagle: Eagle
+wildlife:c6001,Eagle,60010010,Eagle
+wildlife:c6010,,60100064,Deer: Deer
+wildlife:c6010,Deer,60100064,Deer
+wildlife:c6031,,60310010,Bear: Bear
+wildlife:c6031,Red Bear,54210090,Red Bear (brown fur)
+wildlife:c6040,,60400010,Owl: Owl
+wildlife:c6050,,60500064,Boar: Boar - Runs away
+wildlife:c6050,Boar - Runs away,60500064,Boar - Runs away
+wildlife:c6050,Boar - Fights,60501010,Boar - Fights
+wildlife:c6060,,60600020,Goat: Goat - Runs away
+wildlife:c6060,Goat - Fights,60601042,Goat - Fights (long horns)
+wildlife:c6070,,60700010,Murre: Murre
+wildlife:c6070,Murre,60700010,Murre
+wildlife:c6072,,60720010,Carrier Pigeon: Carrier Pigeon
+wildlife:c6072,Carrier Pigeon,60720010,Carrier Pigeon
+wildlife:c6080,,60820040,Dragonfly: Dragonfly (large)
+wildlife:c6080,Dragonfly,60820040,Dragonfly (large)
+wildlife:c6090,,60900022,Turtle: Turtle
+wildlife:c6090,Turtle,60900022,Turtle
+wildlife:c6100,,61000010,Springhare: Springhare
+wildlife:c6100,Springhare,61000010,Springhare
+npc:c2010,,20108562,Blaidd the Half-Wolf: Baleful Shadow
+enemy:c2040,,20403024,Juvenile Scholar: Juvenile Scholar
+enemy:c2040,Juvenile Scholar - Second robe,20402024,Juvenile Scholar - Second robe
+npc:c2050,,20500000,Ranni the Witch: Ranni the Witch
+npc:c2050,Ranni the Witch,20500000,Ranni the Witch
+npc:c2160,,21601010,Finger Reader Crone: Finger Reader Crone
+npc:c3200,,32001110,Nomadic Merchant: Nomadic Merchant - North Limgrave
+npc:c3710,,37100000,Azur: Azur
+npc:c4110,,41109020,Boc the Seamster: Boc the Seamster
+npc:c4110,Boc the Seamster,41109020,Boc the Seamster
+npc:c5910,,59100088,Hornsent Grandam: Hornsent Grandam
+npc:c5910,Hornsent Grandam,59100088,Hornsent Grandam
+npc:c6091,,60910020,"Miriel, Pastor of Vows: Miriel, Pastor of Vows"
+wildlife:c4361,,43620020,Godrick Knight's Horse: Cuckoo Knight's Horse
+boss:b23040,,23040,Roundtable Knight Vyke: Roundtable Knight Vyke
+boss:b2024250,,2024251,Dryleaf Dane: Dryleaf Dane - Dryleaf Arts
+npc:b23730,,23738,Knight of the Great Jar: Knight of the Great Jar - Dagger and buckler
+npc:b23480,,23488,Millicent: Millicent
+npc:b23190,,23194,"D, Hunter of the Dead: D, Hunter of the Dead"
+npc:b23180,,23180,"Yura, Hunter of Bloody Fingers: Yura, Hunter of Bloody Fingers"
+npc:b2024160,,2024160,Sir Ansbach: Sir Ansbach
+npc:b23260,,23262,Recusant Bernahl: Recusant Bernahl
+npc:b23630,,23100,Finger Maiden: Irina of Morne
+npc:b23270,,23271,"Bloody Fingers: Eleonora, Violet Bloody Finger"
+npc:b2024310,,2024310,"Beast Claw: Logur, the Beast Claw"
+npc:b2024320,,2024320,"Carian Knight: Moonrithyll, Carian Knight"
+npc:b23010,,23010,White Mask: White Mask Varré
+npc:b23140,,23140,House Hoslow: Knight Diallos
+npc:b23830,,23830,Flame Guardian: Flame Guardian
+npc:class,,3100,Starting class: Vagabond

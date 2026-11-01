@@ -1,0 +1,12 @@
+# Line endings: git stores LF and checks out LF on every machine, whatever
+# core.autocrlf says (this machine's system gitconfig sets autocrlf=true):
+# gofmt, and so scripts/check.sh, rejects a CRLF Go source.
+* text=auto eol=lf
+
+# Shell scripts must stay LF: with CRLF every one of them fails with a `\r`
+# error.
+*.sh text eol=lf
+
+# Test fixtures and provenance are compared byte for byte and hashed.
+*.csv -text
+*.json -text

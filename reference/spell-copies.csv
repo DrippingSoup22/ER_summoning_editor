@@ -1,0 +1,58 @@
+spell,copy,spell_name,spell_judge,copy_judge,others
+4020,53160,[Sorcery] Glintstone Cometshard,10000200,10000000,
+4021,53240,[Sorcery] Comet,10000200,10000100,
+4200,53241,[Sorcery] Comet Azur,10000200,10000200,
+4210,53161,[Sorcery] Founding Rain of Stars,11100020,11100020,
+4301,53242,[Sorcery] Carian Phalanx,11100000,11000000,53750
+4302,53522,[Sorcery] Greatblade Phalanx,11100000,11000000,
+4380,53520,[Sorcery] Loretta's Greatbow,10000200,10000010,53521
+4390,53120,[Sorcery] Magic Glintblade,10000000,10000000,53751
+4400,53850,[Sorcery] Glintstone Icecrag,10000000,10000100,
+4420,53851,[Sorcery] Freezing Mist,11000000,11000000,
+4440,53524,[Sorcery] Carian Slicer,12000130,12000130,53610
+4450,53590,[Sorcery] Carian Piercer,11000021,11000021,
+4460,53252,[Sorcery] Scholar's Armament,30010000,30010000,
+4500,53162,[Sorcery] Shattering Crystal,11000000,11000000,
+4510,53163,[Sorcery] Crystal Release,12000000,12000000,
+4600,53802,[Sorcery] Ambush Shard,10000000,10000100,53804
+4620,53803,[Sorcery] Night Comet,10000000,11000120,53805
+4721,53390,[Sorcery] Collapsing Stars,11000000,11000000,
+4830,53246,[Sorcery] Rykard's Rancor,10100000,10100010,
+5000,53290,[Sorcery] Rancorcall,10000000,10000000,
+5020,53291,[Sorcery] Fia's Mist,12000000,12000000,
+5030,53760,[Sorcery] Tibia's Summons,10000000,10000000,
+6000,53010,[Incantation] Catch Flame,12000130,12000130,53820
+6001,53560,"[Incantation] O, Flame!",12000130,12000130,
+6030,53830,"[Incantation] Whirl, O Flame",11000200,11000200,
+6110,53561,[Incantation] Flame of The Fell God,10100000,11100000,
+6120,53821,"[Incantation] Burn, O Flame!",12000000,11000000,
+6220,53822,"[Incantation] Surge, O Flame",11000200,11000200,
+6240,53243,[Incantation] Black Flame Ritual,12000000,12000000,
+6300,53860,[Incantation] Bloodflame Talons,12000130,12000130,
+6310,53247,[Incantation] Bloodboon,11000000,11000000,
+6320,53011,[Incantation] Bloodflame Blade,30010000,30010000,
+6340,53260,[Incantation] Protection of The Erdtree,30000000,30010000,
+6410,53110,[Incantation] Wrath of Gold,12000000,12000000,53210
+6421,53510,[Incantation] Heal,20000000,20000000,
+6423,2050080,[Incantation] Lord's Heal,20000000,20000000,
+6600,53111,[Incantation] Golden Vow,30000000,30000000,53261 2050081
+6700,53192,[Incantation] Discus of Light,11000000,11000000,2050082
+6701,53244,[Incantation] Triple Rings of Light,11000000,11000000,53350
+6750,53190,[Incantation] Litany of Proper Death,11000000,11000000,
+6760,53245,[Incantation] Law of Causality,30000000,30000000,
+6800,53910,[Incantation] Bestial Sling,11000000,11000000,
+6820,53191,[Incantation] Beast Claw,11000000,11000000,53911
+6941,53041,[Incantation] Fortissax's Light Spear,12000000,12000000,
+7010,2050020,[Incantation] Magma Breath,11000000,11000000,
+7060,2050000,[Incantation] Dragonclaw,12000000,12000000,
+7080,2050021,[Incantation] Dragonmaw,12000000,12000000,
+7090,53271,[Incantation] Greyoll's Roar,11000000,11000000,2050001
+7200,53900,[Incantation] Pest Threads,10000000,10000000,
+7210,53012,[Incantation] Swarm of Flies,11000000,11000000,53770 53861
+7240,53248,[Incantation] Scarlet Aeonia,11000000,11000000,
+7310,2050090,[Incantation] The Flame of Frenzy,10000200,10000200,
+7320,53044,[Incantation] Frenzied Burst,11000200,11000200,
+7330,53183,[Incantation] Howl of Shabriri,12000000,12000000,
+8000,53852,[Incantation] Briars of Sin,12000000,12000000,
+2004510,2050061,[Sorcery] Glintstone Nails,10000200,11000200,
+2007800,2050030,[Incantation] Fire Serpent,10000200,10000200,

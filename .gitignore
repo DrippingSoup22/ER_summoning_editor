@@ -1,0 +1,40 @@
+/ersummoneditor
+/cmd/ersummoneditor/ersummoneditor
+/cmd/ersummoneditorgui/ersummoneditorgui
+/dist/
+*.tmp
+coverage.out
+
+# Compiled test binaries. `go test -c` drops one of these beside the package
+# and a 17 MB gio.test once rode into a commit that way.
+*.test
+
+# Drawing prompts the retired tools/artbriefs wrote (2026-09-23): local,
+# untracked, left in place rather than deleted.
+artwork/prompts/
+
+# artwork/ is the bench, not the shelf. Candidates for creatures still being
+# drawn sit here flat, one file per attempt; the moment one is chosen it moves
+# to internal/ui/gio/assets/entities/<model>.png and the rest of that
+# creature's attempts go. Nothing here ships, so none of it is tracked.
+artwork/*.png
+
+# The accepted art at full resolution: 3 MB a file and 849 MB once the roster
+# is complete, which is not something to put in a repository. tools/artpack
+# packs these down to the 128px icons the editor embeds, and THOSE are tracked.
+# Back these up somewhere - an AI image cannot be regenerated.
+artwork/masters/
+
+# Pictures downloaded from ChatGPT on their way in (tools/artqueue): the
+# batch being drawn, its review page, and every download already filed, kept
+# in inbox/taken. artwork/queue.csv, which says what each one is, is tracked.
+artwork/inbox/
+
+# Contact sheets: every variant's picture beside its name, made to review the
+# pictures by eye. Remade at will, never shipped.
+artwork/sheets/
+
+# Compiled command binaries dropped beside the repo root by `go build ./tools/...`.
+# One of these - a 6.9 MB tools/batchtest build - was committed by accident in
+# e990e32 and rebuilt into another commit before anyone noticed.
+/batchtest

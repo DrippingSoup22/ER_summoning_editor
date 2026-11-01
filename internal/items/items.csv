@@ -1,0 +1,1919 @@
+table,id,name,category,subcategory
+protector,40200,Iron Gauntlets,arms,
+protector,50200,Kaiden Gauntlets,arms,
+protector,60200,Drake Knight Gauntlets,arms,
+protector,80200,Scaled Gauntlets,arms,
+protector,90200,Perfumer Gloves,arms,
+protector,100200,Traveler's Gloves,arms,
+protector,120200,Alberich's Bracers,arms,
+protector,130200,Spellblade's Gloves,arms,
+protector,140200,Bull-Goat Gauntlets,arms,
+protector,150200,Ronin's Gauntlets,arms,
+protector,170200,Blaidd's Gauntlets,arms,
+protector,180200,Black Knife Gauntlets,arms,
+protector,190200,Exile Gauntlets,arms,
+protector,200200,Banished Knight Gauntlets,arms,
+protector,210200,Briar Gauntlets,arms,
+protector,230200,Night's Cavalry Gauntlets,arms,
+protector,240200,Blue Silver Bracelets,arms,
+protector,260200,Malformed Dragon Gauntlets,arms,
+protector,270200,Tree Sentinel Gauntlets,arms,
+protector,280200,Royal Knight Gauntlets,arms,
+protector,290200,Nox Monk Bracelets,arms,
+protector,330200,Guardian Bracers,arms,
+protector,340200,Cleanrot Gauntlets,arms,
+protector,350200,Fire Monk Gauntlets,arms,
+protector,351200,Blackflame Monk Gauntlets,arms,
+protector,360200,Fire Prelate Gauntlets,arms,
+protector,420200,Vulgar Militia Gauntlets,arms,
+protector,460200,Elden Lord Bracers,arms,
+protector,470200,Radahn's Gauntlets,arms,
+protector,510200,Queen's Bracelets,arms,
+protector,520200,Godskin Apostle Bracelets,arms,
+protector,530200,Godskin Noble Bracelets,arms,
+protector,540200,Depraved Perfumer Gloves,arms,
+protector,570200,Crucible Gauntlets,arms,
+protector,580200,Lusat's Manchettes,arms,
+protector,581200,Azur's Manchettes,arms,
+protector,590200,All-Knowing Gauntlets,arms,
+protector,600200,Twinned Gauntlets,arms,
+protector,610200,Ragged Gloves,arms,
+protector,630200,Astrologer Gloves,arms,
+protector,640200,Lionel's Gauntlets,arms,
+protector,650200,Hoslow's Gauntlets,arms,
+protector,660200,Vagabond Knight Gauntlets,arms,
+protector,670200,Warrior Gauntlets,arms,
+protector,680200,War Surgeon Gloves,arms,
+protector,690200,Royal Remains Gauntlets,arms,
+protector,700200,Brave's Bracer,arms,
+protector,720200,Beast Champion Gauntlets,arms,
+protector,730200,Champion Bracers,arms,
+protector,740200,Noble's Gloves,arms,
+protector,760200,Maliketh's Gauntlets,arms,
+protector,770200,Malenia's Gauntlet,arms,
+protector,780200,Veteran's Gauntlets,arms,
+protector,790200,Bloodhound Knight Gauntlets,arms,
+protector,830200,Sorcerer Manchettes,arms,
+protector,860200,Raging Wolf Gauntlets,arms,
+protector,870200,Land of Reeds Gauntlets,arms,
+protector,872200,White Reed Gauntlets,arms,
+protector,880200,Confessor Gloves,arms,
+protector,900200,Traveling Maiden Gloves,arms,
+protector,910200,Preceptor's Gloves,arms,
+protector,930200,Bandit Manchettes,arms,
+protector,940200,Eccentric's Manchettes,arms,
+protector,950200,Fingerprint Gauntlets,arms,
+protector,963200,Bloodsoaked Manchettes,arms,
+protector,970200,Omen Gauntlets,arms,
+protector,980200,Carian Knight Gauntlets,arms,
+protector,990200,Errant Sorcerer Manchettes,arms,
+protector,1000200,Battlemage Manchettes,arms,
+protector,1020200,Traveler's Manchettes,arms,
+protector,1040200,Gold Bracelets,arms,
+protector,1070200,Zamor Bracelets,arms,
+protector,1100200,Chain Gauntlets,arms,
+protector,1130200,Mushroom Arms,arms,
+protector,1400200,Leather Gloves,arms,
+protector,1500200,Knight Gauntlets,arms,
+protector,1700200,Godrick Soldier Gauntlets,arms,
+protector,1710200,Raya Lucarian Gauntlets,arms,
+protector,1720200,Leyndell Soldier Gauntlets,arms,
+protector,1730200,Radahn Soldier Gauntlets,arms,
+protector,1740200,Mausoleum Gauntlets,arms,
+protector,1750200,Haligtree Gauntlets,arms,
+protector,1760200,Gelmir Knight Gauntlets,arms,
+protector,1770200,Godrick Knight Gauntlets,arms,
+protector,1780200,Cuckoo Knight Gauntlets,arms,
+protector,1790200,Leyndell Knight Gauntlets,arms,
+protector,1800200,Redmane Knight Gauntlets,arms,
+protector,1810200,Mausoleum Knight Gauntlets,arms,
+protector,1820200,Haligtree Knight Gauntlets,arms,
+protector,1830200,Foot Soldier Gauntlets,arms,
+protector,1890200,Omenkiller Long Gloves,arms,
+protector,1950200,Millicent's Gloves,arms,
+protector,1970200,Golden Prosthetic,arms,
+protector,1980200,Highwayman Gauntlets,arms,
+protector,3000200,Dryleaf Arm Wraps,arms,
+protector,3010200,Gaius's Gauntlets,arms,
+protector,5000200,Oathseeker Knight Gauntlets,arms,
+protector,5010200,Verdigris Gauntlets,arms,
+protector,5020200,Iron Rivet Gauntlets,arms,
+protector,5030200,Thiollier's Gloves,arms,
+protector,5060200,High Priest Gloves,arms,
+protector,5070200,Braided Arm Wraps,arms,
+protector,5080200,Dancer's Bracer,arms,
+protector,5090200,Gauntlets of Night,arms,
+protector,5100200,Igon's Gauntlets,arms,
+protector,5110200,Ansbach's Manchettes,arms,
+protector,5120200,Freyja's Gauntlets,arms,
+protector,5130200,Gauntlets of Solitude,arms,
+protector,5140200,Messmer Soldier Gauntlets,arms,
+protector,5150200,Black Knight Gauntlets,arms,
+protector,5160200,Rakshasa Gauntlets,arms,
+protector,5180200,Fire Knight Gauntlets,arms,
+protector,5190200,Leather Arm Wraps,arms,
+protector,5200200,Death Knight Gauntlets,arms,
+protector,5210200,Ascetic's Wrist Guards,arms,
+protector,5220200,Messmer's Gauntlets,arms,
+protector,5230200,Gravebird Bracelets,arms,
+protector,5240200,Common Soldier Gauntlets,arms,
+protector,5250200,Horned Warrior Gauntlets,arms,
+protector,5253200,Divine Bird Warrior Gauntlets,arms,
+protector,5260200,Rellana's Gloves,arms,
+protector,5270200,Young Lion's Gauntlets,arms,
+protector,5280200,Shadow Militiaman Gauntlets,arms,
+protector,5340200,Gold Tattoo (Arm),arms,
+protector,5350200,Silver Grooved Gauntlets,arms,
+protector,5360200,Leontiel's Leather Gloves,arms,
+protector,5370200,Steel Gauntlets,arms,
+weapon,50000000,Arrow,arrows_and_bolts,Arrows
+weapon,50010000,Fire Arrow,arrows_and_bolts,Arrows
+weapon,50020000,Serpent Arrow,arrows_and_bolts,Arrows
+weapon,50030000,Bone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50040000,St. Trina's Arrow,arrows_and_bolts,Arrows
+weapon,50060000,Shattershard Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50080000,Rainbow Stone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50090000,Golden Arrow,arrows_and_bolts,Arrows
+weapon,50100000,Dwelling Arrow,arrows_and_bolts,Arrows
+weapon,50110000,Bone Arrow,arrows_and_bolts,Arrows
+weapon,50130000,Firebone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50140000,Firebone Arrow,arrows_and_bolts,Arrows
+weapon,50150000,Poisonbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50160000,Poisonbone Arrow,arrows_and_bolts,Arrows
+weapon,50170000,Sleepbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50180000,Sleepbone Arrow,arrows_and_bolts,Arrows
+weapon,50190000,Stormwing Bone Arrow,arrows_and_bolts,Arrows
+weapon,50200000,Lightningbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50210000,Lightningbone Arrow,arrows_and_bolts,Arrows
+weapon,50220000,Rainbow Stone Arrow,arrows_and_bolts,Arrows
+weapon,50230000,Shattershard Arrow,arrows_and_bolts,Arrows
+weapon,50240000,Spiritflame Arrow,arrows_and_bolts,Arrows
+weapon,50260000,Magicbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50270000,Magicbone Arrow,arrows_and_bolts,Arrows
+weapon,50280000,Haligbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50290000,Haligbone Arrow,arrows_and_bolts,Arrows
+weapon,50300000,Bloodbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50310000,Bloodbone Arrow,arrows_and_bolts,Arrows
+weapon,50320000,Coldbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50330000,Coldbone Arrow,arrows_and_bolts,Arrows
+weapon,50340000,Rotbone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50350000,Rotbone Arrow,arrows_and_bolts,Arrows
+weapon,50540000,Piquebone Arrow (Fletched),arrows_and_bolts,Arrows
+weapon,50550000,Piquebone Arrow,arrows_and_bolts,Arrows
+weapon,51000000,Great Arrow,arrows_and_bolts,Greatarrows
+weapon,51010000,Golem's Great Arrow,arrows_and_bolts,Greatarrows
+weapon,51020000,Golden Great Arrow,arrows_and_bolts,Greatarrows
+weapon,51030000,Golem's Magic Arrow,arrows_and_bolts,Greatarrows
+weapon,51040000,Radahn's Spear,arrows_and_bolts,Greatarrows
+weapon,51050000,Bone Great Arrow (Fletched),arrows_and_bolts,Greatarrows
+weapon,51060000,Bone Great Arrow,arrows_and_bolts,Greatarrows
+weapon,51500000,Igon's Harpoon,arrows_and_bolts,Greatarrows
+weapon,52000000,Bolt,arrows_and_bolts,Bolts
+weapon,52010000,Lightning Bolt,arrows_and_bolts,Bolts
+weapon,52020000,Perfumer's Bolt,arrows_and_bolts,Bolts
+weapon,52030000,Black-Key Bolt,arrows_and_bolts,Bolts
+weapon,52040000,Burred Bolt,arrows_and_bolts,Bolts
+weapon,52050000,Meteor Bolt,arrows_and_bolts,Bolts
+weapon,52060000,Explosive Bolt,arrows_and_bolts,Bolts
+weapon,52070000,Golden Bolt,arrows_and_bolts,Bolts
+weapon,52080000,Lordsworn's Bolt,arrows_and_bolts,Bolts
+weapon,52090000,Bone Bolt,arrows_and_bolts,Bolts
+weapon,52100000,Firebone Bolt,arrows_and_bolts,Bolts
+weapon,52110000,Lightningbone Bolt,arrows_and_bolts,Bolts
+weapon,52120000,Magicbone Bolt,arrows_and_bolts,Bolts
+weapon,52130000,Haligbone Bolt,arrows_and_bolts,Bolts
+weapon,52140000,Poisonbone Bolt,arrows_and_bolts,Bolts
+weapon,52150000,Bloodbone Bolt,arrows_and_bolts,Bolts
+weapon,52160000,Coldbone Bolt,arrows_and_bolts,Bolts
+weapon,52170000,Rotbone Bolt,arrows_and_bolts,Bolts
+weapon,52180000,Sleepbone Bolt,arrows_and_bolts,Bolts
+weapon,52190000,Flaming Bolt,arrows_and_bolts,Bolts
+weapon,52520000,Piquebone Bolt,arrows_and_bolts,Bolts
+weapon,53000000,Ballista Bolt,arrows_and_bolts,Greatbolts
+weapon,53010000,Lightning Greatbolt,arrows_and_bolts,Greatbolts
+weapon,53020000,Explosive Greatbolt,arrows_and_bolts,Greatbolts
+weapon,53030000,Bone Ballista Bolt,arrows_and_bolts,Greatbolts
+weapon,53500000,Rabbath's Greatbolt,arrows_and_bolts,Greatbolts
+gem,10000,Lion's Claw,ashes_of_war,Strength
+gem,10100,Impaling Thrust,ashes_of_war,Dexterity
+gem,10200,Piercing Fang,ashes_of_war,Dexterity
+gem,10300,Spinning Slash,ashes_of_war,Dexterity
+gem,10500,Charge Forth,ashes_of_war,Quality
+gem,10600,Stamp (Upward Cut),ashes_of_war,Strength
+gem,10700,Stamp (Sweep),ashes_of_war,Strength
+gem,10800,Blood Tax,ashes_of_war,Arcane
+gem,10900,Repeating Thrust,ashes_of_war,Dexterity
+gem,11000,Wild Strikes,ashes_of_war,Strength
+gem,11100,Spinning Strikes,ashes_of_war,Quality
+gem,11200,Double Slash,ashes_of_war,Dexterity
+gem,11300,Prelate's Charge,ashes_of_war,Faith
+gem,11400,Unsheathe,ashes_of_war,Dexterity
+gem,11500,Square Off,ashes_of_war,Quality
+gem,11600,Giant Hunt,ashes_of_war,Quality
+gem,11800,Loretta's Slash,ashes_of_war,Magic
+gem,11900,Poison Moth Flight,ashes_of_war,Arcane
+gem,12000,Spinning Weapon,ashes_of_war,Magic
+gem,12200,Storm Assault,ashes_of_war,Quality
+gem,12300,Stormcaller,ashes_of_war,Quality
+gem,12400,Sword Dance,ashes_of_war,Dexterity
+gem,20000,Glintblade Phalanx,ashes_of_war,Magic
+gem,20100,Sacred Blade,ashes_of_war,Faith
+gem,20200,Ice Spear,ashes_of_war,Magic
+gem,20300,Glintstone Pebble,ashes_of_war,Magic
+gem,20400,Bloody Slash,ashes_of_war,Arcane
+gem,20500,Lifesteal Fist,ashes_of_war,Arcane
+gem,20700,Eruption,ashes_of_war,Strength
+gem,20800,Prayerful Strike,ashes_of_war,Faith
+gem,20900,Gravitas,ashes_of_war,Magic
+gem,21000,Storm Blade,ashes_of_war,Quality
+gem,21200,Earthshaker,ashes_of_war,Strength
+gem,21300,Golden Land,ashes_of_war,Faith
+gem,21400,Flaming Strike,ashes_of_war,Strength
+gem,21600,Thunderbolt,ashes_of_war,Dexterity
+gem,21700,Lightning Slash,ashes_of_war,Dexterity
+gem,21800,Carian Grandeur,ashes_of_war,Magic
+gem,21900,Carian Greatsword,ashes_of_war,Magic
+gem,22000,Vacuum Slice,ashes_of_war,Quality
+gem,22100,Black Flame Tornado,ashes_of_war,Faith
+gem,22200,Sacred Ring of Light,ashes_of_war,Faith
+gem,22400,Blood Blade,ashes_of_war,Arcane
+gem,22500,Phantom Slash,ashes_of_war,Quality
+gem,22600,Spectral Lance,ashes_of_war,Arcane
+gem,22700,Chilling Mist,ashes_of_war,Magic
+gem,22800,Poisonous Mist,ashes_of_war,Arcane
+gem,30000,Shield Bash,ashes_of_war,No Affinity
+gem,30100,Barricade Shield,ashes_of_war,No Affinity
+gem,30200,Parry,ashes_of_war,No Affinity
+gem,30500,Carian Retaliation,ashes_of_war,Magic
+gem,30600,Storm Wall,ashes_of_war,No Affinity
+gem,30700,Golden Parry,ashes_of_war,Faith
+gem,30800,Shield Crash,ashes_of_war,No Affinity
+gem,31000,Thops's Barrier,ashes_of_war,Magic
+gem,40000,Through and Through,ashes_of_war,No Affinity
+gem,40100,Barrage,ashes_of_war,No Affinity
+gem,40200,Mighty Shot,ashes_of_war,No Affinity
+gem,40400,Enchanted Shot,ashes_of_war,No Affinity
+gem,40500,Sky Shot,ashes_of_war,No Affinity
+gem,40600,Rain of Arrows,ashes_of_war,No Affinity
+gem,50100,Hoarfrost Stomp,ashes_of_war,Magic
+gem,50200,Storm Stomp,ashes_of_war,Quality
+gem,50300,Kick,ashes_of_war,Strength
+gem,50400,Lightning Ram,ashes_of_war,Dexterity
+gem,50500,Flame of the Redmanes,ashes_of_war,Strength
+gem,50600,Ground Slam,ashes_of_war,Strength
+gem,50700,Golden Slam,ashes_of_war,Faith
+gem,50800,Waves of Darkness,ashes_of_war,Magic
+gem,50900,Hoarah Loux's Earthshaker,ashes_of_war,Strength
+gem,60000,Determination,ashes_of_war,Quality
+gem,60100,Royal Knight's Resolve,ashes_of_war,Quality
+gem,60200,Assassin's Gambit,ashes_of_war,Arcane
+gem,60300,Golden Vow,ashes_of_war,Faith
+gem,60400,Sacred Order,ashes_of_war,Faith
+gem,60500,Shared Order,ashes_of_war,Faith
+gem,60600,Seppuku,ashes_of_war,Arcane
+gem,60700,Cragblade,ashes_of_war,Strength
+gem,65000,Barbaric Roar,ashes_of_war,Strength
+gem,65100,War Cry,ashes_of_war,Strength
+gem,65200,Beast's Roar,ashes_of_war,Dexterity
+gem,65300,Troll's Roar,ashes_of_war,Strength
+gem,65400,Braggart's Roar,ashes_of_war,Strength
+gem,70000,Endure,ashes_of_war,Strength
+gem,70100,Vow of the Indomitable,ashes_of_war,Faith
+gem,70200,Holy Ground,ashes_of_war,Faith
+gem,80000,Quickstep,ashes_of_war,Dexterity
+gem,80100,Bloodhound's Step,ashes_of_war,Dexterity
+gem,80200,Raptor of the Mists,ashes_of_war,Dexterity
+gem,85000,White Shadow's Lure,ashes_of_war,Arcane
+gem,200000,Dryleaf Whirlwind,ashes_of_war,No Affinity
+gem,200100,Aspects of the Crucible: Wings,ashes_of_war,Faith
+gem,400000,Spinning Gravity Thrust,ashes_of_war,Strength
+gem,401000,Palm Blast,ashes_of_war,No Affinity
+gem,402000,Piercing Throw,ashes_of_war,Dexterity
+gem,403000,Scattershot Throw,ashes_of_war,Dexterity
+gem,404000,Wall of Sparks,ashes_of_war,No Affinity
+gem,405000,Rolling Sparks,ashes_of_war,No Affinity
+gem,406000,Raging Beast,ashes_of_war,Dexterity
+gem,407000,Savage Claws,ashes_of_war,Dexterity
+gem,409000,Blind Spot,ashes_of_war,Dexterity
+gem,410000,Swift Slash,ashes_of_war,Dexterity
+gem,411000,Overhead Stance,ashes_of_war,Dexterity
+gem,412000,Wing Stance,ashes_of_war,Quality
+gem,413000,Blinkbolt,ashes_of_war,Dexterity
+gem,414000,Flame Skewer,ashes_of_war,Faith
+gem,415000,Savage Lion's Claw,ashes_of_war,Strength
+gem,416000,Divine Beast Frost Stomp,ashes_of_war,Magic
+gem,417000,Flame Spear,ashes_of_war,Faith
+gem,418000,Carian Sovereignty,ashes_of_war,Magic
+gem,419000,Shriek of Sorrow,ashes_of_war,Arcane
+gem,422000,Ghostflame Call,ashes_of_war,Magic
+gem,505000,The Poison Flower Blooms Twice,ashes_of_war,Arcane
+gem,548000,Igon's Drake Hunt,ashes_of_war,No Affinity
+gem,800000,Shield Strike,ashes_of_war,No Affinity
+protector,40100,Scale Armor,chest,
+protector,50100,Kaiden Armor,chest,
+protector,60100,Drake Knight Armor,chest,
+protector,61100,Drake Knight Armor (Altered),chest,
+protector,80100,Scaled Armor,chest,
+protector,81100,Scaled Armor (Altered),chest,
+protector,90100,Perfumer Robe,chest,
+protector,91100,Perfumer Robe (Altered),chest,
+protector,100100,Perfumer's Traveling Garb,chest,
+protector,101100,Perfumer's Traveling Garb (Altered),chest,
+protector,120100,Alberich's Robe,chest,
+protector,121100,Alberich's Robe (Altered),chest,
+protector,130100,Spellblade's Traveling Attire,chest,
+protector,131100,Spellblade's Traveling Attire (Altered),chest,
+protector,140100,Bull-Goat Armor,chest,
+protector,150100,Ronin's Armor,chest,
+protector,151100,Ronin's Armor (Altered),chest,
+protector,160100,Cloth Garb,chest,
+protector,170100,Blaidd's Armor,chest,
+protector,171100,Blaidd's Armor (Altered),chest,
+protector,180100,Black Knife Armor,chest,
+protector,181100,Black Knife Armor (Altered),chest,
+protector,190100,Exile Armor,chest,
+protector,200100,Banished Knight Armor,chest,
+protector,201100,Banished Knight Armor (Altered),chest,
+protector,210100,Briar Armor,chest,
+protector,211100,Briar Armor (Altered),chest,
+protector,220100,Page Garb,chest,
+protector,221100,Page Garb (Altered),chest,
+protector,230100,Night's Cavalry Armor,chest,
+protector,231100,Night's Cavalry Armor (Altered),chest,
+protector,240100,Blue Silver Mail Armor,chest,
+protector,241100,Blue Silver Mail Armor (Altered),chest,
+protector,250100,Nomadic Merchant's Finery,chest,
+protector,251100,Nomadic Merchant's Finery (Altered),chest,
+protector,260100,Malformed Dragon Armor,chest,
+protector,270100,Tree Sentinel Armor,chest,
+protector,271100,Tree Sentinel Armor (Altered),chest,
+protector,280100,Royal Knight Armor,chest,
+protector,281100,Royal Knight Armor (Altered),chest,
+protector,290100,Nox Monk Armor,chest,
+protector,291100,Nox Monk Armor (Altered),chest,
+protector,292100,Nox Swordstress Armor,chest,
+protector,293100,Night Maiden Armor,chest,
+protector,294100,Nox Swordstress Armor (Altered),chest,
+protector,300100,Fur Raiment,chest,
+protector,301100,Shaman Furs,chest,
+protector,310100,Gravekeeper Cloak,chest,
+protector,311100,Gravekeeper Cloak (Altered),chest,
+protector,320100,Sanguine Noble Robe,chest,
+protector,330100,Guardian Garb (Full Bloom),chest,
+protector,331100,Guardian Garb,chest,
+protector,340100,Cleanrot Armor,chest,
+protector,341100,Cleanrot Armor (Altered),chest,
+protector,350100,Fire Monk Armor,chest,
+protector,351100,Blackflame Monk Armor,chest,
+protector,360100,Fire Prelate Armor,chest,
+protector,361100,Fire Prelate Armor (Altered),chest,
+protector,370100,Aristocrat Garb,chest,
+protector,371100,Aristocrat Garb (Altered),chest,
+protector,380100,Aristocrat Coat,chest,
+protector,390100,Old Aristocrat Gown,chest,
+protector,420100,Vulgar Militia Armor,chest,
+protector,430100,Sage Robe,chest,
+protector,460100,Elden Lord Armor,chest,
+protector,461100,Elden Lord Armor (Altered),chest,
+protector,470100,Radahn's Lion Armor,chest,
+protector,471100,Radahn's Lion Armor (Altered),chest,
+protector,480100,Lord of Blood's Robe,chest,
+protector,481100,Lord of Blood's Robe (Altered),chest,
+protector,510100,Queen's Robe,chest,
+protector,520100,Godskin Apostle Robe,chest,
+protector,530100,Godskin Noble Robe,chest,
+protector,540100,Depraved Perfumer Robe,chest,
+protector,541100,Depraved Perfumer Robe (Altered),chest,
+protector,570100,Crucible Axe Armor,chest,
+protector,571100,Crucible Tree Armor,chest,
+protector,572100,Crucible Axe Armor (Altered),chest,
+protector,573100,Crucible Tree Armor (Altered),chest,
+protector,580100,Lusat's Robe,chest,
+protector,581100,Azur's Glintstone Robe,chest,
+protector,590100,All-Knowing Armor,chest,
+protector,591100,All-Knowing Armor (Altered),chest,
+protector,600100,Twinned Armor,chest,
+protector,601100,Twinned Armor (Altered),chest,
+protector,610100,Ragged Armor,chest,
+protector,611100,Ragged Armor (Altered),chest,
+protector,620100,Corhyn's Robe,chest,
+protector,621100,Prophet Robe (Altered),chest,
+protector,622100,Prophet Robe,chest,
+protector,630100,Astrologer Robe,chest,
+protector,631100,Astrologer Robe (Altered),chest,
+protector,640100,Lionel's Armor,chest,
+protector,641100,Lionel's Armor (Altered),chest,
+protector,650100,Hoslow's Armor,chest,
+protector,652100,Hoslow's Armor (Altered),chest,
+protector,660100,Vagabond Knight Armor,chest,
+protector,661100,Vagabond Knight Armor (Altered),chest,
+protector,670100,Blue Cloth Vest,chest,
+protector,680100,War Surgeon Gown,chest,
+protector,681100,War Surgeon Gown (Altered),chest,
+protector,690100,Royal Remains Armor,chest,
+protector,700100,Brave's Battlewear,chest,
+protector,702000,Brave's Battlewear (Altered),chest,
+protector,720100,Beast Champion Armor,chest,
+protector,721100,Beast Champion Armor (Altered),chest,
+protector,730100,Champion Pauldron,chest,
+protector,740100,Noble's Traveling Garb,chest,
+protector,760100,Maliketh's Armor,chest,
+protector,761100,Maliketh's Armor (Altered),chest,
+protector,770100,Malenia's Armor,chest,
+protector,771100,Malenia's Armor (Altered),chest,
+protector,780100,Veteran's Armor,chest,
+protector,781100,Veteran's Armor (Altered),chest,
+protector,790100,Bloodhound Knight Armor,chest,
+protector,791100,Bloodhound Knight Armor (Altered),chest,
+protector,800100,Festive Garb,chest,
+protector,801100,Festive Garb (Altered),chest,
+protector,802100,Blue Festive Garb,chest,
+protector,810100,Commoner's Garb,chest,
+protector,811100,Commoner's Garb (Altered),chest,
+protector,812000,Commoner's Simple Garb,chest,
+protector,812100,Commoner's Simple Garb (Altered),chest,
+protector,830100,Raya Lucarian Robe,chest,
+protector,840100,Marionette Soldier Armor,chest,
+protector,860100,Raging Wolf Armor,chest,
+protector,861100,Raging Wolf Armor (Altered),chest,
+protector,870100,Land of Reeds Armor,chest,
+protector,871100,Land of Reeds Armor (Altered),chest,
+protector,872100,White Reed Armor,chest,
+protector,880100,Confessor Armor,chest,
+protector,881100,Confessor Armor (Altered),chest,
+protector,890100,Prisoner Clothing,chest,
+protector,900100,Traveling Maiden Robe,chest,
+protector,901100,Traveling Maiden Robe (Altered),chest,
+protector,902100,Finger Maiden Robe,chest,
+protector,903100,Finger Maiden Robe (Altered),chest,
+protector,910100,Preceptor's Long Gown,chest,
+protector,911100,Preceptor's Long Gown (Altered),chest,
+protector,930100,Raptor's Black Feathers,chest,
+protector,931100,Bandit Garb,chest,
+protector,940100,Eccentric's Armor,chest,
+protector,950100,Fingerprint Armor,chest,
+protector,951100,Fingerprint Armor (Altered),chest,
+protector,960100,Consort's Robe,chest,
+protector,961100,Ruler's Robe,chest,
+protector,962100,Upper-Class Robe,chest,
+protector,963100,Marais Robe,chest,
+protector,964100,Official's Attire,chest,
+protector,970100,Omen Armor,chest,
+protector,980100,Carian Knight Armor,chest,
+protector,981100,Carian Knight Armor (Altered),chest,
+protector,990100,Errant Sorcerer Robe,chest,
+protector,991100,Errant Sorcerer Robe (Altered),chest,
+protector,1000100,Battlemage Robe,chest,
+protector,1010100,Snow Witch Robe,chest,
+protector,1011100,Snow Witch Robe (Altered),chest,
+protector,1020100,Traveler's Clothes,chest,
+protector,1030100,Juvenile Scholar Robe,chest,
+protector,1040100,Goldmask's Rags,chest,
+protector,1050100,Fell Omen Cloak,chest,
+protector,1060100,Dirty Chainmail,chest,
+protector,1070100,Zamor Armor,chest,
+protector,1100100,Chain Armor,chest,
+protector,1101100,Eye Surcoat,chest,
+protector,1102100,Tree Surcoat,chest,
+protector,1130100,Mushroom Body,chest,
+protector,1400100,Leather Armor,chest,
+protector,1500100,Knight Armor,chest,
+protector,1700100,Tree-and-Beast Surcoat,chest,
+protector,1710100,Cuckoo Surcoat,chest,
+protector,1720100,Erdtree Surcoat,chest,
+protector,1730100,Redmane Surcoat,chest,
+protector,1740100,Mausoleum Surcoat,chest,
+protector,1750100,Haligtree Crest Surcoat,chest,
+protector,1760100,Gelmir Knight Armor,chest,
+protector,1761100,Gelmir Knight Armor (Altered),chest,
+protector,1770100,Godrick Knight Armor,chest,
+protector,1771100,Godrick Knight Armor (Altered),chest,
+protector,1780100,Cuckoo Knight Armor,chest,
+protector,1781100,Cuckoo Knight Armor (Altered),chest,
+protector,1790100,Leyndell Knight Armor,chest,
+protector,1791100,Leyndell Knight Armor (Altered),chest,
+protector,1800100,Redmane Knight Armor,chest,
+protector,1801100,Redmane Knight Armor (Altered),chest,
+protector,1810100,Mausoleum Knight Armor,chest,
+protector,1811100,Mausoleum Knight Armor (Altered),chest,
+protector,1820100,Haligtree Knight Armor,chest,
+protector,1821100,Haligtree Knight Armor (Altered),chest,
+protector,1830100,Chain-Draped Tabard,chest,
+protector,1840100,Foot Soldier Tabard,chest,
+protector,1850100,Leather-Draped Tabard,chest,
+protector,1860100,Scarlet Tabard,chest,
+protector,1870100,Bloodsoaked Tabard,chest,
+protector,1880100,Ivory-Draped Tabard,chest,
+protector,1890100,Omenkiller Robe,chest,
+protector,1930100,Deathbed Dress,chest,
+protector,1940100,Fia's Robe,chest,
+protector,1941100,Fia's Robe (Altered),chest,
+protector,1950100,Millicent's Robe,chest,
+protector,1970100,Millicent's Tunic,chest,
+protector,1980100,Highwayman Cloth Armor,chest,
+protector,1990100,High Page Clothes,chest,
+protector,1991100,High Page Clothes (Altered),chest,
+protector,2000100,Rotten Gravekeeper Cloak,chest,
+protector,2001100,Rotten Gravekeeper Cloak (Altered),chest,
+protector,2030000,Lazuli Robe,chest,
+protector,3000100,Dryleaf Robe,chest,
+protector,3001100,Dryleaf Robe (Altered),chest,
+protector,3010100,Gaius's Armor,chest,
+protector,5000100,Leda's Armor,chest,
+protector,5002100,Oathseeker Knight Armor,chest,
+protector,5010100,Verdigris Armor,chest,
+protector,5020100,Iron Rivet Armor,chest,
+protector,5030100,Thiollier's Garb,chest,
+protector,5031100,Thiollier's Garb (Altered),chest,
+protector,5060100,High Priest Robe,chest,
+protector,5062100,Finger Robe,chest,
+protector,5070100,Braided Cord Robe,chest,
+protector,5080100,Dancer's Dress,chest,
+protector,5081100,Dancer's Dress (Altered),chest,
+protector,5090100,Armor of Night,chest,
+protector,5100100,Igon's Armor,chest,
+protector,5101100,Igon's Armor (Altered),chest,
+protector,5110100,Ansbach's Attire,chest,
+protector,5111100,Ansbach's Attire (Altered),chest,
+protector,5120100,Freyja's Armor,chest,
+protector,5121100,Freyja's Armor (Altered),chest,
+protector,5130100,Armor of Solitude,chest,
+protector,5131100,Armor of Solitude (Altered),chest,
+protector,5140100,Messmer Soldier Armor,chest,
+protector,5141100,Messmer Soldier Armor (Altered),chest,
+protector,5150100,Black Knight Armor,chest,
+protector,5160100,Rakshasa Armor,chest,
+protector,5180100,Fire Knight Armor,chest,
+protector,5181100,Fire Knight Armor (Altered),chest,
+protector,5190100,Gloried Attire,chest,
+protector,5191100,Highland Attire,chest,
+protector,5200100,Death Knight Armor,chest,
+protector,5210100,Ascetic's Loincloth,chest,
+protector,5220100,Messmer's Armor,chest,
+protector,5230100,Gravebird's Blackquill Armor,chest,
+protector,5231100,Gravebird Armor,chest,
+protector,5240100,Common Soldier Cloth Armor,chest,
+protector,5250100,Horned Warrior Armor,chest,
+protector,5252100,Divine Beast Warrior Armor,chest,
+protector,5253100,Divine Bird Warrior Armor,chest,
+protector,5260100,Rellana's Armor,chest,
+protector,5270100,Young Lion's Armor,chest,
+protector,5271100,Young Lion's Armor (Altered),chest,
+protector,5280100,Shadow Militiaman Armor,chest,
+protector,5340100,Gold Tattoo (Chest),chest,
+protector,5350100,Silver Grooved Armor,chest,
+protector,5351100,Silver Grooved Armor (Altered),chest,
+protector,5360100,Leontiel's Armor,chest,
+protector,5370100,Steel Armor,chest,
+protector,40000,Iron Helmet,head,
+protector,50000,Kaiden Helm,head,
+protector,60000,Drake Knight Helm,head,
+protector,61000,Drake Knight Helm (Altered),head,
+protector,80000,Scaled Helm,head,
+protector,90000,Perfumer Hood,head,
+protector,100000,Traveler's Hat,head,
+protector,120000,Alberich's Pointed Hat,head,
+protector,121000,Alberich's Pointed Hat (Altered),head,
+protector,130000,Spellblade's Pointed Hat,head,
+protector,140000,Bull-Goat Helm,head,
+protector,150000,Iron Kasa,head,
+protector,160000,Guilty Hood,head,
+protector,170000,Black Wolf Mask,head,
+protector,180000,Black Knife Hood,head,
+protector,190000,Exile Hood,head,
+protector,200000,Banished Knight Helm,head,
+protector,201000,Banished Knight Helm (Altered),head,
+protector,210000,Briar Helm,head,
+protector,220000,Page Hood,head,
+protector,230000,Night's Cavalry Helm,head,
+protector,231000,Night's Cavalry Helm (Altered),head,
+protector,240000,Blue Silver Mail Hood,head,
+protector,250000,Nomadic Merchant's Chapeau,head,
+protector,260000,Malformed Dragon Helm,head,
+protector,270000,Tree Sentinel Helm,head,
+protector,280000,Royal Knight Helm,head,
+protector,290000,Nox Monk Hood,head,
+protector,291000,Nox Monk Hood (Altered),head,
+protector,292000,Nox Swordstress Crown,head,
+protector,293000,Night Maiden Twin Crown,head,
+protector,294000,Nox Swordstress Crown (Altered),head,
+protector,300000,Great Horned Headband,head,
+protector,301000,Shining Horned Headband,head,
+protector,310000,Duelist Helm,head,
+protector,320000,Sanguine Noble Hood,head,
+protector,330000,Guardian Mask,head,
+protector,340000,Cleanrot Helm,head,
+protector,341000,Cleanrot Helm (Altered),head,
+protector,350000,Fire Monk Hood,head,
+protector,351000,Blackflame Monk Hood,head,
+protector,360000,Fire Prelate Helm,head,
+protector,370000,Aristocrat Headband,head,
+protector,380000,Aristocrat Hat,head,
+protector,390000,Old Aristocrat Cowl,head,
+protector,420000,Vulgar Militia Helm,head,
+protector,430000,Sage Hood,head,
+protector,440000,Pumpkin Helm,head,
+protector,460000,Elden Lord Crown,head,
+protector,470000,Radahn's Redmane Helm,head,
+protector,510000,Queen's Crescent Crown,head,
+protector,520000,Godskin Apostle Hood,head,
+protector,530000,Godskin Noble Hood,head,
+protector,540000,Depraved Perfumer Headscarf,head,
+protector,570000,Crucible Axe Helm,head,
+protector,571000,Crucible Tree Helm,head,
+protector,580000,Lusat's Glintstone Crown,head,
+protector,581000,Azur's Glintstone Crown,head,
+protector,590000,All-Knowing Helm,head,
+protector,600000,Twinned Helm,head,
+protector,610000,Ragged Hat,head,
+protector,611000,Ragged Hat (Altered),head,
+protector,620000,Prophet Blindfold,head,
+protector,630000,Astrologer Hood,head,
+protector,640000,Lionel's Helm,head,
+protector,650000,Hoslow's Helm,head,
+protector,651000,Diallos's Mask,head,
+protector,660000,Vagabond Knight Helm,head,
+protector,670000,Blue Cloth Cowl,head,
+protector,680000,White Mask,head,
+protector,690000,Royal Remains Helm,head,
+protector,700000,Brave's Cord Circlet,head,
+protector,701000,Brave's Leather Helm,head,
+protector,720000,Beast Champion Helm,head,
+protector,730000,Champion Headband,head,
+protector,740000,Crimson Hood,head,
+protector,741000,Navy Hood,head,
+protector,760000,Maliketh's Helm,head,
+protector,770000,Malenia's Winged Helm,head,
+protector,780000,Veteran's Helm,head,
+protector,790000,Bloodhound Knight Helm,head,
+protector,800000,Festive Hood,head,
+protector,801000,Festive Hood (Altered),head,
+protector,802000,Blue Festive Hood,head,
+protector,810000,Commoner's Headband,head,
+protector,811000,Commoner's Headband (Altered),head,
+protector,820000,Envoy Crown,head,
+protector,830000,Twinsage Glintstone Crown,head,
+protector,831000,Olivinus Glintstone Crown,head,
+protector,832000,Lazuli Glintstone Crown,head,
+protector,833000,Karolos Glintstone Crown,head,
+protector,834000,Witch's Glintstone Crown,head,
+protector,840000,Marionette Soldier Helm,head,
+protector,850000,Marionette Soldier Birdhelm,head,
+protector,860000,Raging Wolf Helm,head,
+protector,870000,Land of Reeds Helm,head,
+protector,872000,Okina Mask,head,
+protector,880000,Confessor Hood,head,
+protector,881000,Confessor Hood (Altered),head,
+protector,890000,Prisoner Iron Mask,head,
+protector,891000,Blackguard's Iron Mask,head,
+protector,900000,Traveling Maiden Hood,head,
+protector,902000,Finger Maiden Fillet,head,
+protector,910000,Preceptor's Big Hat,head,
+protector,911000,Mask of Confidence,head,
+protector,920000,Grass Hair Ornament,head,
+protector,930000,Skeletal Mask,head,
+protector,940000,Eccentric's Hood,head,
+protector,941000,Eccentric's Hood (Altered),head,
+protector,950000,Fingerprint Helm,head,
+protector,960000,Consort's Mask,head,
+protector,961000,Ruler's Mask,head,
+protector,963000,Marais Mask,head,
+protector,964000,Bloodsoaked Mask,head,
+protector,970000,Omen Helm,head,
+protector,980000,Carian Knight Helm,head,
+protector,990000,Hierodas Glintstone Crown,head,
+protector,1000000,Haima Glintstone Crown,head,
+protector,1010000,Snow Witch Hat,head,
+protector,1030000,Juvenile Scholar Cap,head,
+protector,1040000,Radiant Gold Mask,head,
+protector,1060000,Albinauric Mask,head,
+protector,1070000,Zamor Mask,head,
+protector,1080000,Imp Head (Cat),head,
+protector,1081000,Imp Head (Fanged),head,
+protector,1082000,Imp Head (Long-Tongued),head,
+protector,1083000,Imp Head (Corpse),head,
+protector,1084000,Imp Head (Wolf),head,
+protector,1085000,Imp Head (Elder),head,
+protector,1090000,Silver Tear Mask,head,
+protector,1100000,Chain Coif,head,
+protector,1101000,Greathelm,head,
+protector,1110000,Octopus Head,head,
+protector,1120000,Jar,head,
+protector,1130000,Mushroom Head,head,
+protector,1300000,Nox Mirrorhelm,head,
+protector,1301000,Iji's Mirrorhelm,head,
+protector,1400000,Black Hood,head,
+protector,1401000,Bandit Mask,head,
+protector,1500000,Knight Helm,head,
+protector,1600000,Greathood,head,
+protector,1700000,Godrick Soldier Helm,head,
+protector,1710000,Raya Lucarian Helm,head,
+protector,1720000,Leyndell Soldier Helm,head,
+protector,1730000,Radahn Soldier Helm,head,
+protector,1750000,Haligtree Helm,head,
+protector,1760000,Gelmir Knight Helm,head,
+protector,1770000,Godrick Knight Helm,head,
+protector,1780000,Cuckoo Knight Helm,head,
+protector,1790000,Leyndell Knight Helm,head,
+protector,1800000,Redmane Knight Helm,head,
+protector,1820000,Haligtree Knight Helm,head,
+protector,1830000,Foot Soldier Cap,head,
+protector,1840000,Foot Soldier Helmet,head,
+protector,1850000,Gilded Foot Soldier Cap,head,
+protector,1860000,Foot Soldier Helm,head,
+protector,1880000,Sacred Crown Helm,head,
+protector,1890000,Omensmirk Mask,head,
+protector,1900000,Ash-of-War Scarab,head,
+protector,1901000,Incantation Scarab,head,
+protector,1902000,Glintstone Scarab,head,
+protector,1910000,Crimson Tear Scarab,head,
+protector,1920000,Cerulean Tear Scarab,head,
+protector,1940000,Fia's Hood,head,
+protector,1980000,Highwayman Hood,head,
+protector,1990000,High Page Hood,head,
+protector,2000000,Rotten Duelist Helm,head,
+protector,2010000,Mushroom Crown,head,
+protector,2020000,Black Dumpling,head,
+protector,3000000,Dane's Hat,head,
+protector,3010000,Gaius's Helm,head,
+protector,5000000,Oathseeker Knight Helm,head,
+protector,5010000,Verdigris Helm,head,
+protector,5020000,Pelt of Ralva,head,
+protector,5021000,Fang Helm,head,
+protector,5030000,Thiollier's Mask,head,
+protector,5060000,High Priest Hat,head,
+protector,5070000,Caterpillar Mask,head,
+protector,5080000,Dancer's Hood,head,
+protector,5090000,Helm of Night,head,
+protector,5100000,Igon's Helm,head,
+protector,5101000,Igon's Helm (Altered),head,
+protector,5110000,Wise Man's Mask,head,
+protector,5120000,Freyja's Helm,head,
+protector,5130000,Helm of Solitude,head,
+protector,5140000,Messmer Soldier Helm,head,
+protector,5150000,Black Knight Helm,head,
+protector,5160000,Rakshasa Helm,head,
+protector,5180000,Fire Knight Helm,head,
+protector,5182000,Death Mask Helm,head,
+protector,5183000,Winged Serpent Helm,head,
+protector,5184000,Salza's Hood,head,
+protector,5190000,Leather Headband,head,
+protector,5191000,Leather Crown,head,
+protector,5200000,Death Knight Helm,head,
+protector,5210000,Curseblade Mask,head,
+protector,5220000,Messmer's Helm,head,
+protector,5221000,Messmer's Helm (Altered),head,
+protector,5230000,Gravebird Helm,head,
+protector,5240000,Common Soldier Helm,head,
+protector,5250000,Horned Warrior Helm,head,
+protector,5252000,Divine Beast Helm,head,
+protector,5253000,Divine Bird Helm,head,
+protector,5260000,Rellana's Helm,head,
+protector,5270000,Young Lion's Helm,head,
+protector,5272000,Circlet of Light,head,
+protector,5280000,Shadow Militiaman Helm,head,
+protector,5290000,Divine Beast Head,head,
+protector,5300000,St. Trina's Blossom,head,
+protector,5310000,Crucible Hammer-Helm,head,
+protector,5320000,Greatjar,head,
+protector,5330000,Imp Head (Lion),head,
+protector,5340000,Broken Gold Mask,head,
+protector,5350000,Silver Grooved Helm,head,
+protector,5360000,Leontiel's Hat,head,
+protector,5361000,Leontiel's Hat (Altered),head,
+protector,5370000,Steel Helm,head,
+magic,5040,Death Lightning,incantations,Dragon Cult Incantations
+magic,6000,Catch Flame,incantations,Flame Incantations
+magic,6001,"O, Flame!",incantations,Flame Incantations
+magic,6010,Flame Sling,incantations,Flame Incantations
+magic,6020,"Flame, Fall Upon Them",incantations,Flame Incantations
+magic,6030,"Whirl, O Flame!",incantations,Flame Incantations
+magic,6050,"Flame, Grant Me Strength",incantations,Flame Incantations
+magic,6060,"Flame, Protect Me",incantations,Flame Incantations
+magic,6100,Giantsflame Take Thee,incantations,Flame Incantations
+magic,6110,Flame of the Fell God,incantations,Flame Incantations
+magic,6120,"Burn, O Flame!",incantations,Flame Incantations
+magic,6210,Black Flame,incantations,Godslayer Incantations
+magic,6220,"Surge, O Flame!",incantations,Flame Incantations
+magic,6230,Scouring Black Flame,incantations,Godslayer Incantations
+magic,6240,Black Flame Ritual,incantations,Godslayer Incantations
+magic,6250,Black Flame Blade,incantations,Godslayer Incantations
+magic,6260,Black Flame's Protection,incantations,Godslayer Incantations
+magic,6270,Noble Presence,incantations,Godslayer Incantations
+magic,6300,Bloodflame Talons,incantations,Blood Oath Incantations
+magic,6310,Bloodboon,incantations,Blood Oath Incantations
+magic,6320,Bloodflame Blade,incantations,Blood Oath Incantations
+magic,6330,Barrier of Gold,incantations,Erdtree Worship Incantations
+magic,6340,Protection of the Erdtree,incantations,Erdtree Worship Incantations
+magic,6400,Rejection,incantations,Two Fingers Incantations
+magic,6410,Wrath of Gold,incantations,Erdtree Worship Incantations
+magic,6420,Urgent Heal,incantations,Two Fingers Incantations
+magic,6421,Heal,incantations,Two Fingers Incantations
+magic,6422,Great Heal,incantations,Two Fingers Incantations
+magic,6423,Lord's Heal,incantations,Two Fingers Incantations
+magic,6424,Erdtree Heal,incantations,Erdtree Incantations
+magic,6430,Blessing's Boon,incantations,Erdtree Incantations
+magic,6431,Blessing of the Erdtree,incantations,Erdtree Incantations
+magic,6441,Lord's Aid,incantations,Two Fingers Incantations
+magic,6450,Flame Fortification,incantations,Two Fingers Incantations
+magic,6460,Magic Fortification,incantations,Two Fingers Incantations
+magic,6470,Lightning Fortification,incantations,Two Fingers Incantations
+magic,6480,Divine Fortification,incantations,Two Fingers Incantations
+magic,6490,Lord's Divine Fortification,incantations,Two Fingers Incantations
+magic,6600,Golden Vow,incantations,Erdtree Worship Incantations
+magic,6700,Discus of Light,incantations,Golden Order Incantations
+magic,6701,Triple Rings of Light,incantations,Golden Order Incantations
+magic,6710,Radagon's Rings of Light,incantations,Golden Order Incantations
+magic,6720,Elden Stars,incantations,Erdtree Incantations
+magic,6730,Law of Regression,incantations,Golden Order Incantations
+magic,6740,Immutable Shield,incantations,Golden Order Incantations
+magic,6750,Litany of Proper Death,incantations,Golden Order Incantations
+magic,6760,Law of Causality,incantations,Golden Order Incantations
+magic,6770,Order's Blade,incantations,Golden Order Incantations
+magic,6800,Bestial Sling,incantations,Bestial Incantations
+magic,6810,Stone of Gurranq,incantations,Bestial Incantations
+magic,6820,Beast Claw,incantations,Bestial Incantations
+magic,6830,Gurranq's Beast Claw,incantations,Bestial Incantations
+magic,6840,Bestial Vitality,incantations,Bestial Incantations
+magic,6900,Lightning Spear,incantations,Dragon Cult Incantations
+magic,6910,Ancient Dragons' Lightning Strike,incantations,Dragon Cult Incantations
+magic,6920,Lightning Strike,incantations,Dragon Cult Incantations
+magic,6921,Frozen Lightning Spear,incantations,Dragon Cult Incantations
+magic,6930,Honed Bolt,incantations,Dragon Cult Incantations
+magic,6940,Ancient Dragons' Lightning Spear,incantations,Dragon Cult Incantations
+magic,6941,Fortissax's Lightning Spear,incantations,Dragon Cult Incantations
+magic,6950,Lansseax's Glaive,incantations,Dragon Cult Incantations
+magic,6960,Electrify Armament,incantations,Dragon Cult Incantations
+magic,6970,Vyke's Dragonbolt,incantations,Dragon Cult Incantations
+magic,6971,Dragonbolt Blessing,incantations,Dragon Cult Incantations
+magic,7000,Dragonfire,incantations,Dragon Communion Incantations
+magic,7001,Agheel's Flame,incantations,Dragon Communion Incantations
+magic,7010,Magma Breath,incantations,Dragon Communion Incantations
+magic,7011,Theodorix's Magma,incantations,Dragon Communion Incantations
+magic,7020,Dragonice,incantations,Dragon Communion Incantations
+magic,7021,Borealis's Mist,incantations,Dragon Communion Incantations
+magic,7030,Rotten Breath,incantations,Dragon Communion Incantations
+magic,7031,Ekzykes's Decay,incantations,Dragon Communion Incantations
+magic,7040,Glintstone Breath,incantations,Dragon Communion Incantations
+magic,7041,Smarag's Glintstone Breath,incantations,Dragon Communion Incantations
+magic,7050,Placidusax's Ruin,incantations,Dragon Communion Incantations
+magic,7060,Dragonclaw,incantations,Dragon Communion Incantations
+magic,7080,Dragonmaw,incantations,Dragon Communion Incantations
+magic,7090,Greyoll's Roar,incantations,Dragon Communion Incantations
+magic,7200,Pest Threads,incantations,Servants of Rot Incantations
+magic,7210,Swarm of Flies,incantations,Blood Oath Incantations
+magic,7220,Poison Mist,incantations,Servants of Rot Incantations
+magic,7230,Poison Armament,incantations,Servants of Rot Incantations
+magic,7240,Scarlet Aeonia,incantations,Servants of Rot Incantations
+magic,7300,Inescapable Frenzy,incantations,Three Fingers Incantations
+magic,7310,The Flame of Frenzy,incantations,Three Fingers Incantations
+magic,7311,Unendurable Frenzy,incantations,Three Fingers Incantations
+magic,7320,Frenzied Burst,incantations,Three Fingers Incantations
+magic,7330,Howl of Shabriri,incantations,Three Fingers Incantations
+magic,7500,Aspects of the Crucible: Tail,incantations,Erdtree Incantations
+magic,7510,Aspects of the Crucible: Horns,incantations,Erdtree Incantations
+magic,7520,Aspects of the Crucible: Breath,incantations,Erdtree Incantations
+magic,7530,Black Blade,incantations,Erdtree Incantations
+magic,7900,Fire's Deadly Sin,incantations,Flame Incantations
+magic,7903,Golden Lightning Fortification,incantations,Erdtree Worship Incantations
+magic,2006300,Furious Blade of Ansbach,incantations,Blood Oath Incantations
+magic,2006400,Heal from Afar,incantations,Erdtree Incantations
+magic,2006650,Aspects of the Crucible: Thorns,incantations,Erdtree Incantations
+magic,2006660,Aspects of the Crucible: Bloom,incantations,Erdtree Incantations
+magic,2006670,Minor Erdtree,incantations,Erdtree Incantations
+magic,2006680,Land of Shadow,incantations,Erdtree Incantations
+magic,2006690,Wrath from Afar,incantations,Erdtree Incantations
+magic,2006700,Light of Miquella,incantations,Miquella's Incantations
+magic,2006710,Multilayered Ring of Light,incantations,Miquella's Incantations
+magic,2006800,Roar of Rugalea,incantations,Bear Communion Incantations
+magic,2006900,Knight's Lightning Spear,incantations,Dragon Cult Incantations
+magic,2006910,Dragonbolt of Florissax,incantations,Dragon Cult Incantations
+magic,2006920,Electrocharge,incantations,Dragon Cult Incantations
+magic,2007000,Bayle's Tyranny,incantations,Dragon Communion Incantations
+magic,2007010,Bayle's Flame Lightning,incantations,Dragon Communion Incantations
+magic,2007020,Ghostflame Breath,incantations,Dragon Communion Incantations
+magic,2007200,Rotten Butterflies,incantations,Servants of Rot Incantations
+magic,2007210,Pest-Thread Spears,incantations,Servants of Rot Incantations
+magic,2007300,Midra's Flame of Frenzy,incantations,Three Fingers Incantations
+magic,2007600,Watchful Spirit,incantations,Divine Beast Incantations
+magic,2007700,Golden Arcs,incantations,Spiral Incantations
+magic,2007710,Giant Golden Arc,incantations,Spiral Incantations
+magic,2007720,Spira,incantations,Spiral Incantations
+magic,2007730,Divine Beast Tornado,incantations,Divine Beast Incantations
+magic,2007740,Divine Bird Feathers,incantations,Divine Beast Incantations
+magic,2007800,Fire Serpent,incantations,Messmer's Flame Incantations
+magic,2007810,Rain of Fire,incantations,Messmer's Flame Incantations
+magic,2007820,Messmer's Orb,incantations,Messmer's Flame Incantations
+protector,40300,Leather Trousers,legs,
+protector,50300,Kaiden Trousers,legs,
+protector,60300,Drake Knight Greaves,legs,
+protector,80300,Scaled Greaves,legs,
+protector,90300,Perfumer Sarong,legs,
+protector,100300,Traveler's Slops,legs,
+protector,120300,Alberich's Trousers,legs,
+protector,130300,Spellblade's Trousers,legs,
+protector,140300,Bull-Goat Greaves,legs,
+protector,150300,Ronin's Greaves,legs,
+protector,160300,Cloth Trousers,legs,
+protector,170300,Blaidd's Greaves,legs,
+protector,180300,Black Knife Greaves,legs,
+protector,190300,Exile Greaves,legs,
+protector,200300,Banished Knight Greaves,legs,
+protector,210300,Briar Greaves,legs,
+protector,220300,Page Trousers,legs,
+protector,230300,Night's Cavalry Greaves,legs,
+protector,240300,Blue Silver Mail Skirt,legs,
+protector,250300,Nomadic Merchant's Trousers,legs,
+protector,260300,Malformed Dragon Greaves,legs,
+protector,270300,Tree Sentinel Greaves,legs,
+protector,280300,Royal Knight Greaves,legs,
+protector,290300,Nox Monk Greaves,legs,
+protector,300300,Fur Leggings,legs,
+protector,301300,Shaman Leggings,legs,
+protector,310300,Duelist Greaves,legs,
+protector,320300,Sanguine Noble Waistcloth,legs,
+protector,330300,Guardian Greaves,legs,
+protector,340300,Cleanrot Greaves,legs,
+protector,350300,Fire Monk Greaves,legs,
+protector,351300,Blackflame Monk Greaves,legs,
+protector,360300,Fire Prelate Greaves,legs,
+protector,370300,Aristocrat Boots,legs,
+protector,390300,Old Aristocrat Shoes,legs,
+protector,420300,Vulgar Militia Greaves,legs,
+protector,430300,Sage Trousers,legs,
+protector,460300,Elden Lord Greaves,legs,
+protector,470300,Radahn's Greaves,legs,
+protector,510300,Queen's Leggings,legs,
+protector,520300,Godskin Apostle Trousers,legs,
+protector,530300,Godskin Noble Trousers,legs,
+protector,540300,Depraved Perfumer Trousers,legs,
+protector,570300,Crucible Greaves,legs,
+protector,580300,Old Sorcerer's Legwraps,legs,
+protector,590300,All-Knowing Greaves,legs,
+protector,600300,Twinned Greaves,legs,
+protector,610300,Ragged Loincloth,legs,
+protector,620300,Prophet Trousers,legs,
+protector,630300,Astrologer Trousers,legs,
+protector,640300,Lionel's Greaves,legs,
+protector,650300,Hoslow's Greaves,legs,
+protector,660300,Vagabond Knight Greaves,legs,
+protector,670300,Warrior Greaves,legs,
+protector,680300,War Surgeon Trousers,legs,
+protector,690300,Royal Remains Greaves,legs,
+protector,700300,Brave's Legwraps,legs,
+protector,720300,Beast Champion Greaves,legs,
+protector,730300,Champion Gaiters,legs,
+protector,740300,Noble's Trousers,legs,
+protector,760300,Maliketh's Greaves,legs,
+protector,770300,Malenia's Greaves,legs,
+protector,780300,Veteran's Greaves,legs,
+protector,790300,Bloodhound Knight Greaves,legs,
+protector,810300,Commoner's Shoes,legs,
+protector,830300,Sorcerer Leggings,legs,
+protector,860300,Raging Wolf Greaves,legs,
+protector,870300,Land of Reeds Greaves,legs,
+protector,872300,White Reed Greaves,legs,
+protector,880300,Confessor Boots,legs,
+protector,890300,Prisoner Trousers,legs,
+protector,900300,Traveling Maiden Boots,legs,
+protector,902300,Finger Maiden Shoes,legs,
+protector,910300,Preceptor's Trousers,legs,
+protector,930300,Bandit Boots,legs,
+protector,940300,Eccentric's Breeches,legs,
+protector,950300,Fingerprint Greaves,legs,
+protector,960300,Consort's Trousers,legs,
+protector,970300,Omen Greaves,legs,
+protector,980300,Carian Knight Greaves,legs,
+protector,990300,Errant Sorcerer Boots,legs,
+protector,1000300,Battlemage Legwraps,legs,
+protector,1010300,Snow Witch Skirt,legs,
+protector,1020300,Traveler's Boots,legs,
+protector,1040300,Gold Waistwrap,legs,
+protector,1070300,Zamor Legwraps,legs,
+protector,1100300,Chain Leggings,legs,
+protector,1130300,Mushroom Legs,legs,
+protector,1400300,Leather Boots,legs,
+protector,1500300,Knight Greaves,legs,
+protector,1700300,Godrick Soldier Greaves,legs,
+protector,1710300,Raya Lucarian Greaves,legs,
+protector,1720300,Leyndell Soldier Greaves,legs,
+protector,1730300,Radahn Soldier Greaves,legs,
+protector,1740300,Mausoleum Greaves,legs,
+protector,1750300,Haligtree Greaves,legs,
+protector,1760300,Gelmir Knight Greaves,legs,
+protector,1770300,Godrick Knight Greaves,legs,
+protector,1780300,Cuckoo Knight Greaves,legs,
+protector,1790300,Leyndell Knight Greaves,legs,
+protector,1800300,Redmane Knight Greaves,legs,
+protector,1810300,Mausoleum Knight Greaves,legs,
+protector,1820300,Haligtree Knight Greaves,legs,
+protector,1830300,Foot Soldier Greaves,legs,
+protector,1890300,Omenkiller Boots,legs,
+protector,1930300,Deathbed Smalls,legs,
+protector,1950300,Millicent's Boots,legs,
+protector,2000300,Rotten Duelist Greaves,legs,
+protector,3000300,Dryleaf Cuissardes,legs,
+protector,3010300,Gaius's Greaves,legs,
+protector,5000300,Oathseeker Knight Greaves,legs,
+protector,5010300,Verdigris Greaves,legs,
+protector,5020300,Iron Rivet Greaves,legs,
+protector,5030300,Thiollier's Trousers,legs,
+protector,5060300,High Priest Undergarments,legs,
+protector,5070300,Soiled Loincloth,legs,
+protector,5080300,Dancer's Trousers,legs,
+protector,5090300,Greaves of Night,legs,
+protector,5100300,Igon's Loincloth,legs,
+protector,5110300,Ansbach's Boots,legs,
+protector,5120300,Freyja's Greaves,legs,
+protector,5130300,Greaves of Solitude,legs,
+protector,5140300,Messmer Soldier Greaves,legs,
+protector,5150300,Black Knight Greaves,legs,
+protector,5160300,Rakshasa Greaves,legs,
+protector,5180300,Fire Knight Greaves,legs,
+protector,5190300,Leather Leg Wraps,legs,
+protector,5200300,Death Knight Greaves,legs,
+protector,5210300,Ascetic's Ankle Guards,legs,
+protector,5220300,Messmer's Greaves,legs,
+protector,5230300,Gravebird Anklets,legs,
+protector,5240300,Common Soldier Greaves,legs,
+protector,5250300,Horned Warrior Greaves,legs,
+protector,5253300,Divine Bird Warrior Greaves,legs,
+protector,5260300,Rellana's Greaves,legs,
+protector,5270300,Young Lion's Greaves,legs,
+protector,5280300,Shadow Militiaman Greaves,legs,
+protector,5340300,Gold Tattoo (Leg),legs,
+protector,5350300,Silver Grooved Greaves,legs,
+protector,5360300,Leontiel's Boots,legs,
+protector,5370300,Steel Greaves,legs,
+weapon,1000000,Dagger,melee_armaments,Daggers
+weapon,1010000,Black Knife,melee_armaments,Daggers
+weapon,1020000,Parrying Dagger,melee_armaments,Daggers
+weapon,1030000,Misricorde,melee_armaments,Daggers
+weapon,1040000,Reduvia,melee_armaments,Daggers
+weapon,1050000,Crystal Knife,melee_armaments,Daggers
+weapon,1060000,Celebrant's Sickle,melee_armaments,Daggers
+weapon,1070000,Glintstone Kris,melee_armaments,Daggers
+weapon,1080000,Scorpion's Stinger,melee_armaments,Daggers
+weapon,1090000,Great Knife,melee_armaments,Daggers
+weapon,1100000,Wakizashi,melee_armaments,Daggers
+weapon,1110000,Cinquedea,melee_armaments,Daggers
+weapon,1130000,Ivory Sickle,melee_armaments,Daggers
+weapon,1140000,Bloodstained Dagger,melee_armaments,Daggers
+weapon,1150000,Erdsteel Dagger,melee_armaments,Daggers
+weapon,1160000,Blade of Calling,melee_armaments,Daggers
+weapon,1500000,Main-gauche,melee_armaments,Daggers
+weapon,1510000,Fire Knight's Shortsword,melee_armaments,Daggers
+weapon,2000000,Longsword,melee_armaments,Straight Swords
+weapon,2010000,Short Sword,melee_armaments,Straight Swords
+weapon,2020000,Broadsword,melee_armaments,Straight Swords
+weapon,2040000,Lordsworn's Straight Sword,melee_armaments,Straight Swords
+weapon,2050000,Weathered Straight Sword,melee_armaments,Straight Swords
+weapon,2060000,Ornamental Straight Sword,melee_armaments,Straight Swords
+weapon,2070000,Golden Epitaph,melee_armaments,Straight Swords
+weapon,2080000,Nox Flowing Sword,melee_armaments,Curved Swords
+weapon,2090000,Inseparable Sword,melee_armaments,Greatswords
+weapon,2110000,Coded Sword,melee_armaments,Straight Swords
+weapon,2140000,Sword of Night and Flame,melee_armaments,Straight Swords
+weapon,2150000,Crystal Sword,melee_armaments,Straight Swords
+weapon,2180000,Carian Knight's Sword,melee_armaments,Straight Swords
+weapon,2190000,Sword of St. Trina,melee_armaments,Straight Swords
+weapon,2200000,Miquellan Knight's Sword,melee_armaments,Straight Swords
+weapon,2210000,Cane Sword,melee_armaments,Straight Swords
+weapon,2220000,Regalia of Eochaid,melee_armaments,Straight Swords
+weapon,2230000,Noble's Slender Sword,melee_armaments,Straight Swords
+weapon,2240000,Warhawk's Talon,melee_armaments,Straight Swords
+weapon,2250000,Lazuli Glintstone Sword,melee_armaments,Straight Swords
+weapon,2260000,Rotten Crystal Sword,melee_armaments,Straight Swords
+weapon,2510000,Velvet Sword of St. Trina,melee_armaments,Straight Swords
+weapon,2520000,Star-Lined Sword,melee_armaments,Katanas
+weapon,2530000,Carian Sorcery Sword,melee_armaments,Thrusting Swords
+weapon,2540000,Stone-Sheathed Sword,melee_armaments,Straight Swords
+weapon,2550000,Sword of Light,melee_armaments,Straight Swords
+weapon,2560000,Sword of Darkness,melee_armaments,Straight Swords
+weapon,3000000,Bastard Sword,melee_armaments,Greatswords
+weapon,3010000,Forked Greatsword,melee_armaments,Greatswords
+weapon,3020000,Iron Greatsword,melee_armaments,Greatswords
+weapon,3030000,Lordsworn's Greatsword,melee_armaments,Greatswords
+weapon,3040000,Knight's Greatsword,melee_armaments,Greatswords
+weapon,3050000,Flamberge,melee_armaments,Greatswords
+weapon,3060000,Ordovis's Greatsword,melee_armaments,Greatswords
+weapon,3070000,Alabaster Lord's Sword,melee_armaments,Greatswords
+weapon,3080000,Banished Knight's Greatsword,melee_armaments,Greatswords
+weapon,3090000,Dark Moon Greatsword,melee_armaments,Greatswords
+weapon,3100000,Sacred Relic Sword,melee_armaments,Greatswords
+weapon,3130000,Helphen's Steeple,melee_armaments,Greatswords
+weapon,3140000,Blasphemous Blade,melee_armaments,Greatswords
+weapon,3150000,Marais Executioner's Sword,melee_armaments,Greatswords
+weapon,3160000,Sword of Milos,melee_armaments,Greatswords
+weapon,3170000,Golden Order Greatsword,melee_armaments,Greatswords
+weapon,3180000,Claymore,melee_armaments,Greatswords
+weapon,3190000,Gargoyle's Greatsword,melee_armaments,Greatswords
+weapon,3200000,Death's Poker,melee_armaments,Greatswords
+weapon,3210000,Gargoyle's Blackblade,melee_armaments,Greatswords
+weapon,3500000,Sword Lance,melee_armaments,Heavy Thrusting Swords
+weapon,3510000,Greatsword of Damnation,melee_armaments,Greatswords
+weapon,3520000,Lizard Greatsword,melee_armaments,Greatswords
+weapon,3550000,Greatsword of Solitude,melee_armaments,Greatswords
+weapon,3560000,Leontiel's Greatsword,melee_armaments,Greatswords
+weapon,4000000,Greatsword,melee_armaments,Colossal Swords
+weapon,4010000,Watchdog's Greatsword,melee_armaments,Colossal Swords
+weapon,4020000,Maliketh's Black Blade,melee_armaments,Colossal Swords
+weapon,4030000,Troll's Golden Sword,melee_armaments,Colossal Swords
+weapon,4040000,Zweihander,melee_armaments,Colossal Swords
+weapon,4050000,Starscourge Greatsword,melee_armaments,Colossal Swords
+weapon,4060000,Royal Greatsword,melee_armaments,Colossal Swords
+weapon,4070000,Godslayer's Greatsword,melee_armaments,Colossal Swords
+weapon,4080000,Ruins Greatsword,melee_armaments,Colossal Swords
+weapon,4100000,Grafted Blade Greatsword,melee_armaments,Colossal Swords
+weapon,4110000,Troll Knight's Sword,melee_armaments,Colossal Swords
+weapon,4500000,Ancient Meteoric Ore Greatsword,melee_armaments,Colossal Swords
+weapon,4520000,Fire Knight's Greatsword,melee_armaments,Colossal Swords
+weapon,4530000,Greatsword of Radahn (Lord),melee_armaments,Colossal Swords
+weapon,4540000,Moonrithyll's Knight Sword,melee_armaments,Colossal Swords
+weapon,4550000,Greatsword of Radahn (Light),melee_armaments,Colossal Swords
+weapon,5000000,Estoc,melee_armaments,Thrusting Swords
+weapon,5010000,Cleanrot Knight's Sword,melee_armaments,Thrusting Swords
+weapon,5020000,Rapier,melee_armaments,Thrusting Swords
+weapon,5030000,Rogier's Rapier,melee_armaments,Thrusting Swords
+weapon,5040000,Antspur Rapier,melee_armaments,Thrusting Swords
+weapon,5050000,Frozen Needle,melee_armaments,Thrusting Swords
+weapon,5060000,Noble's Estoc,melee_armaments,Thrusting Swords
+weapon,6000000,Bloody Helice,melee_armaments,Heavy Thrusting Swords
+weapon,6010000,Godskin Stitcher,melee_armaments,Heavy Thrusting Swords
+weapon,6020000,Great Épée,melee_armaments,Heavy Thrusting Swords
+weapon,6040000,Dragon King's Cragblade,melee_armaments,Heavy Thrusting Swords
+weapon,6500000,Queelign's Greatsword,melee_armaments,Heavy Thrusting Swords
+weapon,7000000,Falchion,melee_armaments,Curved Swords
+weapon,7010000,Beastman's Curved Sword,melee_armaments,Curved Swords
+weapon,7020000,Shotel,melee_armaments,Curved Swords
+weapon,7030000,Shamshir,melee_armaments,Curved Swords
+weapon,7040000,Bandit's Curved Sword,melee_armaments,Curved Swords
+weapon,7050000,Magma Blade,melee_armaments,Curved Swords
+weapon,7060000,Flowing Curved Sword,melee_armaments,Curved Swords
+weapon,7070000,Wing of Astel,melee_armaments,Curved Swords
+weapon,7080000,Scavenger's Curved Sword,melee_armaments,Curved Swords
+weapon,7100000,Eclipse Shotel,melee_armaments,Curved Swords
+weapon,7110000,Serpent-God's Curved Sword,melee_armaments,Curved Swords
+weapon,7120000,Mantis Blade,melee_armaments,Curved Swords
+weapon,7140000,Scimitar,melee_armaments,Curved Swords
+weapon,7150000,Grossmesser,melee_armaments,Curved Swords
+weapon,7500000,Spirit Sword,melee_armaments,Curved Swords
+weapon,7510000,Falx,melee_armaments,Curved Swords
+weapon,7520000,Dancing Blade of Ranah,melee_armaments,Curved Swords
+weapon,7530000,Horned Warrior's Sword,melee_armaments,Curved Swords
+weapon,8010000,Onyx Lord's Greatsword,melee_armaments,Curved Greatswords
+weapon,8020000,Dismounter,melee_armaments,Curved Greatswords
+weapon,8030000,Bloodhound's Fang,melee_armaments,Curved Greatswords
+weapon,8040000,Magma Wyrm's Scalesword,melee_armaments,Curved Greatswords
+weapon,8050000,Zamor Curved Sword,melee_armaments,Curved Greatswords
+weapon,8060000,Omen Cleaver,melee_armaments,Curved Greatswords
+weapon,8070000,Monk's Flameblade,melee_armaments,Curved Greatswords
+weapon,8080000,Beastman's Cleaver,melee_armaments,Curved Greatswords
+weapon,8100000,Morgott's Cursed Sword,melee_armaments,Curved Greatswords
+weapon,8500000,Putrescence Cleaver,melee_armaments,Greataxes
+weapon,8510000,Freyja's Greatsword,melee_armaments,Curved Greatswords
+weapon,8520000,Horned Warrior's Greatsword,melee_armaments,Curved Greatswords
+weapon,8530000,Hefty Scimitar,melee_armaments,Curved Greatswords
+weapon,9000000,Uchigatana,melee_armaments,Katanas
+weapon,9010000,Nagakiba,melee_armaments,Katanas
+weapon,9020000,Hand of Malenia,melee_armaments,Katanas
+weapon,9030000,Meteoric Ore Blade,melee_armaments,Katanas
+weapon,9040000,Rivers of Blood,melee_armaments,Katanas
+weapon,9060000,Moonveil,melee_armaments,Katanas
+weapon,9070000,Dragonscale Blade,melee_armaments,Katanas
+weapon,9080000,Serpentbone Blade,melee_armaments,Katanas
+weapon,9500000,Sword of Night,melee_armaments,Katanas
+weapon,10000000,Twinblade,melee_armaments,Twinblades
+weapon,10010000,Godskin Peeler,melee_armaments,Twinblades
+weapon,10030000,Twinned Knight Swords,melee_armaments,Twinblades
+weapon,10050000,Eleonora's Poleblade,melee_armaments,Twinblades
+weapon,10080000,Gargoyle's Twinblade,melee_armaments,Twinblades
+weapon,10090000,Gargoyle's Black Blades,melee_armaments,Twinblades
+weapon,10500000,Euporia,melee_armaments,Twinblades
+weapon,10510000,Black Steel Twinblade,melee_armaments,Twinblades
+weapon,11000000,Mace,melee_armaments,Hammers
+weapon,11010000,Club,melee_armaments,Hammers
+weapon,11030000,Curved Club,melee_armaments,Hammers
+weapon,11040000,Warpick,melee_armaments,Hammers
+weapon,11050000,Morning Star,melee_armaments,Hammers
+weapon,11060000,Varr's Bouquet,melee_armaments,Hammers
+weapon,11070000,Spiked Club,melee_armaments,Hammers
+weapon,11080000,Hammer,melee_armaments,Hammers
+weapon,11090000,Monk's Flamemace,melee_armaments,Hammers
+weapon,11100000,Envoy's Horn,melee_armaments,Hammers
+weapon,11110000,Scepter of the All-Knowing,melee_armaments,Hammers
+weapon,11120000,Nox Flowing Hammer,melee_armaments,Hammers
+weapon,11130000,Ringed Finger,melee_armaments,Hammers
+weapon,11140000,Stone Club,melee_armaments,Hammers
+weapon,11150000,Marika's Hammer,melee_armaments,Hammers
+weapon,11500000,Flowerstone Gavel,melee_armaments,Hammers
+weapon,12000000,Large Club,melee_armaments,Great Hammers
+weapon,12010000,Greathorn Hammer,melee_armaments,Great Hammers
+weapon,12020000,Battle Hammer,melee_armaments,Great Hammers
+weapon,12060000,Great Mace,melee_armaments,Great Hammers
+weapon,12080000,Curved Great Club,melee_armaments,Great Hammers
+weapon,12130000,Celebrant's Skull,melee_armaments,Great Hammers
+weapon,12140000,Pickaxe,melee_armaments,Great Hammers
+weapon,12150000,Beastclaw Greathammer,melee_armaments,Great Hammers
+weapon,12160000,Envoy's Long Horn,melee_armaments,Great Hammers
+weapon,12170000,Cranial Vessel Candlestand,melee_armaments,Great Hammers
+weapon,12180000,Great Stars,melee_armaments,Great Hammers
+weapon,12190000,Brick Hammer,melee_armaments,Great Hammers
+weapon,12200000,Devourer's Scepter,melee_armaments,Great Hammers
+weapon,12210000,Rotten Battle Hammer,melee_armaments,Great Hammers
+weapon,12500000,Smithscript Greathammer,melee_armaments,Great Hammers
+weapon,12510000,Anvil Hammer,melee_armaments,Colossal Weapons
+weapon,12520000,Black Steel Greathammer,melee_armaments,Great Hammers
+weapon,12530000,Bloodfiend's Arm,melee_armaments,Colossal Weapons
+weapon,13000000,Nightrider Flail,melee_armaments,Flails
+weapon,13010000,Flail,melee_armaments,Flails
+weapon,13020000,Family Heads,melee_armaments,Flails
+weapon,13030000,Bastard's Stars,melee_armaments,Flails
+weapon,13040000,Chainlink Flail,melee_armaments,Flails
+weapon,13500000,Serpent Flail,melee_armaments,Flails
+weapon,13510000,Golden Order Flail,melee_armaments,Flails
+weapon,14000000,Battle Axe,melee_armaments,Axes
+weapon,14010000,Forked Hatchet,melee_armaments,Axes
+weapon,14020000,Hand Axe,melee_armaments,Axes
+weapon,14030000,Jawbone Axe,melee_armaments,Axes
+weapon,14040000,Iron Cleaver,melee_armaments,Axes
+weapon,14050000,Ripple Blade,melee_armaments,Axes
+weapon,14060000,Celebrant's Cleaver,melee_armaments,Axes
+weapon,14080000,Icerind Hatchet,melee_armaments,Axes
+weapon,14100000,Highland Axe,melee_armaments,Axes
+weapon,14110000,Sacrificial Axe,melee_armaments,Axes
+weapon,14120000,Rosus' Axe,melee_armaments,Axes
+weapon,14140000,Stormhawk Axe,melee_armaments,Axes
+weapon,14500000,Smithscript Axe,melee_armaments,Axes
+weapon,14510000,Death Knight's Twin Axes,melee_armaments,Axes
+weapon,14520000,Messmer Soldier's Axe,melee_armaments,Axes
+weapon,14540000,Forked-Tongue Hatchet,melee_armaments,Axes
+weapon,15000000,Greataxe,melee_armaments,Greataxes
+weapon,15010000,Warped Axe,melee_armaments,Axes
+weapon,15020000,Great Omenkiller Cleaver,melee_armaments,Greataxes
+weapon,15030000,Crescent Moon Axe,melee_armaments,Greataxes
+weapon,15040000,Axe of Godrick,melee_armaments,Greataxes
+weapon,15050000,Longhaft Axe,melee_armaments,Greataxes
+weapon,15060000,Rusted Anchor,melee_armaments,Greataxes
+weapon,15080000,Executioner's Greataxe,melee_armaments,Greataxes
+weapon,15110000,Winged Greathorn,melee_armaments,Greataxes
+weapon,15120000,Butchering Knife,melee_armaments,Greataxes
+weapon,15130000,Gargoyle's Great Axe,melee_armaments,Greataxes
+weapon,15140000,Gargoyle's Black Axe,melee_armaments,Greataxes
+weapon,15500000,Death Knight's Longhaft Axe,melee_armaments,Greataxes
+weapon,15510000,Bonny Butchering Knife,melee_armaments,Greataxes
+weapon,16000000,Short Spear,melee_armaments,Spears
+weapon,16010000,Spear,melee_armaments,Spears
+weapon,16020000,Crystal Spear,melee_armaments,Spears
+weapon,16030000,Clayman's Harpoon,melee_armaments,Spears
+weapon,16040000,Cleanrot Spear,melee_armaments,Spears
+weapon,16050000,Partisan,melee_armaments,Spears
+weapon,16060000,Celebrant's Rib-Rake,melee_armaments,Spears
+weapon,16070000,Pike,melee_armaments,Spears
+weapon,16080000,Torchpole,melee_armaments,Spears
+weapon,16090000,Bolt of Gransax,melee_armaments,Spears
+weapon,16110000,Cross-Naginata,melee_armaments,Spears
+weapon,16120000,Death Ritual Spear,melee_armaments,Spears
+weapon,16130000,Inquisitor's Girandole,melee_armaments,Spears
+weapon,16140000,Spiked Spear,melee_armaments,Spears
+weapon,16150000,Iron Spear,melee_armaments,Spears
+weapon,16160000,Rotten Crystal Spear,melee_armaments,Spears
+weapon,16500000,Smithscript Spear,melee_armaments,Spears
+weapon,16520000,Swift Spear,melee_armaments,Spears
+weapon,16540000,Bloodfiend's Fork,melee_armaments,Spears
+weapon,16550000,Bloodfiend's Sacred Spear,melee_armaments,Great Spears
+weapon,17010000,Mohgwyn's Sacred Spear,melee_armaments,Great Spears
+weapon,17020000,Siluria's Tree,melee_armaments,Great Spears
+weapon,17030000,Serpent-Hunter,melee_armaments,Great Spears
+weapon,17050000,Vyke's War Spear,melee_armaments,Great Spears
+weapon,17060000,Lance,melee_armaments,Great Spears
+weapon,17070000,Treespear,melee_armaments,Great Spears
+weapon,17500000,Spear of the Impaler,melee_armaments,Great Spears
+weapon,17510000,Messmer Soldier's Spear,melee_armaments,Great Spears
+weapon,17520000,Barbed Staff-Spear,melee_armaments,Great Spears
+weapon,18000000,Halberd,melee_armaments,Halberds
+weapon,18010000,Pest's Glaive,melee_armaments,Halberds
+weapon,18020000,Lucerne,melee_armaments,Halberds
+weapon,18030000,Banished Knight's Halberd,melee_armaments,Halberds
+weapon,18040000,Commander's Standard,melee_armaments,Halberds
+weapon,18050000,Nightrider Glaive,melee_armaments,Halberds
+weapon,18060000,Ripple Crescent Halberd,melee_armaments,Halberds
+weapon,18070000,Vulgar Militia Saw,melee_armaments,Halberds
+weapon,18080000,Golden Halberd,melee_armaments,Halberds
+weapon,18090000,Glaive,melee_armaments,Halberds
+weapon,18100000,Loretta's War Sickle,melee_armaments,Halberds
+weapon,18110000,Guardian's Swordspear,melee_armaments,Halberds
+weapon,18130000,Vulgar Militia Shotel,melee_armaments,Halberds
+weapon,18140000,Dragon Halberd,melee_armaments,Halberds
+weapon,18150000,Gargoyle's Halberd,melee_armaments,Halberds
+weapon,18160000,Gargoyle's Black Halberd,melee_armaments,Halberds
+weapon,18500000,Spirit Glaive,melee_armaments,Halberds
+weapon,18510000,Poleblade of the Bud,melee_armaments,Halberds
+weapon,19000000,Scythe,melee_armaments,Reapers
+weapon,19010000,Grave Scythe,melee_armaments,Reapers
+weapon,19020000,Halo Scythe,melee_armaments,Reapers
+weapon,19060000,Winged Scythe,melee_armaments,Reapers
+weapon,19500000,Obsidian Lamina,melee_armaments,Reapers
+weapon,20000000,Whip,melee_armaments,Whips
+weapon,20020000,Thorned Whip,melee_armaments,Whips
+weapon,20030000,Magma Whip Candlestick,melee_armaments,Whips
+weapon,20050000,Hoslow's Petal Whip,melee_armaments,Whips
+weapon,20060000,Giant's Red Braid,melee_armaments,Whips
+weapon,20070000,Urumi,melee_armaments,Whips
+weapon,20500000,Tooth Whip,melee_armaments,Whips
+weapon,21000000,Caestus,melee_armaments,Fists
+weapon,21010000,Spiked Caestus,melee_armaments,Fists
+weapon,21060000,Grafted Dragon,melee_armaments,Fists
+weapon,21070000,Iron Ball,melee_armaments,Fists
+weapon,21080000,Star Fist,melee_armaments,Fists
+weapon,21100000,Katar,melee_armaments,Fists
+weapon,21110000,Clinging Bone,melee_armaments,Fists
+weapon,21120000,Veteran's Prosthesis,melee_armaments,Fists
+weapon,21130000,Cipher Pata,melee_armaments,Fists
+weapon,21500000,Thiollier's Hidden Needle,melee_armaments,Fists
+weapon,21510000,Pata,melee_armaments,Fists
+weapon,21520000,Poisoned Hand,melee_armaments,Fists
+weapon,21530000,Madding Hand,melee_armaments,Fists
+weapon,21540000,Golem Fist,melee_armaments,Fists
+weapon,22000000,Hookclaws,melee_armaments,Claws
+weapon,22010000,Venomous Fang,melee_armaments,Claws
+weapon,22020000,Bloodhound Claws,melee_armaments,Claws
+weapon,22030000,Raptor Talons,melee_armaments,Claws
+weapon,22500000,Claws of Night,melee_armaments,Claws
+weapon,23000000,Prelate's Inferno Crozier,melee_armaments,Colossal Weapons
+weapon,23010000,Watchdog's Staff,melee_armaments,Colossal Weapons
+weapon,23020000,Great Club,melee_armaments,Colossal Weapons
+weapon,23030000,Envoy's Greathorn,melee_armaments,Colossal Weapons
+weapon,23040000,Duelist Greataxe,melee_armaments,Colossal Weapons
+weapon,23050000,Axe of Godfrey,melee_armaments,Colossal Weapons
+weapon,23060000,Dragon Greatclaw,melee_armaments,Colossal Weapons
+weapon,23070000,Staff of the Avatar,melee_armaments,Colossal Weapons
+weapon,23080000,Fallingstar Beast Jaw,melee_armaments,Colossal Weapons
+weapon,23100000,Ghiza's Wheel,melee_armaments,Colossal Weapons
+weapon,23110000,Giant-Crusher,melee_armaments,Colossal Weapons
+weapon,23120000,Golem's Halberd,melee_armaments,Colossal Weapons
+weapon,23130000,Troll's Hammer,melee_armaments,Colossal Weapons
+weapon,23140000,Rotten Staff,melee_armaments,Colossal Weapons
+weapon,23150000,Rotten Greataxe,melee_armaments,Colossal Weapons
+weapon,23500000,Devonia's Hammer,melee_armaments,Colossal Weapons
+weapon,23510000,Shadow Sunflower Blossom,melee_armaments,Colossal Weapons
+weapon,23520000,Gazing Finger,melee_armaments,Colossal Weapons
+weapon,60500000,Dryleaf Arts,melee_armaments,Hand-to-Hand
+weapon,60510000,Dane's Footwork,melee_armaments,Hand-to-Hand
+weapon,61500000,Firespark Perfume Bottle,melee_armaments,Perfume Bottles
+weapon,61510000,Chilling Perfume Bottle,melee_armaments,Perfume Bottles
+weapon,61520000,Frenzyflame Perfume Bottle,melee_armaments,Perfume Bottles
+weapon,61530000,Lightning Perfume Bottle,melee_armaments,Perfume Bottles
+weapon,61540000,Deadly Poison Perfume Bottle,melee_armaments,Perfume Bottles
+weapon,63500000,Smithscript Dagger,melee_armaments,Throwing Blades
+weapon,64500000,Backhand Blade,melee_armaments,Backhand Blades
+weapon,64510000,Smithscript Cirque,melee_armaments,Backhand Blades
+weapon,64520000,Curseblade's Cirque,melee_armaments,Backhand Blades
+weapon,64530000,Reverse-Bladed Sword,melee_armaments,Backhand Blades
+weapon,66500000,Great Katana,melee_armaments,Great Katanas
+weapon,66510000,Dragon-Hunter's Great Katana,melee_armaments,Great Katanas
+weapon,66520000,Rakshasa's Great Katana,melee_armaments,Great Katanas
+weapon,66530000,Reed Great Katana,melee_armaments,Great Katanas
+weapon,67500000,Milady,melee_armaments,Light Greatswords
+weapon,67510000,Leda's Sword,melee_armaments,Light Greatswords
+weapon,67520000,Rellana's Twin Blades,melee_armaments,Light Greatswords
+weapon,67530000,Idus Sword,melee_armaments,Light Greatswords
+weapon,68500000,Beast Claw,melee_armaments,Beast Claws
+weapon,68510000,Red Bear's Claw,melee_armaments,Beast Claws
+weapon,33000000,Glintstone Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33040000,Crystal Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33050000,Gelmir Glintstone Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33060000,Demi-Human Queen's Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33090000,Carian Regal Scepter,ranged_and_catalysts,Glintstone Staffs
+weapon,33120000,Digger's Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33130000,Astrologer's Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33170000,Carian Glintblade Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33180000,Prince of Death's Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33190000,Albinauric Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33200000,Academy Glintstone Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33210000,Carian Glintstone Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33230000,Azur's Glintstone Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33240000,Lusat's Glintstone Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33250000,Meteorite Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33260000,Staff of the Guilty,ranged_and_catalysts,Glintstone Staffs
+weapon,33270000,Rotten Crystal Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,33280000,Staff of Loss,ranged_and_catalysts,Glintstone Staffs
+weapon,33510000,Staff of the Great Beyond,ranged_and_catalysts,Glintstone Staffs
+weapon,33520000,Maternal Staff,ranged_and_catalysts,Glintstone Staffs
+weapon,34000000,Finger Seal,ranged_and_catalysts,Sacred Seals
+weapon,34010000,Godslayer's Seal,ranged_and_catalysts,Sacred Seals
+weapon,34020000,Giant's Seal,ranged_and_catalysts,Sacred Seals
+weapon,34030000,Gravel Stone Seal,ranged_and_catalysts,Sacred Seals
+weapon,34040000,Clawmark Seal,ranged_and_catalysts,Sacred Seals
+weapon,34060000,Golden Order Seal,ranged_and_catalysts,Sacred Seals
+weapon,34070000,Erdtree Seal,ranged_and_catalysts,Sacred Seals
+weapon,34080000,Dragon Communion Seal,ranged_and_catalysts,Sacred Seals
+weapon,34090000,Frenzied Flame Seal,ranged_and_catalysts,Sacred Seals
+weapon,34500000,Dryleaf Seal,ranged_and_catalysts,Sacred Seals
+weapon,34510000,Fire Knight's Seal,ranged_and_catalysts,Sacred Seals
+weapon,34520000,Spiraltree Seal,ranged_and_catalysts,Sacred Seals
+weapon,40000000,Shortbow,ranged_and_catalysts,Light Bows
+weapon,40010000,Misbegotten Shortbow,ranged_and_catalysts,Light Bows
+weapon,40020000,Red Branch Shortbow,ranged_and_catalysts,Light Bows
+weapon,40030000,Harp Bow,ranged_and_catalysts,Light Bows
+weapon,40050000,Composite Bow,ranged_and_catalysts,Light Bows
+weapon,40500000,Bone Bow,ranged_and_catalysts,Light Bows
+weapon,41000000,Longbow,ranged_and_catalysts,Bows
+weapon,41010000,Albinauric Bow,ranged_and_catalysts,Bows
+weapon,41020000,Horn Bow,ranged_and_catalysts,Bows
+weapon,41030000,Erdtree Bow,ranged_and_catalysts,Bows
+weapon,41040000,Serpent Bow,ranged_and_catalysts,Bows
+weapon,41060000,Pulley Bow,ranged_and_catalysts,Bows
+weapon,41070000,Black Bow,ranged_and_catalysts,Bows
+weapon,41510000,Ansbach's Longbow,ranged_and_catalysts,Bows
+weapon,42000000,Lion Greatbow,ranged_and_catalysts,Greatbows
+weapon,42010000,Golem Greatbow,ranged_and_catalysts,Greatbows
+weapon,42030000,Erdtree Greatbow,ranged_and_catalysts,Greatbows
+weapon,42040000,Greatbow,ranged_and_catalysts,Greatbows
+weapon,42500000,Igon's Greatbow,ranged_and_catalysts,Greatbows
+weapon,43000000,Soldier's Crossbow,ranged_and_catalysts,Crossbows
+weapon,43020000,Light Crossbow,ranged_and_catalysts,Crossbows
+weapon,43030000,Heavy Crossbow,ranged_and_catalysts,Crossbows
+weapon,43050000,Pulley Crossbow,ranged_and_catalysts,Crossbows
+weapon,43060000,Full Moon Crossbow,ranged_and_catalysts,Crossbows
+weapon,43080000,Arbalest,ranged_and_catalysts,Crossbows
+weapon,43110000,Crepus's Black-Key Crossbow,ranged_and_catalysts,Crossbows
+weapon,43500000,Repeating Crossbow,ranged_and_catalysts,Crossbows
+weapon,43510000,Spread Crossbow,ranged_and_catalysts,Crossbows
+weapon,44000000,Hand Ballista,ranged_and_catalysts,Ballistas
+weapon,44010000,Jar Cannon,ranged_and_catalysts,Ballistas
+weapon,44500000,Rabbath's Cannon,ranged_and_catalysts,Ballistas
+weapon,21550000,Shield of Night,shields,Small Shields
+weapon,24000000,Torch,shields,Torches
+weapon,24020000,Steel-Wire Torch,shields,Torches
+weapon,24040000,St. Trina's Torch,shields,Torches
+weapon,24050000,Ghostflame Torch,shields,Torches
+weapon,24060000,Beast-Repellent Torch,shields,Torches
+weapon,24070000,Sentry's Torch,shields,Torches
+weapon,24500000,Nanaya's Torch,shields,Torches
+weapon,24510000,Lamenting Visage,shields,Torches
+weapon,30000000,Buckler,shields,Small Shields
+weapon,30010000,Perfumer's Shield,shields,Small Shields
+weapon,30020000,Man-Serpent's Shield,shields,Small Shields
+weapon,30030000,Rickety Shield,shields,Small Shields
+weapon,30040000,Pillory Shield,shields,Small Shields
+weapon,30060000,Beastman's Jar-Shield,shields,Medium Shields
+weapon,30070000,Red Thorn Roundshield,shields,Small Shields
+weapon,30080000,Scripture Wooden Shield,shields,Small Shields
+weapon,30090000,Riveted Wooden Shield,shields,Small Shields
+weapon,30100000,Blue-White Wooden Shield,shields,Small Shields
+weapon,30110000,Rift Shield,shields,Small Shields
+weapon,30120000,Iron Roundshield,shields,Small Shields
+weapon,30130000,Gilded Iron Shield,shields,Small Shields
+weapon,30140000,Ice Crest Shield,shields,Small Shields
+weapon,30150000,Smoldering Shield,shields,Small Shields
+weapon,30190000,Spiralhorn Shield,shields,Small Shields
+weapon,30200000,Coil Shield,shields,Small Shields
+weapon,30510000,Smithscript Shield,shields,Small Shields
+weapon,31000000,Kite Shield,shields,Medium Shields
+weapon,31010000,Marred Leather Shield,shields,Medium Shields
+weapon,31020000,Marred Wooden Shield,shields,Medium Shields
+weapon,31030000,Banished Knight's Shield,shields,Medium Shields
+weapon,31040000,Albinauric Shield,shields,Medium Shields
+weapon,31050000,Sun Realm Shield,shields,Medium Shields
+weapon,31060000,Silver Mirrorshield,shields,Medium Shields
+weapon,31070000,Round Shield,shields,Medium Shields
+weapon,31080000,Scorpion Kite Shield,shields,Medium Shields
+weapon,31090000,Twinbird Kite Shield,shields,Medium Shields
+weapon,31100000,Blue-Gold Kite Shield,shields,Medium Shields
+weapon,31130000,Brass Shield,shields,Medium Shields
+weapon,31140000,Great Turtle Shell,shields,Medium Shields
+weapon,31170000,Shield of the Guilty,shields,Small Shields
+weapon,31190000,Carian Knight's Shield,shields,Medium Shields
+weapon,31230000,Large Leather Shield,shields,Medium Shields
+weapon,31240000,Horse Crest Wooden Shield,shields,Medium Shields
+weapon,31250000,Candletree Wooden Shield,shields,Medium Shields
+weapon,31260000,Flame Crest Wooden Shield,shields,Medium Shields
+weapon,31270000,Hawk Crest Wooden Shield,shields,Medium Shields
+weapon,31280000,Beast Crest Heater Shield,shields,Medium Shields
+weapon,31290000,Red Crest Heater Shield,shields,Medium Shields
+weapon,31300000,Blue Crest Heater Shield,shields,Medium Shields
+weapon,31310000,Eclipse Crest Heater Shield,shields,Medium Shields
+weapon,31320000,Inverted Hawk Heater Shield,shields,Medium Shields
+weapon,31330000,Heater Shield,shields,Medium Shields
+weapon,31340000,Black Leather Shield,shields,Medium Shields
+weapon,31500000,Messmer Soldier Shield,shields,Medium Shields
+weapon,31510000,Wolf Crest Shield,shields,Medium Shields
+weapon,31520000,Serpent Crest Shield,shields,Medium Shields
+weapon,31530000,Golden Lion Shield,shields,Medium Shields
+weapon,31540000,Silver Grooved Shield,shields,Medium Shields
+weapon,32000000,Dragon Towershield,shields,Greatshields
+weapon,32020000,Distinguished Greatshield,shields,Greatshields
+weapon,32030000,Crucible Hornshield,shields,Greatshields
+weapon,32040000,Dragonclaw Shield,shields,Greatshields
+weapon,32050000,Briar Greatshield,shields,Greatshields
+weapon,32080000,Erdtree Greatshield,shields,Greatshields
+weapon,32090000,Golden Beast Crest Shield,shields,Greatshields
+weapon,32120000,Jellyfish Shield,shields,Greatshields
+weapon,32130000,Fingerprint Stone Shield,shields,Greatshields
+weapon,32140000,Icon Shield,shields,Greatshields
+weapon,32150000,One-Eyed Shield,shields,Greatshields
+weapon,32160000,Visage Shield,shields,Greatshields
+weapon,32170000,Spiked Palisade Shield,shields,Greatshields
+weapon,32190000,Manor Towershield,shields,Greatshields
+weapon,32200000,Crossed-Tree Towershield,shields,Greatshields
+weapon,32210000,Inverted Hawk Towershield,shields,Greatshields
+weapon,32220000,Ant's Skull Plate,shields,Greatshields
+weapon,32230000,Redmane Greatshield,shields,Greatshields
+weapon,32240000,Eclipse Crest Greatshield,shields,Greatshields
+weapon,32250000,Cuckoo Greatshield,shields,Greatshields
+weapon,32260000,Golden Greatshield,shields,Greatshields
+weapon,32270000,Gilded Greatshield,shields,Greatshields
+weapon,32280000,Haligtree Crest Greatshield,shields,Greatshields
+weapon,32290000,Wooden Greatshield,shields,Greatshields
+weapon,32300000,Lordsworn's Shield,shields,Greatshields
+weapon,32500000,Black Steel Greatshield,shields,Greatshields
+weapon,32520000,Verdigris Greatshield,shields,Greatshields
+weapon,62500000,Dueling Shield,shields,Thrusting Shields
+weapon,62510000,Carian Thrusting Shield,shields,Thrusting Shields
+weapon,62520000,Ritual Thrusting Shield,shields,Thrusting Shields
+magic,4000,Glintstone Pebble,sorceries,Glintstone Sorceries
+magic,4001,Great Glintstone Shard,sorceries,Glintstone Sorceries
+magic,4010,Swift Glintstone Shard,sorceries,Glintstone Sorceries
+magic,4020,Glintstone Cometshard,sorceries,Glintstone Sorceries
+magic,4021,Comet,sorceries,Glintstone Sorceries
+magic,4030,Shard Spiral,sorceries,Glintstone Sorceries
+magic,4040,Glintstone Stars,sorceries,Glintstone Sorceries
+magic,4050,Star Shower,sorceries,Glintstone Sorceries
+magic,4060,Crystal Barrage,sorceries,Glintstone Sorceries
+magic,4070,Glintstone Arc,sorceries,Glintstone Sorceries
+magic,4080,Cannon of Haima,sorceries,Glintstone Sorceries
+magic,4090,Crystal Burst,sorceries,Glintstone Sorceries
+magic,4100,Shatter Earth,sorceries,Glintstone Sorceries
+magic,4110,Rock Blaster,sorceries,Glintstone Sorceries
+magic,4120,Gavel of Haima,sorceries,Glintstone Sorceries
+magic,4130,Terra Magica,sorceries,Glintstone Sorceries
+magic,4200,Comet Azur,sorceries,Primeval Sorceries
+magic,4210,Founding Rain of Stars,sorceries,Primeval Sorceries
+magic,4220,Stars of Ruin,sorceries,Primeval Sorceries
+magic,4300,Glintblade Phalanx,sorceries,Carian Sorceries
+magic,4301,Carian Phalanx,sorceries,Carian Sorceries
+magic,4302,Greatblade Phalanx,sorceries,Carian Sorceries
+magic,4360,Rennala's Full Moon,sorceries,Carian Sorceries
+magic,4361,Ranni's Dark Moon,sorceries,Carian Sorceries
+magic,4370,Magic Downpour,sorceries,Carian Sorceries
+magic,4380,Loretta's Greatbow,sorceries,Carian Sorceries
+magic,4381,Loretta's Mastery,sorceries,Carian Sorceries
+magic,4390,Magic Glintblade,sorceries,Carian Sorceries
+magic,4400,Glintstone Icecrag,sorceries,Cold Sorceries
+magic,4410,Zamor Ice Storm,sorceries,Cold Sorceries
+magic,4420,Freezing Mist,sorceries,Cold Sorceries
+magic,4430,Carian Greatsword,sorceries,Carian Sorceries
+magic,4431,Adula's Moonblade,sorceries,Carian Sorceries
+magic,4440,Carian Slicer,sorceries,Carian Sorceries
+magic,4450,Carian Piercer,sorceries,Carian Sorceries
+magic,4460,Scholar's Armament,sorceries,Glintstone Sorceries
+magic,4470,Scholar's Shield,sorceries,Glintstone Sorceries
+magic,4480,Lucidity,sorceries,Carian Sorceries
+magic,4490,Frozen Armament,sorceries,Cold Sorceries
+magic,4500,Shattering Crystal,sorceries,Crystalian Sorceries
+magic,4510,Crystal Release,sorceries,Crystalian Sorceries
+magic,4520,Crystal Torrent,sorceries,Crystalian Sorceries
+magic,4600,Ambush Shard,sorceries,Night Sorceries
+magic,4610,Night Shard,sorceries,Night Sorceries
+magic,4620,Night Comet,sorceries,Night Sorceries
+magic,4630,Thops's Barrier,sorceries,Glintstone Sorceries
+magic,4660,Unseen Blade,sorceries,Night Sorceries
+magic,4700,Meteorite,sorceries,Gravity Sorceries
+magic,4701,Meteorite of Astel,sorceries,Gravity Sorceries
+magic,4710,Rock Sling,sorceries,Gravity Sorceries
+magic,4720,Gravity Well,sorceries,Gravity Sorceries
+magic,4721,Collapsing Stars,sorceries,Gravity Sorceries
+magic,4800,Magma Shot,sorceries,Magma Sorceries
+magic,4810,Gelmir's Fury,sorceries,Magma Sorceries
+magic,4820,Roiling Magma,sorceries,Magma Sorceries
+magic,4830,Rykard's Rancor,sorceries,Magma Sorceries
+magic,4900,Briars of Sin,sorceries,Thorn Sorceries
+magic,4910,Briars of Punishment,sorceries,Thorn Sorceries
+magic,5000,Rancorcall,sorceries,Death Sorceries
+magic,5001,Ancient Death Rancor,sorceries,Death Sorceries
+magic,5010,Explosive Ghostflame,sorceries,Death Sorceries
+magic,5020,Fia's Mist,sorceries,Death Sorceries
+magic,5030,Tibia's Summons,sorceries,Death Sorceries
+magic,5100,Oracle Bubbles,sorceries,Claymen Sorceries
+magic,5110,Great Oracular Bubble,sorceries,Claymen Sorceries
+magic,6500,Night Maiden's Mist,sorceries,Night Sorceries
+magic,2004300,Miriam's Vanishing,sorceries,Carian Sorceries
+magic,2004310,Glintblade Trio,sorceries,Carian Sorceries
+magic,2004320,Rellana's Twin Moons,sorceries,Carian Sorceries
+magic,2004500,Glintstone Nail,sorceries,Finger Sorceries
+magic,2004510,Glintstone Nails,sorceries,Finger Sorceries
+magic,2004700,Blades of Stone,sorceries,Gravity Sorceries
+magic,2004710,Gravitational Missile,sorceries,Gravity Sorceries
+magic,2004900,Mantle of Thorns,sorceries,Thorn Sorceries
+magic,2004910,Impenetrable Thorns,sorceries,Thorn Sorceries
+magic,2005000,Rings of Spectral Light,sorceries,Death Sorceries
+magic,2006200,Vortex of Putrescence,sorceries,Death Sorceries
+magic,2006210,Mass of Putrescence,sorceries,Death Sorceries
+magic,2007410,Fleeting Microcosm,sorceries,Finger Sorceries
+magic,2007420,Cherishing Fingers,sorceries,Finger Sorceries
+accessory,1000,Crimson Amber Medallion,talismans,
+accessory,1001,Crimson Amber Medallion +1,talismans,
+accessory,1002,Crimson Amber Medallion +2,talismans,
+accessory,1010,Cerulean Amber Medallion,talismans,
+accessory,1011,Cerulean Amber Medallion +1,talismans,
+accessory,1012,Cerulean Amber Medallion +2,talismans,
+accessory,1020,Viridian Amber Medallion,talismans,
+accessory,1021,Viridian Amber Medallion +1,talismans,
+accessory,1022,Viridian Amber Medallion +2,talismans,
+accessory,1030,Arsenal Charm,talismans,
+accessory,1031,Arsenal Charm +1,talismans,
+accessory,1032,Great-Jar's Arsenal,talismans,
+accessory,1040,Erdtree's Favor,talismans,
+accessory,1041,Erdtree's Favor +1,talismans,
+accessory,1042,Erdtree's Favor +2,talismans,
+accessory,1050,Radagon's Scarseal,talismans,
+accessory,1051,Radagon's Soreseal,talismans,
+accessory,1060,Starscourge Heirloom,talismans,
+accessory,1070,Prosthesis-Wearer Heirloom,talismans,
+accessory,1080,Stargazer Heirloom,talismans,
+accessory,1090,Two Fingers Heirloom,talismans,
+accessory,1100,Silver Scarab,talismans,
+accessory,1110,Gold Scarab,talismans,
+accessory,1140,Moon of Nokstella,talismans,
+accessory,1150,Green Turtle Talisman,talismans,
+accessory,1160,Stalwart Horn Charm,talismans,
+accessory,1161,Stalwart Horn Charm +1,talismans,
+accessory,1170,Immunizing Horn Charm,talismans,
+accessory,1171,Immunizing Horn Charm +1,talismans,
+accessory,1180,Clarifying Horn Charm,talismans,
+accessory,1181,Clarifying Horn Charm +1,talismans,
+accessory,1190,Prince of Death's Pustule,talismans,
+accessory,1191,Prince of Death's Cyst,talismans,
+accessory,1200,Mottled Necklace,talismans,
+accessory,1201,Mottled Necklace +1,talismans,
+accessory,1210,Bull-Goat's Talisman,talismans,
+accessory,1220,Marika's Scarseal,talismans,
+accessory,1221,Marika's Soreseal,talismans,
+accessory,1230,Warrior Jar Shard,talismans,
+accessory,1231,Shard of Alexander,talismans,
+accessory,1250,Millicent's Prosthesis,talismans,
+accessory,2000,Magic Scorpion Charm,talismans,
+accessory,2010,Lightning Scorpion Charm,talismans,
+accessory,2020,Fire Scorpion Charm,talismans,
+accessory,2030,Sacred Scorpion Charm,talismans,
+accessory,2040,Red-Feathered Branchsword,talismans,
+accessory,2050,Ritual Sword Talisman,talismans,
+accessory,2060,Spear Talisman,talismans,
+accessory,2070,Hammer Talisman,talismans,
+accessory,2080,Winged Sword Insignia,talismans,
+accessory,2081,Rotten Winged Sword Insignia,talismans,
+accessory,2090,Dagger Talisman,talismans,
+accessory,2100,Arrow's Reach Talisman,talismans,
+accessory,2110,Blue Dancer Charm,talismans,
+accessory,2120,Twinblade Talisman,talismans,
+accessory,2130,Axe Talisman,talismans,
+accessory,2140,Lance Talisman,talismans,
+accessory,2150,Arrow's Sting Talisman,talismans,
+accessory,2160,Lord of Blood's Exultation,talismans,
+accessory,2170,Kindred of Rot's Exultation,talismans,
+accessory,2180,Claw Talisman,talismans,
+accessory,2190,Roar Medallion,talismans,
+accessory,2200,Curved Sword Talisman,talismans,
+accessory,2210,Companion Jar,talismans,
+accessory,2220,Perfumer's Talisman,talismans,
+accessory,3000,Graven-School Talisman,talismans,
+accessory,3001,Graven-Mass Talisman,talismans,
+accessory,3040,Faithful's Canvas Talisman,talismans,
+accessory,3050,Flock's Canvas Talisman,talismans,
+accessory,3060,Old Lord's Talisman,talismans,
+accessory,3070,Radagon Icon,talismans,
+accessory,3080,Primal Glintstone Blade,talismans,
+accessory,3090,Godfrey Icon,talismans,
+accessory,4000,Dragoncrest Shield Talisman,talismans,
+accessory,4001,Dragoncrest Shield Talisman +1,talismans,
+accessory,4002,Dragoncrest Shield Talisman +2,talismans,
+accessory,4003,Dragoncrest Greatshield Talisman,talismans,
+accessory,4010,Spelldrake Talisman,talismans,
+accessory,4011,Spelldrake Talisman +1,talismans,
+accessory,4012,Spelldrake Talisman +2,talismans,
+accessory,4020,Flamedrake Talisman,talismans,
+accessory,4021,Flamedrake Talisman +1,talismans,
+accessory,4022,Flamedrake Talisman +2,talismans,
+accessory,4030,Boltdrake Talisman,talismans,
+accessory,4031,Boltdrake Talisman +1,talismans,
+accessory,4032,Boltdrake Talisman +2,talismans,
+accessory,4040,Haligdrake Talisman,talismans,
+accessory,4041,Haligdrake Talisman +1,talismans,
+accessory,4042,Haligdrake Talisman +2,talismans,
+accessory,4050,Pearldrake Talisman,talismans,
+accessory,4051,Pearldrake Talisman +1,talismans,
+accessory,4052,Pearldrake Talisman +2,talismans,
+accessory,4060,Crucible Scale Talisman,talismans,
+accessory,4070,Crucible Feather Talisman,talismans,
+accessory,4080,Blue-Feathered Branchsword,talismans,
+accessory,4090,Ritual Shield Talisman,talismans,
+accessory,4100,Greatshield Talisman,talismans,
+accessory,4110,Crucible Knot Talisman,talismans,
+accessory,5000,Crimson Seed Talisman,talismans,
+accessory,5010,Cerulean Seed Talisman,talismans,
+accessory,5020,Blessed Dew Talisman,talismans,
+accessory,5030,Taker's Cameo,talismans,
+accessory,5040,Godskin Swaddling Cloth,talismans,
+accessory,5050,Assassin's Crimson Dagger,talismans,
+accessory,5060,Assassin's Cerulean Dagger,talismans,
+accessory,6000,Crepus's Vial,talismans,
+accessory,6010,Concealing Veil,talismans,
+accessory,6020,Carian Filigreed Crest,talismans,
+accessory,6040,Longtail Cat Talisman,talismans,
+accessory,6050,Shabriri's Woe,talismans,
+accessory,6060,Daedicar's Woe,talismans,
+accessory,6070,Sacrificial Twig,talismans,
+accessory,6080,Furled Finger's Trick-Mirror,talismans,
+accessory,6090,Host's Trick-Mirror,talismans,
+accessory,6100,Entwining Umbilical Cord,talismans,
+accessory,6110,Ancestral Spirit's Horn,talismans,
+accessory,7000,Crimson Amber Medallion +3,talismans,
+accessory,7010,Cerulean Amber Medallion +3,talismans,
+accessory,7020,Viridian Amber Medallion +3,talismans,
+accessory,7030,Two-Headed Turtle Talisman,talismans,
+accessory,7040,Stalwart Horn Charm +2,talismans,
+accessory,7050,Immunizing Horn Charm +2,talismans,
+accessory,7060,Clarifying Horn Charm +2,talismans,
+accessory,7080,Mottled Necklace +2,talismans,
+accessory,7090,Spelldrake Talisman +3,talismans,
+accessory,7100,Flamedrake Talisman +3,talismans,
+accessory,7110,Boltdrake Talisman +3,talismans,
+accessory,7120,Golden Braid,talismans,
+accessory,7130,Pearldrake Talisman +3,talismans,
+accessory,7140,Crimson Seed Talisman +1,talismans,
+accessory,7150,Cerulean Seed Talisman +1,talismans,
+accessory,8000,Blessed Blue Dew Talisman,talismans,
+accessory,8010,Fine Crucible Feather Talisman,talismans,
+accessory,8020,Outer God Heirloom,talismans,
+accessory,8030,Shattered Stone Talisman,talismans,
+accessory,8040,Two-Handed Sword Talisman,talismans,
+accessory,8050,Crusade Insignia,talismans,
+accessory,8060,Aged One's Exultation,talismans,
+accessory,8070,Arrow's Soaring Sting Talisman,talismans,
+accessory,8090,Pearl Shield Talisman,talismans,
+accessory,8100,Dried Bouquet,talismans,
+accessory,8110,Smithing Talisman,talismans,
+accessory,8120,Ailment Talisman,talismans,
+accessory,8130,Retaliatory Crossed-Tree,talismans,
+accessory,8140,Lacerating Crossed-Tree,talismans,
+accessory,8150,Sharpshot Talisman,talismans,
+accessory,8160,St. Trina's Smile,talismans,
+accessory,8170,Talisman of the Dread,talismans,
+accessory,8180,Enraged Divine Beast,talismans,
+accessory,8190,Beloved Stardust,talismans,
+accessory,8200,Talisman of Lord's Bestowal,talismans,
+accessory,8210,Verdigris Discus,talismans,
+accessory,8220,Rellana's Cameo,talismans,
+accessory,8230,Blade of Mercy,talismans,
+accessory,8240,Talisman of All Crucibles,talismans,
+goods,300,Fire Pot,tools,Throwing Pots
+goods,301,Redmane Fire Pot,tools,Throwing Pots
+goods,302,Giantsflame Fire Pot,tools,Throwing Pots
+goods,320,Lightning Pot,tools,Throwing Pots
+goods,321,Ancient Dragonbolt Pot,tools,Throwing Pots
+goods,330,Fetid Pot,tools,Throwing Pots
+goods,340,Swarm Pot,tools,Throwing Pots
+goods,350,Holy Water Pot,tools,Throwing Pots
+goods,351,Sacred Order Pot,tools,Throwing Pots
+goods,360,Freezing Pot,tools,Throwing Pots
+goods,370,Poison Pot,tools,Throwing Pots
+goods,380,Oil Pot,tools,Throwing Pots
+goods,390,Alluring Pot,tools,Throwing Pots
+goods,391,Beastlure Pot,tools,Throwing Pots
+goods,600,Volcano Pot,tools,Throwing Pots
+goods,610,Albinauric Pot,tools,Throwing Pots
+goods,630,Cursed-Blood Pot,tools,Throwing Pots
+goods,640,Sleep Pot,tools,Throwing Pots
+goods,650,Rancor Pot,tools,Throwing Pots
+goods,660,Magic Pot,tools,Throwing Pots
+goods,661,Academy Magic Pot,tools,Throwing Pots
+goods,670,Rot Pot,tools,Throwing Pots
+goods,820,Boiled Crab,tools,Consumables
+goods,830,Boiled Prawn,tools,Consumables
+goods,1110,Immunizing Cured Meat,tools,Consumables
+goods,1120,Invigorating Cured Meat,tools,Consumables
+goods,1130,Clarifying Cured Meat,tools,Consumables
+goods,1140,Dappled Cured Meat,tools,Consumables
+goods,1150,Spellproof Dried Liver,tools,Consumables
+goods,1160,Fireproof Dried Liver,tools,Consumables
+goods,1170,Lightningproof Dried Liver,tools,Consumables
+goods,1180,Holyproof Dried Liver,tools,Consumables
+goods,1210,Exalted Flesh,tools,Consumables
+goods,1220,Deathsbane Jerky,tools,Consumables
+goods,1235,Raw Meat Dumpling,tools,Consumables
+goods,1290,Starlight Shards,tools,Consumables
+goods,1310,Immunizing White Cured Meat,tools,Consumables
+goods,1320,Invigorating White Cured Meat,tools,Consumables
+goods,1330,Clarifying White Cured Meat,tools,Consumables
+goods,1340,Dappled White Cured Meat,tools,Consumables
+goods,1350,Deathsbane White Jerky,tools,Consumables
+goods,1400,Fire Grease,tools,Grease
+goods,1410,Lightning Grease,tools,Grease
+goods,1420,Magic Grease,tools,Grease
+goods,1430,Holy Grease,tools,Grease
+goods,1440,Blood Grease,tools,Grease
+goods,1450,Soporific Grease,tools,Grease
+goods,1460,Poison Grease,tools,Grease
+goods,1470,Freezing Grease,tools,Grease
+goods,1480,Dragonwound Grease,tools,Grease
+goods,1490,Rot Grease,tools,Grease
+goods,1500,Drawstring Fire Grease,tools,Grease
+goods,1510,Drawstring Lightning Grease,tools,Grease
+goods,1520,Drawstring Magic Grease,tools,Grease
+goods,1530,Drawstring Holy Grease,tools,Grease
+goods,1540,Drawstring Blood Grease,tools,Grease
+goods,1550,Drawstring Soporific Grease,tools,Grease
+goods,1560,Drawstring Poison Grease,tools,Grease
+goods,1570,Drawstring Freezing Grease,tools,Grease
+goods,1590,Drawstring Rot Grease,tools,Grease
+goods,1700,Throwing Dagger,tools,Throwables
+goods,1710,Bone Dart,tools,Throwables
+goods,1720,Poisonbone Dart,tools,Throwables
+goods,1730,Kukri,tools,Throwables
+goods,1740,Crystal Dart,tools,Throwables
+goods,1750,Fan Daggers,tools,Throwables
+goods,1760,Ruin Fragment,tools,Throwables
+goods,1830,Explosive Stone,tools,Throwables
+goods,1831,Explosive Stone Clump,tools,Throwables
+goods,1840,Poisoned Stone,tools,Throwables
+goods,1841,Poisoned Stone Clump,tools,Throwables
+goods,3000,Ancestral Infant's Head,tools,Reusable Tools
+goods,3010,Omen Bairn,tools,Reusable Tools
+goods,3011,Regal Omen Bairn,tools,Reusable Tools
+goods,3030,Cuckoo Glintstone,tools,Throwables
+goods,3050,Glintstone Scrap,tools,Throwables
+goods,3051,Large Glintstone Scrap,tools,Throwables
+goods,3060,Gravity Stone Fan,tools,Throwables
+goods,3070,Gravity Stone Chunk,tools,Throwables
+goods,3080,Wraith Calling Bell,tools,Reusable Tools
+goods,3300,Holy Water Grease,tools,Grease
+goods,3310,Warming Stone,tools,Throwables
+goods,3311,Frenzyflame Stone,tools,Throwables
+goods,3500,Uplifting Aromatic,tools,Perfumes
+goods,3510,Spark Aromatic,tools,Perfumes
+goods,3520,Ironjar Aromatic,tools,Perfumes
+goods,3550,Bloodboil Aromatic,tools,Perfumes
+goods,3580,Poison Spraymist,tools,Perfumes
+goods,3610,Acid Spraymist,tools,Perfumes
+goods,53630,?GoodsName? Holy Water Pot,tools,Throwing Pots
+goods,2000300,Hefty Fire Pot,tools,Throwing Pots
+goods,2000310,Hefty Rock Pot,tools,Throwing Pots
+goods,2000320,Hefty Lightning Pot,tools,Throwing Pots
+goods,2000330,Hefty Fetid Pot,tools,Throwing Pots
+goods,2000340,Hefty Fly Pot,tools,Throwing Pots
+goods,2000360,Hefty Freezing Pot,tools,Throwing Pots
+goods,2000370,Hefty Poison Pot,tools,Throwing Pots
+goods,2000380,Hefty Oil Pot,tools,Throwing Pots
+goods,2000600,Hefty Volcano Pot,tools,Throwing Pots
+goods,2000620,Hefty Frenzied Flame Pot,tools,Throwing Pots
+goods,2000650,Hefty Rancor Pot,tools,Throwing Pots
+goods,2000660,Hefty Magic Pot,tools,Throwing Pots
+goods,2000670,Hefty Rot Pot,tools,Throwing Pots
+goods,2000680,Hefty Furnace Pot,tools,Throwing Pots
+goods,2000690,Hefty Red Lightning Pot,tools,Throwing Pots
+goods,2000700,Red Lightning Pot,tools,Throwing Pots
+goods,2000710,Frenzied Flame Pot,tools,Throwing Pots
+goods,2000740,Eternal Sleep Pot,tools,Throwing Pots
+goods,2000760,Roped Frenzied Flame Pot,tools,Throwing Pots
+goods,2000800,Spirit Raisin,tools,Miscellaneous Tools
+goods,2000900,Blessing of Marika,tools,Consumables
+goods,2000910,Lulling Branch,tools,Consumables
+goods,2001100,Dragon Communion Flesh,tools,Consumables
+goods,2001105,Dragonscale Flesh,tools,Consumables
+goods,2001110,Fingerprint Nostrum,tools,Consumables
+goods,2001120,Spellproof Pickled Liver,tools,Consumables
+goods,2001130,Fireproof Pickled Liver,tools,Consumables
+goods,2001140,Lightningproof Pickled Liver,tools,Consumables
+goods,2001150,Holyproof Pickled Liver,tools,Consumables
+goods,2001160,Opaline Pickled Liver,tools,Consumables
+goods,2001170,Well-Pickled Turtle Neck,tools,Consumables
+goods,2001200,Scorpion Stew,tools,Consumables
+goods,2001203,Gourmet Scorpion Stew,tools,Consumables
+goods,2001210,Sacred Bloody Flesh,tools,Consumables
+goods,2001400,Messmerfire Grease,tools,Grease
+goods,2001410,Dragonbolt Grease,tools,Grease
+goods,2001420,Royal Magic Grease,tools,Grease
+goods,2001430,Golden Grease,tools,Grease
+goods,2001450,Eternal Sleep Grease,tools,Grease
+goods,2001480,Dragon Communion Grease,tools,Grease
+goods,2001500,Drawstring Messmerfire Grease,tools,Grease
+goods,2001510,Drawstring Dragonbolt Grease,tools,Grease
+goods,2001520,Drawstring Royal Magic Grease,tools,Grease
+goods,2001530,Drawstring Golden Grease,tools,Grease
+goods,2001550,Drawstring Eternal Sleep Grease,tools,Grease
+goods,2001600,Festive Grease,tools,Grease
+goods,2001700,Innard Meat,tools,Throwables
+goods,2001710,Dragon Communion Harpoon,tools,Throwables
+goods,2002010,Rock Heart,tools,Miscellaneous Tools
+goods,2002020,Priestess Heart,tools,Miscellaneous Tools
+goods,2002030,Lamenter's Mask,tools,Miscellaneous Tools
+goods,2003130,Horned Bairn,tools,Reusable Tools
+goods,2003140,Perfumed Oil of Ranah,tools,Reusable Tools
+goods,2003150,Call of Tibia,tools,Consumables
+goods,2003160,Surging Frenzied Flame,tools,Throwables
+goods,2003170,Golden Vow,tools,Throwables
+goods,2003180,Fire Coil,tools,Throwables
+goods,2003190,Fire Spritestone,tools,Throwables
+goods,2003200,Glinting Nail,tools,Throwables
+goods,2003350,Charming Branch,tools,Consumables

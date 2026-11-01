@@ -1,0 +1,446 @@
+model,name,provenance,kind,standing,family,card,same_as,delivers,note
+c0,Human,base_placed,person,inert,,,,no,"tested twice in the identification run, on two different hosts, and NOT DELIVERED either time: nothing appeared. It is the player's own model, which the game builds from a character record rather than from an NpcParam row"
+c100,BuddyStone,base_placed,scenery,inert,,,,,
+c110,Caravan Dummy,base_placed,scenery,inert,,,,,
+c120,Bullet Dummy,base_placed,scenery,inert,,,,,
+c130,Balloon Dummy,base_placed,scenery,inert,,,,,
+c1000,Talk Dummy,base_placed,scenery,inert,,,,,
+c1010,Talk Dummy,base_unplaced,scenery,inert,c1000,,c1000,,
+c2010,Blaidd the Half-Wolf,base_placed,person,passive,,,,,"Ranni's companion, and a person rather than a creature"
+c2030,"Rennala, Queen of the Full Moon",base_placed,creature,boss,,,,,Remembrance of the Full Moon Queen
+c2031,"Rennala, Queen of the Full Moon",base_placed,creature,boss,c2030,,c2030,,Remembrance of the Full Moon Queen
+c2040,Juvenile Scholar,base_placed,person,passive,,,,,
+c2041,Kindred of Rot Larva,base_placed,creature,enemy,,,,,ordinary enemy; 0 of 3 placements are boss fights
+c2050,Ranni the Witch,base_placed,person,passive,,,,,
+c2051,Ranni the Witch,base_unplaced,person,passive,c2050,,c2050,,
+c2060,The Two Fingers,base_placed,creature,enemy,,,,,
+c2100,Black Knife Assassin,base_placed,creature,miniboss,,,,,"boss of two catacombs, and Alecto; also roams Ordina and Leyndell"
+c2110,Beast Clergyman,base_placed,creature,boss,,"Maliketh, the Black Blade",,,Remembrance of the Black Blade (first phase)
+c2120,"Malenia, Blade of Miquella",base_placed,creature,boss,,"Malenia, Blade of Miquella",,,Remembrance of the Rot Goddess
+c2130,Margit,base_placed,creature,boss,,Margit / Morgott,,,Remembrance of the Omen King; Margit is the same model
+c2131,Morgott - Dead,base_placed,scenery,inert,,,,,
+c2140,Omen,base_placed,creature,enemy,,,,,
+c2150,Lightning Ball,base_placed,creature,enemy,,Lightning Ball,,,"the base Lightning Ball; the DLC one is c6240, identified by an identical box and identical health"
+c2160,Finger Reader Crone,base_placed,person,passive,,,,,
+c2170,Finger Reader Enia,base_placed,person,passive,,,,,
+c2180,Melina,base_placed,person,passive,,,,,never fightable
+c2190,Radagon,base_placed,creature,boss,,Radagon of the Golden Order,,,"the final fight, mandatory; one Elden Remembrance covers both phases and the two are still two creatures"
+c2191,Radagon - Crucified,base_unplaced,scenery,inert,,,,,
+c2200,Elden Beast,base_placed,creature,boss,,,,,"the second phase of the final fight, and a different creature entirely; kept apart from Radagon on that"
+c2270,Giant Crab,base_placed,creature,enemy,,Crab,,,"the small crabs joined 2026-09-12 at the witness: one Crab family. Four kinds - plain, Black, Albinauric, Death - at two sizes, and the kind is the model because every crab carries -1 on all five material slots"
+c2271,Crab,base_placed,creature,passive,c2270,,,,"tested: it summons, small, alongside c2273"
+c2272,Giant Black Crab,base_placed,creature,enemy,c2270,,,,
+c2273,Giant Black Crab,base_placed,creature,passive,c2270,,c2272,,"tested: it summons as a SMALL crab. The name says giant, the c2271 rig and the 1.41x0.7 box say small, and the summon agrees with the body"
+c2274,Giant Albinauric Crab,base_placed,creature,enemy,c2270,,,,
+c2275,Albinauric Crab,base_placed,creature,passive,c2270,,,,the small crabs are wildlife
+c2276,Giant Death Crab,base_placed,creature,enemy,c2270,,,,
+c2277,Death Crab,base_placed,creature,passive,c2270,,,,
+c2500,Crucible Knight,base_placed,creature,miniboss,,Crucible Knight,,,"Ordovis, Siluria and Tanith's Knight are already inside c2500; Devonia is the DLC one, same 0.5x2.3 hit box"
+c3000,Exile Soldier,base_placed,creature,enemy,,,,,
+c3010,Banished Knight,base_placed,creature,enemy,,,,,
+c3020,Large Exile Soldier,base_placed,creature,enemy,c3000,,,,
+c3050,Commander,base_placed,creature,boss,,,,,"Commander Niall and Commander O'Neil; two individuals on one model, and two cards - nobody meets a creature called Commander"
+c3060,Giant Skeleton,base_placed,creature,enemy,c3510,,,,"the base giant, 2.4 x 0.5; keeps its own picture"
+c3061,Giant Beast Skeleton,base_placed,creature,enemy,c3510,,,,"the base giant beast, 2.5 x 0.6; rides c3060's rig but is its own creature"
+c3070,Dominula Celebrant,base_placed,creature,enemy,,,,,
+c3080,Imp,base_placed,creature,enemy,,,,,
+c3100,Bell Bearing Hunter,base_placed,creature,miniboss,,,,,"four Bell Bearing Hunters, plus Elemer of the Briar"
+c3150,Night's Cavalry,base_placed,creature,miniboss,,,,,"a field boss on the roads at night, in eight regions"
+c3160,Funeral Steed,base_placed,creature,enemy,,,,,
+c3170,Albinauric Archer,base_placed,creature,enemy,,,,,"kept its own card: its rig-mate c3171 Phillia is an NPC, and an NPC never shares a card with a creature"
+c3171,"Phillia, Towering Little Sister",base_placed,person,passive,,,,,"a person on the Albinauric Archer rig, like Gostoc on the Commoner"
+c3180,Albinauric Archer's Wolf,base_placed,creature,enemy,,,,,
+c3181,Red Wolf of Radagon,base_placed,creature,miniboss,,,,,"Raya Lucaria, the Royal Archives, and Red Wolf of the Champion"
+c3200,Nomadic Merchant,base_placed,person,passive,,,,,
+c3201,Frenzied Nomad,base_placed,creature,enemy,,,,,
+c3202,Merchant Kalé,base_unplaced,person,passive,,,,,a merchant; his rig-mate c3200 Nomadic Merchant is already npc
+c3210,Nomadic Merchant's Donkey,base_placed,creature,passive,,,,,
+c3250,Draconic Tree Sentinel,base_placed,creature,miniboss,,Draconic Tree Sentinel,,,"split off the Tree Sentinel card 2026-09-11 at the witness: its own family. Goal 325000 against the Tree Sentinel’s 325100/325110, and 2,036 hp against 1,745 and 1,454"
+c3251,Tree Sentinel,base_placed,creature,miniboss,,Tree Sentinel,,,"the Hinterland one rides here; the Draconic one was split off 2026-09-11. Two weapons, shield-and-halberd at 1,745 and torch-and-halberd at 1,454"
+c3252,Loretta Tree Sentinel,base_placed,creature,boss,,Loretta,,,"Royal Knight Loretta and Loretta of the Haligtree; one person, two arenas, two think rows"
+c3300,Nox Swordstress,base_placed,creature,enemy,,,,,Nox monks and maidens roam Nokstella; 2 of 13 are boss fights
+c3320,Silver Tear,base_placed,creature,enemy,,,,,
+c3330,Giant Silver Tear,base_placed,creature,enemy,,,,,
+c3350,Crystalian,base_placed,creature,miniboss,,,,,
+c3360,Ancestral Follower,base_placed,creature,enemy,,Ancestral Follower,,,"the Putrid one is a recolour; both 2.6x0.7, three movesets each. c3370/c3371 Shaman joined 2026-09-11 at the witness: one family, gender combined with the kind"
+c3361,Putrid Ancestral Follower,base_unplaced,creature,enemy,c3360,,,,
+c3370,Ancestral Follower Shaman,base_placed,creature,enemy,c3360,,,,the Putrid one is a recolour; both 3.2x0.8. Joined the Ancestral Follower card 2026-09-11
+c3371,Putrid Ancestral Shaman,base_unplaced,creature,enemy,c3360,,,,
+c3400,Grave Warden Duelist,base_placed,creature,miniboss,,,,,"boss of four catacombs, and roams Leyndell"
+c3450,Misbegotten,base_placed,creature,enemy,,,,,Scaly is the variant; 2.2x0.8 against 2.4x0.75
+c3451,Scaly Misbegotten,base_placed,creature,enemy,c3450,,,,roams Castle Morne and the peninsula; 1 of 14 is a boss fight
+c3460,Leonine Misbegotten,base_placed,creature,miniboss,,,,,"Castle Morne, the Misbegotten Warrior, the Misbegotten Crusader"
+c3470,Albinauric,base_placed,creature,enemy,,,,,
+c3471,Large Albinauric,base_placed,creature,enemy,c3470,,,,
+c3500,Large Skeleton,base_placed,creature,enemy,c3510,,,,"1.9 x 0.3, the same body as c3510 despite the name"
+c3510,Skeleton,base_placed,creature,enemy,,,,,"root of the one skeleton card: every skeleton but the Giant Skeleton Torso is browsed under it, with the type as the model and the weapon as the moveset"
+c3550,Sanguine Noble,base_placed,creature,miniboss,,,,,
+c3560,Godskin Apostle,base_placed,creature,miniboss,,Godskin,,,"the Noble joined 2026-09-12: distinct moves and appearance, but one family and often one fight"
+c3570,Godskin Noble,base_placed,creature,miniboss,c3560,,,,joined the Godskin Apostle card 2026-09-12 at the witness: the Apostle and the Noble are two variants of one enemy and are fought together
+c3600,Alabaster Lord,base_placed,creature,miniboss,,,,,Onyx Lord is a boss three times; Alabaster Lords roam Limgrave
+c3610,Oracle Envoy,base_placed,creature,enemy,,,,,
+c3620,Large Oracle Envoy,base_placed,creature,enemy,,,,,
+c3630,Giant Oracle Envoy,base_placed,creature,enemy,,,,,
+c3640,,base_unplaced,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it"
+c3650,Guardian,base_placed,creature,enemy,,,,,
+c3660,Commoner,base_placed,creature,enemy,,,,,"kept its own card: the Commoner is already its own thing, and the Putrid Corpse and the Cemetery Shade on its rig are two more"
+c3661,Putrid Corpse,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Commoner it shares the c3660 rig with
+c3662,Putrid Corpse,base_placed,creature,enemy,c3661,,c3661,,
+c3664,Cemetery Shade,base_placed,creature,miniboss,,,,,kept its own card: a different enemy from the Commoner and the Putrid Corpse it shares the c3660 rig with
+c3665,Gatekeeper Gostoc,base_placed,person,passive,,,,,
+c3666,The Noble Goldmask,base_placed,person,passive,,,,,
+c3670,Imprisoned Elder Albinauric,base_placed,creature,enemy,,,,,
+c3700,Depraved Perfumer,base_placed,creature,enemy,,,,,"kept its own card: the c3700 rig is one human body, and the Depraved Perfumer, Perfumer, Glintstone Sorcerer and Page on it are four different enemies"
+c3701,Perfumer,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Sorcerer and the Page it shares the c3700 rig with
+c3702,Glintstone Sorcerer,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Perfumers and the Page it shares the c3700 rig with
+c3703,Page,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Perfumers and the Sorcerer it shares the c3700 rig with
+c3704,Battlemage,base_placed,creature,miniboss,,,,,Battlemage Hugues in Sellia Evergaol; Battlemages roam Caelid
+c3710,Azur,base_placed,person,passive,,,,,
+c3720,Lusat,base_placed,person,passive,,,,,
+c3730,Graven School,base_placed,creature,enemy,,,,,
+c3750,Clayman,base_placed,creature,enemy,,,,,
+c3800,Cleanrot Knight,base_placed,creature,enemy,,,,,roams Elphael and Aeonia; 3 of 20 placements are boss fights
+c3810,Kindred of Rot,base_placed,creature,enemy,,Kindred of Rot,,,"tested: it summons as the bug, and the Disciple of Rot beside it is a different creature entirely"
+c3850,Marionette,base_placed,creature,enemy,,,,,
+c3860,Avionette,base_placed,creature,enemy,,,,,
+c3900,Fire Monk,base_placed,creature,enemy,c3901,,,,
+c3901,Blackflame Monk,base_placed,creature,enemy,,Fire Monk,,,"Blackflame is the recolour; both 2.2x0.5, two movesets each. Rooted on c3901 because that is the one with artwork"
+c3910,Fire Prelate,base_placed,creature,enemy,,,,,
+c3950,Man-Serpent,base_placed,creature,enemy,,,,,
+c3970,Azula Beastman,base_placed,creature,enemy,,,,,roams Farum Azula; 3 of 32 placements are boss fights
+c4000,Revenant Follower,base_placed,creature,enemy,,,,,
+c4020,Royal Revenant,base_placed,creature,enemy,,,,,roams the Shaded Castle; 1 of 32 placements is a boss fight
+c4040,Slug,base_placed,creature,enemy,,,,,
+c4050,Kaiden Sellsword,base_placed,creature,enemy,,,,,
+c4060,Kaiden Sellsword Horse,base_placed,creature,passive,,,,,
+c4070,Wolf,base_placed,creature,enemy,,,,,
+c4071,White Wolf,base_placed,creature,enemy,c4070,,,,
+c4080,Rat,base_placed,creature,enemy,,,,,
+c4090,Giant Rat,base_placed,creature,enemy,,,,,
+c4100,Demi-Human,base_placed,creature,enemy,,,,,everywhere; 2 of 40 placements are boss fights
+c4101,Large Demi-Human,base_placed,creature,enemy,c4100,,,,
+c4110,Demi-Human Shaman,base_placed,creature,enemy,c4100,,,,"joined the Demi-Human card 2026-09-12 at the witness: it is always found among Demi-Humans. Its own rig head at 0.4x0.9 against c4100 at 0.4x1.5, so this is a browsing decision and not a rig one - the same call as Messmer Soldier"
+c4120,Demi-Human Chief,base_placed,creature,enemy,,,,,roams demi-human forts; 1 of 11 placements is a boss fight
+c4130,Demi-Human Queen,base_placed,creature,miniboss,,,,,"Demi-Human Queens Gilika, Maggie, Margot and Marigga: four of them is a kind"
+c4140,Snail,base_placed,creature,enemy,,,,,
+c4150,Basilisk,base_placed,creature,enemy,,,,,
+c4160,Large Stray,base_placed,creature,enemy,,Stray,,,"Large and small, plain, Azula, Bloodbane and Rotten: eight model numbers, one dog"
+c4161,Stray,base_placed,creature,enemy,c4160,,,,
+c4162,Large Azula Stray,base_placed,creature,enemy,c4160,,,,
+c4163,Azula Stray,base_placed,creature,enemy,c4160,,,,
+c4164,Large Bloodbane Stray,base_placed,creature,enemy,c4160,,,,
+c4165,Bloodbane Stray,base_placed,creature,enemy,c4160,,,,
+c4166,Large Rotten Stray,base_placed,creature,enemy,c4160,,,,
+c4167,Rotten Stray,base_placed,creature,enemy,c4160,,,,
+c4170,Putrid Flesh,base_placed,creature,enemy,,,,,
+c4171,Giant Putrid Flesh,base_placed,creature,enemy,c4170,,,,
+c4180,Spirit Jellyfish,base_placed,creature,enemy,,,,,
+c4190,Large Ash of War Scarab,base_placed,creature,passive,,Scarab,,,"six model numbers, three sizes, twice: the DLC scarabs carry the base ones boxes exactly"
+c4191,Ash of War Scarab,base_placed,creature,passive,c4190,,,,a scarab is wildlife at every size; was helper
+c4192,Giant Ash of War Scarab,base_placed,creature,passive,c4190,,,,a scarab is wildlife at every size
+c4200,Man-Bat,base_placed,creature,enemy,,,,,"kept its own card: the Operatic Bat is a different enemy, and a different model with a different box (2.5x1.0 against 2.4x0.6)"
+c4201,Operatic Bat,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Man-Bat it shares the c4200 rig with
+c4210,Warhawk,base_placed,creature,enemy,,,,,
+c4220,Giant Land Octopus,base_placed,creature,enemy,,,,,
+c4230,Land Octopus,base_placed,creature,enemy,,,,,
+c4240,Fingercreeper,base_placed,creature,enemy,,,,,
+c4241,Giant Fingercreeper,base_placed,creature,enemy,c4240,,,,
+c4250,Small Fingercreeper,base_placed,creature,enemy,c4240,,,,
+c4260,Erdtree Burial Watchdog,base_placed,creature,miniboss,,,,,
+c4270,Elder Lion,base_placed,creature,enemy,,,,,
+c4280,Giant Ant,base_placed,creature,enemy,,,,,
+c4281,Skull Plate Giant Ant,base_placed,creature,enemy,c4280,,,,
+c4290,Bloodhound Knight,base_placed,creature,miniboss,,,,,Darriwil and a cave boss; Bloodhound Knights roam
+c4300,Wandering Noble,base_placed,creature,enemy,,,,,
+c4311,Godrick Soldier,base_placed,creature,enemy,,,,,the standard soldier; 1 of 46 placements is a boss fight
+c4312,Raya Lucaria Soldier,base_placed,creature,enemy,c4311,,,,
+c4313,Leyndell Soldier,base_placed,creature,enemy,c4311,,,,
+c4314,Radahn Soldier,base_placed,creature,enemy,c4311,,,,
+c4315,Mausoleum Soldier,base_placed,creature,enemy,c4311,,,,
+c4316,Haligtree Soldier,base_placed,creature,enemy,c4311,,,,
+c4321,Vulgar Militia,base_placed,creature,enemy,,,,,
+c4340,Mad Pumpkin Head,base_placed,creature,enemy,,,,,roams the Altus and Liurnia; 3 of 25 placements are boss fights
+c4341,Thin Mad Pumpkin Head,base_unplaced,creature,enemy,c4340,,,,ordinary enemy; 0 of 2 placements are boss fights
+c4351,Godrick Knight,base_placed,creature,enemy,,,,,"unnamed, and the rig and the 2.0x0.5 box say it is a Knight"
+c4352,Cuckoo Knight,base_placed,creature,enemy,c4351,,,,
+c4353,Leyndell Knight,base_placed,creature,enemy,c4351,,,,
+c4354,Redmane Knight,base_placed,creature,enemy,c4351,,,,
+c4355,Mausoleum Knight,base_placed,creature,enemy,c4351,,,,
+c4356,Haligtree Knight,base_placed,creature,enemy,c4351,,,,ordinary Haligtree knight; 0 of 10 placements are boss fights
+c4358,,base_unplaced,creature,enemy,c4351,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it. Filed as a Knight on its rig, and the rig is all there is"
+c4361,Godrick Knight's Horse,base_placed,creature,passive,,,,,"one horse in six liveries; all 3.5x0.7, one moveset each"
+c4362,Cuckoo Knight's Horse,base_placed,creature,passive,c4361,,,,
+c4363,Leyndell Knight's Horse,base_placed,creature,passive,c4361,,,,
+c4364,Redmane Knight's Horse,base_placed,creature,passive,c4361,,,,
+c4365,Mausoleum Knight's Horse,base_placed,creature,passive,c4361,,,,
+c4368,,base_unplaced,creature,passive,c4361,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it. Filed as a Knight's Horse on its rig"
+c4371,Godrick Foot Soldier,base_placed,creature,enemy,,Foot Soldier,,,the standard foot soldier; 0 of 47 placements are boss fights
+c4372,Raya Lucaria Foot Soldier,base_placed,creature,enemy,c4371,,,,
+c4373,Leyndell Foot Soldier,base_placed,creature,enemy,c4371,,,,
+c4374,Radahn Foot Soldier,base_placed,creature,enemy,c4371,,,,
+c4375,Mausoleum Foot Soldier,base_placed,creature,enemy,c4371,,,,
+c4376,Haligtree Foot Soldier,base_placed,creature,enemy,c4371,,,,
+c4377,Highwayman,base_placed,creature,enemy,c4371,,,,"the Highwayman is a foot soldier in other colours: same c4370 rig, same 1.9m body"
+c4380,Starcaller,base_placed,creature,enemy,,,,,"kept its own card: the c4380 rig is one hunched body, and the Starcaller, Guilty, Stonedigger and Diggers on it are different enemies"
+c4381,Guilty,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Diggers it shares the c4380 rig with
+c4382,Stonedigger,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Glintstone Diggers it shares the c4380 rig with
+c4383,Glintstone Digger,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Stonedigger it shares the c4380 rig with
+c4384,Large Glintstone Digger,base_placed,creature,enemy,,,,,kept its own card: a different enemy from the Stonedigger it shares the c4380 rig with
+c4385,Disciple of Rot,base_placed,creature,enemy,,,,,"tested: a man with a staff who throws poison, met in poison dungeons and areas in the base game. NOT a Kindred of Rot - the c4380 digger rig and the 1.6x0.4 box were right, and the merge that ignored them is reversed"
+c4420,Giant Crayfish,base_placed,creature,enemy,,,,,
+c4430,Watcher Stones,base_placed,creature,enemy,,,,,"tested: an ordinary enemy that also appears in the base game, not scenery"
+c4440,Land Squirt,base_placed,creature,enemy,,,,,
+c4441,Giant Land Squirt,base_placed,creature,enemy,c4440,,,,
+c4442,Giant Land Squirt,base_placed,creature,enemy,c4440,,c4441,,
+c4450,Walking Mausoleum,base_placed,creature,enemy,,,,,tested: it summons. 59.0 x 18.0 is the largest hit box in the catalog and it is still not the largest thing on screen
+c4460,Flame Chariot,base_placed,creature,enemy,,,,,"tested: an ordinary open-world enemy, a rider on a chariot throwing flames. Not a machine"
+c4470,Abductor Virgin,base_placed,creature,enemy,,,,,roams Volcano Manor; 2 of 20 placements are boss fights
+c4480,Miranda Blossom,base_placed,creature,enemy,,,,,the Rotten one is a recolour; both 1.9x0.65
+c4481,Miranda Sprout,base_placed,creature,enemy,,,,,the Rotten one is a recolour; both 1.9x0.65
+c4482,Rotten Miranda Blossom,base_placed,creature,enemy,c4480,,,,
+c4483,Rotten Miranda Sprout,base_placed,creature,enemy,c4481,,,,
+c4490,Living Jar Warrior,base_placed,creature,enemy,c4491,,,,"joined the Living Jar card 2026-09-13 at the witness: one jar family - the small Living Jar, the big Warrior, the enormous Greatjar. Its size is the axis inside the card"
+c4491,Living Jar,base_placed,creature,enemy,,,,,
+c4492,Greatjar,base_placed,creature,passive,c4491,,,,"joined the Living Jar card 2026-09-13 at the witness as the enormous one. It is an NPC that does not move, has no moveset and no health to speak of; placed here for now and remembered as a candidate for a cannot-fight bucket"
+c4500,Flying Dragon,base_placed,creature,miniboss,,Flying Dragon,,,"the Flying Dragon rig: c4501 Ekzykes, c4502 Glintstone, c4503 Borealis, c4504 Greyoll and c4505 all retarget onto this model, and every one runs a 4500xx-4505xx goal. Split from the Ancient Dragon card 2026-09-11"
+c4501,Decaying Ekzykes,base_placed,creature,miniboss,c4500,,,,"Decaying Ekzykes, inside the Dragon card"
+c4502,Glintstone Dragon,base_placed,creature,miniboss,c4500,,,,"Smarag and Adula, plus an unnamed Glintstone Dragon on the same model"
+c4503,Borealis the Freezing Fog,base_placed,creature,miniboss,c4500,,,,"Borealis the Freezing Fog, inside the Dragon card"
+c4504,Elder Dragon Greyoll,base_placed,creature,miniboss,c4500,,,,"tested: the largest thing in the game to look at, larger than the Walking Mausoleum despite a smaller hit box. In the world she is stuck in the ground and never moves; summoned, the model animates and behaves normally"
+c4505,Flying Dragon,base_placed,creature,miniboss,c4500,,c4500,,"Agheel and Greyll, plus unnamed Flying Dragons on the same model"
+c4510,Ancient Dragon,base_placed,creature,miniboss,,Ancient Dragon,,,"kept its own card: Lichdragon Fortissax is a re-skin of it by rig and box, and a remembrance boss, so the two stay apart. The Flying Dragon rig was split off 2026-09-11 - these are 7.0x14.1 and run goal 451000, the only models in the game at 14.1"
+c4511,Lichdragon Fortissax,base_placed,creature,boss,,,,,kept its own card: it retargets onto c4510 and is still a remembrance boss; a card takes the lowest role of its members
+c4520,Dragonlord Placidusax,base_placed,creature,boss,,,,,"Dragonlord Placidusax: Remembrance of the Dragonlord, and no other dragon has two heads"
+c4550,Giant Dog,base_placed,creature,enemy,,,,,
+c4560,Giant Crow,base_placed,creature,enemy,,,,,
+c4561,Bloodbane Giant Crow,base_placed,creature,enemy,c4560,,,,Bloodbane is the recoloured Giant Crow; both on the c4560 rig
+c4570,Wormface,base_placed,creature,enemy,,,,,"roams the Altus Plateau; no placement is ever a boss fight - the field boss is the Giant Wormface, c4580"
+c4580,Giant Wormface,base_placed,creature,miniboss,,,,,
+c4600,Troll,base_placed,creature,enemy,,Troll,,,"one troll: the Knight, the Snowfield one and the Stonedigger are all on the c4600 rig at 7.2m, and the variant rows say which. Smithing Master Iji is an NPC and stays out"
+c4601,Troll Knight,base_placed,creature,miniboss,c4600,,,,Carian Knight Bols in an evergaol; Troll Knights guard caravans
+c4602,Snowfield Troll,base_placed,creature,enemy,c4600,,,,
+c4603,Stonedigger Troll,base_placed,creature,miniboss,c4600,,,,
+c4604,Smithing Master Iji,base_placed,person,passive,,,,,
+c4610,,base_unplaced,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it. The strongest of these: 10.0 x 6.5 and 6208 HP could not have been missed"
+c4620,Malformed Stars,base_placed,creature,boss,,"Astel, Naturalborn of the Void",,,"Remembrance of the Naturalborn; met twice on one model, and both fights are offered - the scaling is the choice"
+c4630,Runebear,base_placed,creature,enemy,,,,,roams Limgrave and Liurnia; 1 of 21 placements is a boss fight
+c4640,Ulcerated Tree Spirit,base_placed,creature,miniboss,,,,,"boss of several minor dungeons, and stands in Stormveil and Leyndell"
+c4650,Dragonkin Soldier,base_placed,creature,miniboss,,,,,"Siofra, the Lake of Rot, and Nokstella"
+c4660,Guardian Golem,base_placed,creature,enemy,,,,,guards ruins everywhere; 1 of 41 placements is a boss fight
+c4670,Ancestor Spirit,base_placed,creature,boss,,Ancestor Spirit,,,"Remembrance of the Regal Ancestor; met twice on one model, and both fights are offered"
+c4680,Fallingstar Beast,base_placed,creature,miniboss,,,,,"Sellia Tunnel, the Altus Plateau, Volcano Top and the Hinterland"
+c4690,Grafted Scion,base_placed,creature,miniboss,,,,,
+c4710,Rykard- Lord of Blasphemy,base_placed,creature,boss,,"Rykard, Lord of Blasphemy",,,Remembrance of the Blasphemous
+c4711,Rykard's Corpse,base_placed,scenery,inert,,,,,
+c4720,Godfrey- First Elden Lord,base_placed,creature,boss,,"Godfrey, First Elden Lord",,,"mandatory, and the same model as Hoarah Loux"
+c4721,Hoarah Loux,base_placed,creature,boss,c4720,,,,Remembrance of Hoarah Loux
+c4730,Starscourge Radahn,base_placed,creature,boss,,,,,Remembrance of the Starscourge
+c4750,Godrick the Grafted,base_placed,creature,boss,,Godrick the Grafted,,,"Remembrance of the Grafted; holds Godefroy the Grafted too, a second individual on one model"
+c4751,Godrick - Head and Torso,base_placed,scenery,inert,,,,,
+c4760,Fire Giant,base_placed,creature,boss,,Fire Giant,,,tested: it summons
+c4770,Gargoyle,base_placed,creature,miniboss,,,,,Valiant Gargoyles and three Black Blade Kindred; gargoyles roam Leyndell
+c4800,"Mohg, the Omen",base_placed,creature,boss,,,,,Remembrance of the Blood Lord
+c4810,Erdtree Avatar,base_placed,creature,miniboss,,Erdtree Avatar,,,the Putrid one retargets onto c4810 with the same 1.8x4.6 hit box
+c4811,Putrid Erdtree Avatar,base_placed,creature,miniboss,c4810,,,,"the rotted version, at three more minor erdtrees"
+c4820,Omenkiller,base_placed,creature,enemy,,,,,roams Leyndell; 2 of 14 placements are boss fights
+c4910,Magma Wyrm,base_placed,creature,miniboss,,Magma Wyrm,,,Theodorix retargets onto c4910 and carries the same 6.0x8.0 hit box; c5920 is the DLC reissue
+c4911,Great Wyrm Theodorix,base_placed,creature,miniboss,c4910,,,,"Great Wyrm Theodorix, inside the Magma Wyrm card"
+c4950,Tibia Mariner,base_placed,creature,miniboss,,,,,
+c4960,Giant Skeleton Torso,base_placed,creature,enemy,,,,,"delivered in batch 72 (2026-09-30): the 15345 torso fights with a health bar (B139); the other rises, strikes and sinks back (B140) - the identification runs saw its idle, which holds opacity 0"
+c4980,Death Bird,base_placed,creature,miniboss,,Deathbird,,,Death Bird and Death Rite Bird carry the same 3.0x8.0 hit box
+c5000,Commander Gaius,dlc_c5xxx,creature,boss,,,,,Remembrance of the Wild Boar Rider
+c5010,Golden Hippopotamus,dlc_c5xxx,creature,miniboss,,,,,the Shadow Keep boss; golden hippopotami roam the Realm of Shadow
+c5011,Golden Hippopotamus,dlc_c5xxx,creature,miniboss,c5010,,c5010,,the Shadow Keep boss; golden hippopotami roam the Realm of Shadow
+c5020,Putrescent Knight,dlc_c5xxx,creature,boss,,,,,Remembrance of Putrescence
+c5030,"Romina, Saint of the Bud",dlc_c5xxx,creature,boss,,,,,Remembrance of the Saint of the Bud
+c5040,Curseblade,dlc_c5xxx,creature,enemy,,,,,roams the Shadow Keep; 1 of 18 placements is a boss fight
+c5050,Midra - Human,dlc_c5xxx,creature,boss,,"Midra, Lord of Frenzied Flame",,,Remembrance of the Lord of Frenzied Flame (first phase)
+c5051,"Midra, Lord of Frenzied Flame",dlc_c5xxx,creature,boss,c5050,,,,Remembrance of the Lord of Frenzied Flame
+c5060,Lamprey,dlc_c5xxx,creature,enemy,,,,,
+c5061,Lamprey,dlc_c5xxx,creature,enemy,c5060,,c5060,,
+c5070,Death Knight,dlc_c5xxx,creature,miniboss,,,,,boss of Fog Rift Catacombs and of Scorpion River Catacombs
+c5080,Bloodfiend,dlc_c5xxx,creature,enemy,,,,,"kept its own card: the Chief Bloodfiend is a different enemy, not a larger Bloodfiend"
+c5081,Chief Bloodfiend,dlc_c5xxx,creature,miniboss,,,,,kept its own card: a different enemy from the Bloodfiends it shares the c5080 rig with
+c5090,Gravebird,dlc_c5xxx,creature,enemy,,,,,
+c5110,Ghostly Worm,dlc_c5xxx,creature,enemy,,,,,
+c5120,Bayle the Dread,dlc_c5xxx,creature,boss,,,,,Bayle the Dread: the Heart of Bayle
+c5130,Messmer the Impaler,dlc_c5xxx,creature,boss,,Messmer the Impaler,,,Remembrance of the Impaler
+c5131,Messmer the Impaler,dlc_c5xxx,creature,boss,c5130,,c5130,,Remembrance of the Impaler
+c5132,Messmer the Impaler,dlc_c5xxx,creature,boss,c5130,,c5130,,Remembrance of the Impaler
+c5140,Messmer: Base Serpent,dlc_c5xxx,creature,boss,c5130,,,,Remembrance of the Impaler (second phase)
+c5141,Messmer: Base Serpent,dlc_c5xxx,creature,boss,c5130,,c5140,,Remembrance of the Impaler (second phase)
+c5160,Fire Knight,dlc_c5xxx,creature,enemy,,,,,
+c5170,Furnace Golem,dlc_c5xxx,creature,miniboss,,,,,"tested: it summons, and IT HURTS THE PLAYER WHO SUMMONED IT - its stomp sets the ground alight and the fire burns whoever stands in it. Not teamType, which the clone overwrites with 47 on every summon; see curation/TESTING.md section 10. The formation panel warns on this row"
+c5180,Dummy Entity,dlc_c5xxx,scenery,inert,,,,,
+c5181,Dummy Entity,dlc_c5xxx,scenery,inert,c5180,,c5180,,
+c5190,Spider Scorpion,dlc_c5xxx,creature,enemy,,,,,
+c5192,Spider Scorpion,dlc_c5xxx,creature,enemy,c5190,,c5190,,
+c5193,Spider Scorpion,dlc_c5xxx,creature,enemy,c5190,,c5190,,
+c5200,"Metyr, Mother of Fingers",dlc_c5xxx,creature,boss,,,,,Remembrance of the Mother of Fingers
+c5210,Divine Beast Dancing Lion,dlc_c5xxx,creature,boss,,,,,Remembrance of the Dancing Lion
+c5220,Promised Consort Radahn,dlc_c5xxx,creature,boss,,Promised Consort Radahn,,,Remembrance of a God and a Lord
+c5221,Miquella's Arms,dlc_c5xxx,creature,enemy,,,,,
+c5230,Scadutree Avatar,dlc_c5xxx,creature,boss,,,,,Remembrance of the Shadow Sunflower
+c5240,Commoner,dlc_c5xxx,creature,enemy,c3660,,c3660,,
+c5241,Commoner,dlc_c5xxx,creature,enemy,c3660,,c3660,,
+c5250,Horned Warrior,dlc_c5xxx,creature,enemy,,,,,
+c5251,Horned Shaman,dlc_c5xxx,creature,enemy,,,,,
+c5260,Golem Smith,dlc_c5xxx,creature,enemy,,,,,
+c5270,Jar Innards,dlc_c5xxx,creature,enemy,,,,,"tested: a DLC enemy, a lump of flesh that attacks. Not the contents of a jar"
+c5271,Jar Innards,dlc_c5xxx,creature,enemy,c5270,,c5270,,"tested through c5270: a DLC enemy, not the contents of a jar"
+c5280,Winter-Lantern,dlc_c5xxx,creature,enemy,,,,,
+c5300,"Rellana, Twin Moon Knight",dlc_c5xxx,creature,boss,,,,,Remembrance of the Twin Moon Knight
+c5310,Inquisitor,dlc_c5xxx,creature,enemy,,,,,ordinary DLC enemy; 0 of 3 placements are boss fights
+c5311,Inquisitor,dlc_c5xxx,creature,enemy,c5310,,c5310,,ordinary DLC enemy; 2 of 37 placements are boss fights
+c5312,Inquisitor,dlc_c5xxx,creature,enemy,c5310,,c5310,,ordinary DLC enemy; 1 of 5 placements is a boss fight
+c5320,Fat Inquisitor,dlc_c5xxx,creature,enemy,,,,,
+c5330,St. Trina,dlc_c5xxx,person,passive,,,,,
+c5340,Dummy Entity,dlc_c5xxx,scenery,inert,c5180,,c5180,,
+c5350,Basilisk Eyes,dlc_c5xxx,construct,enemy,,,,,"tested: two floating eyes on a basilisk statue in Scorpion River Catacombs. Cannot be hit by an ordinary weapon and blights anything in sight, so as a summon it is a hazard pointed at the enemy rather than a creature"
+c5360,Giant Beast Skeleton,dlc_c5xxx,creature,enemy,c3510,,,,"NOT a giant: 1.9 x 0.3 against c3061's 2.5 x 0.6, and the regulation states no rig for it, so the same_as c3061 it used to carry was unsupported by both the geometry and the only identity statement the game makes. Witnessed as ordinary armed skeletons - spear, crossbow, scythe, sword and shield, twin scimitars"
+c5370,Ancient Dragon Senessax,dlc_c5xxx,creature,miniboss,c4510,,,,"Ancient Dragon Senessax, inside the Dragon card"
+c5380,Miranda Blossom,dlc_c5xxx,creature,enemy,c4480,,c4480,,ordinary DLC enemy; 0 of 10 placements are boss fights
+c5381,Miranda Sprout,dlc_c5xxx,creature,enemy,c4481,,c4481,,
+c5390,Troll,dlc_c5xxx,creature,enemy,c4600,,c4600,,
+c5391,Troll Knight,dlc_c5xxx,creature,miniboss,c4600,,c4601,,Carian Knight Bols in an evergaol; Troll Knights guard caravans
+c5392,Troll - Unknown,dlc_c5xxx,creature,enemy,c4600,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it. The sixth slot of the disputes group; the other five all appeared"
+c5401,Eagle,dlc_c5xxx,creature,passive,c6001,,c6001,,
+c5410,Deer,dlc_c5xxx,creature,passive,c6010,,c6010,,
+c5421,Red Bear,dlc_c5xxx,creature,enemy,,,,,roams the Realm of Shadow; 0 of 14 placements are boss fights
+c5430,Owl,dlc_c5xxx,creature,passive,c6040,,c6040,,
+c5440,Boar,dlc_c5xxx,creature,passive,c6050,,c6050,,
+c5450,Ram,dlc_c5xxx,creature,enemy,,,,,
+c5460,Murre,dlc_c5xxx,creature,passive,c6070,,c6070,,
+c5470,Dragonfly,dlc_c5xxx,creature,passive,c6080,,c6080,,
+c5471,Yellow Dragonfly,dlc_c5xxx,creature,passive,c6080,,c6081,,
+c5472,Great Dragonfly,dlc_c5xxx,creature,passive,c6080,,c6082,,
+c5480,Turtle,dlc_c5xxx,creature,passive,c6090,,c6090,,
+c5490,Springhare,dlc_c5xxx,creature,passive,c6100,,c6100,,
+c5500,Living Magma,dlc_c5xxx,creature,enemy,,,,,
+c5501,Living Magma,dlc_c5xxx,creature,enemy,c5500,,c5500,,
+c5511,Shade,dlc_c5xxx,creature,enemy,,,,,Cemetary Shade is the same 1.8x0.3 shade
+c5512,Shade,dlc_c5xxx,creature,enemy,c5511,,c5511,,
+c5513,Cemetary Shade,dlc_c5xxx,creature,enemy,c5511,,,,
+c5520,Stray,dlc_c5xxx,creature,enemy,c4160,,c4161,,
+c5521,Stray,dlc_c5xxx,creature,enemy,c4160,,c4161,,
+c5522,Stray,dlc_c5xxx,creature,enemy,c4160,,c4161,,
+c5523,Stray,dlc_c5xxx,creature,enemy,c4160,,c4161,,
+c5524,Braided Stray,dlc_c5xxx,creature,enemy,,,,,
+c5525,Braided Stray,dlc_c5xxx,creature,enemy,c5524,,c5524,,
+c5526,Bloodbane Stray,dlc_c5xxx,creature,enemy,c4160,,c4165,,
+c5527,Bloodbane Stray,dlc_c5xxx,creature,enemy,c4160,,c4165,,
+c5530,Man-Bat,dlc_c5xxx,creature,enemy,c4200,,c4200,,
+c5540,Wolf,dlc_c5xxx,creature,enemy,c4070,,c4070,,
+c5541,Wolf,dlc_c5xxx,creature,enemy,c4070,,c4070,,
+c5550,Fingercreeper,dlc_c5xxx,creature,enemy,c4240,,c4240,,
+c5551,Fingercreeper,dlc_c5xxx,creature,enemy,c4240,,c4240,,
+c5560,Fingercreeper,dlc_c5xxx,creature,enemy,c4240,,c4240,,
+c5570,Marionette Soldier,dlc_c5xxx,creature,enemy,,,,,
+c5580,Jagged Peak Drake,dlc_c5xxx,creature,miniboss,c4500,,,,"the solo drake and the pair, on the Jagged Peak"
+c5581,Jagged Peak Drake,dlc_c5xxx,creature,miniboss,c4500,,c5580,,"the solo drake and the pair, on the Jagged Peak"
+c5590,Putrid Flesh,dlc_c5xxx,creature,enemy,c4170,,c4170,,
+c5591,Putrid Flesh,dlc_c5xxx,creature,enemy,c4170,,c4170,,
+c5600,Catacomb Skeleton,dlc_c5xxx,creature,enemy,c3510,,,,"the catacomb type, 1.9 x 0.3"
+c5620,Tibia Mariner,dlc_c5xxx,creature,miniboss,c4950,,c4950,,
+c5630,Giant Crayfish,dlc_c5xxx,creature,enemy,c4420,,c4420,,
+c5640,Giant Crab,dlc_c5xxx,creature,enemy,c2270,,c2270,,
+c5641,Crab,dlc_c5xxx,creature,passive,c2270,,c2271,,the small crabs are wildlife
+c5651,Messmer Foot Soldier,dlc_c5xxx,creature,enemy,c4371,,,,"joined the Foot Soldier card 2026-09-11: package 56500 against 43700, but the mask bits line up - ""0"" reads knife only and ""0.5"" knife and trumpet exactly as on c4371"
+c5661,Shadow Militia,dlc_c5xxx,creature,enemy,c4321,,c4321,,"joined the Vulgar Militia card 2026-09-13 at the witness as its DLC twin - the same three weapons on the same masks at the same 153 hp. The shadow look is a variant"
+c5670,,dlc_c5xxx,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it"
+c5680,Wheeled Ballista,dlc_c5xxx,creature,enemy,,,,,
+c5690,Dragon-faced Flamethrower,dlc_c5xxx,construct,enemy,c8110,,c8110,,shares c8110's card; expected to be invisible for the same reason
+c5700,Demi-Human,dlc_c5xxx,creature,enemy,c4100,,c4100,,ordinary DLC enemy; 0 of 15 placements are boss fights
+c5701,Demi-Human,dlc_c5xxx,creature,enemy,c4100,,c4100,,ordinary DLC enemy; 0 of 3 placements are boss fights
+c5710,Demi-Human Shaman,dlc_c5xxx,creature,enemy,c4100,,c4110,,
+c5720,Demi-Human Chief,dlc_c5xxx,creature,enemy,c4120,,c4120,,ordinary DLC enemy; 0 of 4 placements are boss fights
+c5730,Demi-Human Queen,dlc_c5xxx,creature,miniboss,c4130,,c4130,,"Demi-Human Queens Gilika, Maggie, Margot and Marigga: four of them is a kind"
+c5740,Kindred of Rot,dlc_c5xxx,creature,enemy,c3810,,c3810,,ordinary DLC enemy; 0 of 34 placements are boss fights
+c5750,Living Jar Warrior,dlc_c5xxx,creature,enemy,c4491,,c4490,,
+c5751,Living Jar,dlc_c5xxx,creature,enemy,c4491,,c4491,,
+c5760,Rat,dlc_c5xxx,creature,enemy,c4080,,c4080,,
+c5761,Giant Rat,dlc_c5xxx,creature,enemy,c4090,,c4090,,
+c5770,,dlc_c5xxx,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it"
+c5780,Runebear,dlc_c5xxx,creature,enemy,c4630,,c4630,,ordinary DLC enemy; 0 of 6 placements are boss fights
+c5790,Guardian Golem,dlc_c5xxx,creature,enemy,c4660,,c4660,,ordinary DLC enemy; 0 of 21 placements are boss fights
+c5800,Crucible Knight Devonia,dlc_c5xxx,creature,miniboss,c2500,,,,Crucible Knight Devonia; the wiki files her as a mini-boss and Crucible Knight is a kind
+c5810,Demi-Human Swordmaster Onze,dlc_c5xxx,creature,miniboss,,,,,"one mausoleum boss, and a Demi-Human Swordmaster with a name: the same shape as Crucible Knight Devonia"
+c5820,Great Red Bear,dlc_c5xxx,creature,miniboss,,,,,"Ralva and Rugalea share one think row: the same fight, region-scaled"
+c5830,Messmer Soldier,dlc_c5xxx,creature,enemy,c4311,,,,"joined the Soldier card 2026-09-11 as a foot troop among foot troops. Its five weapons are its OWN: 10.25.26 is shield, axe and trumpet here against sword and shield on a lord soldier"
+c5840,Black Knight,dlc_c5xxx,creature,enemy,,,,,roams the Realm of Shadow; 2 of 34 placements are boss fights
+c5850,Giant Ram,dlc_c5xxx,creature,enemy,,,,,
+c5860,Ghostflame Dragon,dlc_c5xxx,creature,miniboss,c4500,,,,"Gravesite Plain, the Cerulean Coast and the Moorth Highway"
+c5870,Imp,dlc_c5xxx,creature,enemy,c3080,,c3080,,
+c5871,Imp,dlc_c5xxx,creature,enemy,c3080,,c3080,,
+c5872,Imp,dlc_c5xxx,creature,enemy,c3080,,c3080,,
+c5880,Catacombs Sorcerer,dlc_c5xxx,creature,enemy,,,,,
+c5890,Black Knight Horse,dlc_c5xxx,creature,enemy,,,,,
+c5900,Man-Fly,dlc_c5xxx,creature,enemy,,,,,
+c5910,Hornsent Grandam,dlc_c5xxx,creature,enemy,,,,,
+c5920,Magma Wyrm,dlc_c5xxx,creature,miniboss,c4910,,c4910,,
+c5930,Giant Skeleton,dlc_c5xxx,creature,enemy,c3510,,c3060,,"the DLC re-issue of the base giant, same 2.4 x 0.5"
+c5931,Giant Beast Skeleton,dlc_c5xxx,creature,enemy,c3510,,c3061,,"the DLC re-issue of the base giant beast, same 2.5 x 0.6, and rides c5930's rig exactly as c3061 rides c3060's"
+c5940,Watcher Stones,dlc_c5xxx,creature,enemy,c4430,,c4430,,"tested through c4430: an ordinary enemy, not scenery"
+c5950,Leonine Misbegotten,dlc_c5xxx,creature,miniboss,c3460,,c3460,,
+c5960,Ulcerated Tree Spirit,dlc_c5xxx,creature,miniboss,c4640,,c4640,,
+c5970,Abductor Virgin,dlc_c5xxx,creature,enemy,c4470,,c4470,,ordinary DLC enemy; 0 of 10 placements are boss fights
+c5980,Omenkiller,dlc_c5xxx,creature,enemy,c4820,,c4820,,ordinary DLC enemy; 0 of 8 placements are boss fights
+c5990,Basilisk,dlc_c5xxx,creature,enemy,c4150,,c4150,,
+c6001,Eagle,base_placed,creature,passive,,,,,
+c6010,Deer,base_placed,creature,passive,,,,,
+c6020,,base_unplaced,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it"
+c6031,Bear,base_placed,creature,enemy,,,,,
+c6040,Owl,base_placed,creature,passive,,,,,
+c6050,Boar,base_placed,creature,passive,,,,,
+c6060,Goat,base_placed,creature,passive,,,,,
+c6070,Murre,base_placed,creature,passive,,,,,
+c6072,Carrier Pigeon,base_unplaced,creature,passive,,,,,"tested: it summons, and it runs away when an enemy approaches"
+c6080,Dragonfly,base_placed,creature,passive,,,,,
+c6081,Yellow Dragonfly,base_placed,creature,passive,c6080,,,,
+c6082,Great Dragonfly,base_placed,creature,passive,c6080,,,,Great Dragonfly is the large one; all three on the c6080 rig
+c6090,Turtle,base_placed,creature,passive,,,,,
+c6091,"Miriel, Pastor of Vows",base_placed,person,passive,,,,,a person on the Turtle rig - the case IDENTITY.md quotes
+c6100,Springhare,base_placed,creature,passive,,,,,
+c6200,Scarab,dlc_c62xx,creature,passive,c4190,,,,"the DLC scarabs carry the base ones 1.9x1.0, 1.0x0.6 and 2.9x1.5 boxes exactly"
+c6201,Scarab,dlc_c62xx,creature,passive,c4190,,c6200,,a scarab is wildlife at every size
+c6202,Scarab,dlc_c62xx,creature,passive,c4190,,c6200,,a scarab is wildlife at every size
+c6210,Albinauric Archer,dlc_c62xx,creature,enemy,c3170,,c3170,,
+c6220,Wolf,dlc_c62xx,creature,enemy,c4070,,c4070,,
+c6221,Wolf,dlc_c62xx,creature,enemy,c4070,,c4070,,
+c6231,Perfumer,dlc_c62xx,creature,enemy,c3701,,c3701,,ordinary DLC enemy; 0 of 9 placements are boss fights
+c6232,Glintstone Sorcerer,dlc_c62xx,creature,enemy,c3702,,c3702,,
+c6233,Page,dlc_c62xx,creature,enemy,c3703,,c3703,,
+c6240,Lightning Ball,dlc_c62xx,creature,enemy,c2150,,,,"the DLC Lightning Ball: same 1.5x0.4 box and the same 187 HP as c2150, and nothing else in the catalog pairs that box with that health. It is what produced the one ball the DLC group summoned"
+c6251,Tree Sentinel,dlc_c62xx,creature,miniboss,c3251,,c3251,,"field boss in Limgrave, the Altus Plateau, Leyndell and the Hinterland"
+c6260,Death Rite Bird,dlc_c62xx,creature,miniboss,c4980,,,,"the night bird again, at Charos Hidden Grave"
+c6270,Royal Revenant,dlc_c62xx,creature,enemy,c4020,,c4020,,ordinary DLC enemy; 0 of 9 placements are boss fights
+c6290,Misbegotten,dlc_c62xx,creature,enemy,c3450,,c3450,,
+c6291,Scaly Misbegotten,dlc_c62xx,creature,enemy,c3450,,c3451,,ordinary DLC enemy; 0 of 6 placements are boss fights
+c6300,Snail,dlc_c62xx,creature,enemy,c4140,,c4140,,
+c6310,Fallingstar Beast,dlc_c62xx,creature,miniboss,c4680,,c4680,,"Sellia Tunnel, the Altus Plateau, Volcano Top and the Hinterland"
+c6320,Wandering Noble,dlc_c62xx,creature,enemy,c4300,,c4300,,
+c7000,Fallen Hawks Soldier,base_placed,creature,enemy,,,,,
+c7100,Ancient Hero of Zamor,base_placed,creature,miniboss,,,,,"boss of three graves, in three regions"
+c8000,Torrent,base_unplaced,creature,passive,,,,,the player's mount
+c8002,,unclassified_system,creature,enemy,,,,,
+c8003,,unclassified_system,creature,enemy,,,,,
+c8004,,unclassified_system,creature,enemy,,,,,
+c8005,,unclassified_system,creature,enemy,,,,,
+c8100,Ballista,base_placed,construct,enemy,,,,,"tested: it summons and is PRESENT - it collides and takes damage, and its health bar shows when something hits it - but it draws no model at all"
+c8101,Trebuchet,base_placed,construct,enemy,,,,,"tested: it summons and is PRESENT - it collides and takes damage, and its health bar shows when something hits it - but it draws no model at all; moved from enemy to match c8100 Ballista and c8110, which are the same kind of thing"
+c8110,Dragon-faced Flamethrower,base_placed,construct,enemy,,,,,"tested: it summons and is PRESENT - it collides and takes damage, and its health bar shows when something hits it - but it draws no model at all"
+c8120,Merciless Chariot,base_placed,creature,enemy,,,,,"tested: the dungeon chariot. It chases, it CANNOT BE KILLED - not by the player and not by another summon - and it runs over the player who summoned it as it turns. The formation panel warns on this row"
+c8901,Beast Clergyman / Maliketh- the Black Blade,base_unplaced,creature,boss,c2110,,,,Remembrance of the Black Blade
+c8999,,unclassified_system,creature,enemy,,,,,
+c9000,,unclassified_system,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it"
+c9001,Human,unclassified_system,person,inert,,,,,
+c9002,,unclassified_system,creature,enemy,,,,,
+c9008,,unclassified_system,creature,enemy,,,,,
+c9009,,unclassified_system,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it"
+c9051,,unclassified_system,creature,enemy,,,,,
+c9220,,unclassified_system,creature,enemy,,,,no,"tested: authored into a slot and NOT DELIVERED. No model, nothing to collide with, and an enemy brought alongside neither attacked it nor was attacked by it"
+c9500,,unclassified_system,creature,enemy,,,,,
+c9501,,unclassified_system,creature,enemy,,,,,
+c9502,,unclassified_system,creature,enemy,,,,,
+c9503,,unclassified_system,creature,enemy,,,,,
+c9509,,unclassified_system,creature,enemy,,,,,
