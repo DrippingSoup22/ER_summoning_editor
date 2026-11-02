@@ -1,7 +1,8 @@
 #!/bin/sh
 # Build the Linux release on Linux (WSL will do):
 # dist/ER-Summoning-Editor-linux-amd64-<version>.zip, one folder holding the
-# desktop editor, its icon, the command line, the README and the licences.
+# desktop editor, its icon, the README and the licences. The command line is
+# left out, as scripts/build-windows.sh explains.
 #
 #   VERSION=1.0.0 sh scripts/build-linux.sh
 #
@@ -39,8 +40,6 @@ fi
 CGO_ENABLED=1 go build -trimpath -buildvcs=false \
     -ldflags "-s -w -X gioui.org/app.ID=io.github.DrippingSoup22.ERSummoningEditor" \
     -o "$bundle/ERSummoningEditor" ./cmd/ersummoneditorgui
-CGO_ENABLED=0 go build -trimpath -buildvcs=false -ldflags "-s -w" \
-    -o "$bundle/ersummoneditor" ./cmd/ersummoneditor
 install -m 644 packaging/windows/icon.png "$bundle/ERSummoningEditor.png"
 install -m 644 README.md LICENSE THIRD_PARTY_NOTICES.md "$bundle/"
 

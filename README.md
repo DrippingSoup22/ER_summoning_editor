@@ -190,6 +190,8 @@ full screen and icon sizes, and the switches that apply to every Ash.
 ## Command line
 
 `ersummoneditor` writes formations, conversions and resets without the window.
+It is not in the release zips: build it from source with
+`go build ./cmd/ersummoneditor` (see [Building from source](#building-from-source)).
 Every command refuses to write over its input, writes atomically, and reopens
 and verifies the output; `-dry-run` shows the plan and writes nothing, and
 `-list` prints every Ash.
@@ -238,6 +240,7 @@ it, and the first build may also need to download module dependencies.
 VERSION=1.0.0 sh scripts/build-windows.sh   # dist/ER-Summoning-Editor-windows-amd64-1.0.0.zip
 VERSION=1.0.0 sh scripts/build-linux.sh     # on Linux: dist/ER-Summoning-Editor-linux-amd64-1.0.0.zip
 go run ./cmd/ersummoneditorgui              # the desktop editor, directly
+go build ./cmd/ersummoneditor               # the command line
 go vet ./... && go test ./...
 ```
 

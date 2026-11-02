@@ -1,7 +1,9 @@
 #!/bin/sh
 # Build the Windows release: dist/ER-Summoning-Editor-windows-amd64-<version>.zip,
-# one folder holding the desktop editor, the command line, the README and the
-# licences. VERSION names it (1.2.3 or v1.2.3).
+# one folder holding the desktop editor, the README and the licences. The
+# command line is left out: players need only the window, and anyone who wants
+# it builds it with `go build ./cmd/ersummoneditor`. VERSION names the release
+# (1.2.3 or v1.2.3).
 #
 #   VERSION=1.0.0 sh scripts/build-windows.sh
 #
@@ -65,8 +67,6 @@ fi
 CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -trimpath -buildvcs=false \
     -ldflags "-H windowsgui -s -w -X gioui.org/app.ID=io.github.DrippingSoup22.ERSummoningEditor" \
     -o "$bundle/ERSummoningEditor.exe" ./cmd/ersummoneditorgui
-CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -trimpath -buildvcs=false \
-    -ldflags "-s -w" -o "$bundle/ersummoneditor.exe" ./cmd/ersummoneditor
 cp README.md LICENSE THIRD_PARTY_NOTICES.md "$bundle/"
 
 go run github.com/DrippingSoup22/ER_shared/releasezip -root "$bundle" -out "$archive"
